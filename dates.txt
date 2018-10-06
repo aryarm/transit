@@ -68,8 +68,6 @@
 	San Dieguito Double Track (+ Station @ Del Mar Fair!)?
 	Sorrento to Miramar Phase 2?
 	Voigt Drive/I-5 DARs (Direct Access Ramps)
---2063--
-	High Desert Corridor (connect Palmdale to Victorville via Freeway + HSR)
 --2040--
 	CA High Speed Rail to San Diego
 --2051 (could be accelerated)--
@@ -78,3 +76,5 @@
 	Sepulveda Pass Phase 3 (Westwood to LAX)
 --2060s--
 	Vermont BRT to Rail Conversion
+--2067--
+	High Desert Corridor (connect Palmdale to Victorville via Freeway + HSR)
