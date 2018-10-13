@@ -52,6 +52,7 @@
 --2025--
 	Foothill Gold Line Extension Phase 2B
 	Purple Line Extension Phase 2
+	Orange Line BRT Improvements
 --2026--
 	Purple Line Extension Phase 3
 --2027--
