@@ -1,11 +1,11 @@
 # Southern California Transit Projects
 
-#### Delayed Indefinitely
+### Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS released](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
-#### 2018
-##### Winter
+### 2018
+#### Winter
 - Phase II of Vermont Corridor EIS released
-##### November
+#### November
 - Elvira to Morena Double Track
 #### 2019
 - Link US Draft EIS released
@@ -14,15 +14,15 @@
 - Construction on Las Vegas High Speed Rail begins
 - Inglewood Transit Connector Final EIR
 - San Diego River Double Track
-##### Jan to April
+#### Jan to April
 - Temporary Shutdown and Rebuild of Blue Line
-##### Spring
+#### Spring
 - Gilman Drive Bridge
-##### May
+#### May
 - Batiquitos Lagoon Double Track?
-##### Summer/Fall
+#### Summer/Fall
 - Sepulveda Transit Corridor EIS released
-##### Fall/Winter
+#### Fall/Winter
 - CAHSR Burbank to LA Final EIS released
 - San Elijo Lagoon Double Track Project
 #### 2020
@@ -31,17 +31,17 @@
 - OC Streetcar
 - Poinsettia Station Improvements
 - North Oceanside Double Track?
-##### Spring
+#### Spring
 - North Hollywood to Pasadena BRT Draft EIR released
-##### Summer
+#### Summer
 - CAHSR LA to Anaheim Final EIS released
-##### Fall
+#### Fall
 - North Hollywood to Pasadena BRT Final EIR released
 - North Torrey Pines Living and Learning Community
 #### 2021
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - San Diego Mid Coast Trolley
-##### Early
+#### Early
 - CAHSR Burbank to LA Final EIS released
 #### 2022
 - Dodger Stadium Aerial Tram (to US)
