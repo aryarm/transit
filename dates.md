@@ -48,8 +48,6 @@
 ### 2021
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - San Diego Mid Coast Trolley
-#### Early
-- CAHSR Burbank to LA Final EIS released
 ### 2022
 - Dodger Stadium Aerial Tram (to US)
 - [Las Vegas High Speed Rail](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
