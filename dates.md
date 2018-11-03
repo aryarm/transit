@@ -38,6 +38,8 @@
 #### Fall
 - North Hollywood to Pasadena BRT Final EIR released
 - North Torrey Pines Living and Learning Community
+#### December
+- [LA Streetcar](http://streetcar.la/project-info/timeline/)
 ### 2021
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - San Diego Mid Coast Trolley
