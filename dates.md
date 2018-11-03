@@ -1,40 +1,45 @@
 # Southern California Transit Projects
 
 ### Delayed Indefinitely
-- [Green Line Extension to Metrolink EIS released](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
+- [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 ### 2018
-#### Winter
-- Phase II of Vermont Corridor EIS released
 #### November
-- Elvira to Morena Double Track
+- [Elvira to Morena Double Track](http://lossanmap.sandag.org/#)
+#### Winter
+- [CAHSR LA to Anaheim Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)?
 ### 2019
-- Link US Draft EIS released
+- [Link US Draft EIS](https://www.metro.net/projects/link-us/environmental-review/)
+- [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
 - [Crenshaw/LAX Line](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- West Santa Ana Branch EIS released
-- Construction on Las Vegas High Speed Rail begins
-- Inglewood Transit Connector Final EIR
-- San Diego River Double Track
-#### Jan to April
-- Temporary Shutdown and Rebuild of Blue Line
+- [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
+- [San Diego River Double Track](https://www.keepsandiegomoving.com/Lossan-Group/san_diego_river_double_track_schedule.aspx)
+#### Jan to September
+- [Temporary Shutdown and Rebuild of Blue Line](https://la.curbed.com/2018/3/26/17153130/blue-line-closure-upgrades)
 #### Spring
-- Gilman Drive Bridge
+- [Gilman Drive Bridge](https://www.keepsandiegomoving.com/I-5-Corridor/gilman-drive-bridge-schedule-and-budget.aspx)
 #### May
-- Batiquitos Lagoon Double Track?
+- [Batiquitos Lagoon Double Track](http://lossanmap.sandag.org/#)?
+#### Spring/Summer
+- [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf)
 #### Summer/Fall
-- Sepulveda Transit Corridor EIS released
+- [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/)
+#### Fall
+- [CAHSR Burbank to LA Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### Fall/Winter
-- CAHSR Burbank to LA Final EIS released
-- San Elijo Lagoon Double Track Project
+- [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
+#### Late
+- [San Elijo Lagoon Double Track Project](https://www.keepsandiegomoving.com/Lossan-Group/san_elijo_lagoon_double_track_schedule.aspx)
 ### 2020
 - Sixth Street Viaduct
 - Willowbrook/Rosa Parks Station Improvements
 - OC Streetcar
 - Poinsettia Station Improvements
 - North Oceanside Double Track?
+- [West Santa Ana Branch EIS](https://www.metro.net/projects/west-santa-ana/faq/)
 #### Spring
 - North Hollywood to Pasadena BRT Draft EIR released
 #### Summer
-- CAHSR LA to Anaheim Final EIS released
+- [CAHSR Burbank to LA Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### Fall
 - North Hollywood to Pasadena BRT Final EIR released
 - North Torrey Pines Living and Learning Community
@@ -47,7 +52,7 @@
 - CAHSR Burbank to LA Final EIS released
 ### 2022
 - Dodger Stadium Aerial Tram (to US)
-- Las Vegas High Speed Rail
+- [Las Vegas High Speed Rail](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [North Hollywood to Pasadena BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 ### 2023
 - [LAX People Mover and Connector Station](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
