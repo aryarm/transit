@@ -13,6 +13,7 @@
 - [Crenshaw/LAX Line](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [San Diego River Double Track](https://www.keepsandiegomoving.com/Lossan-Group/san_diego_river_double_track_schedule.aspx)
+- [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
 #### Jan to September
 - [Temporary Shutdown and Rebuild of Blue Line](https://la.curbed.com/2018/3/26/17153130/blue-line-closure-upgrades)
 #### Spring
