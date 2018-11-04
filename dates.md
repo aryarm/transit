@@ -47,7 +47,7 @@
 #### December
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
 ### 2021
-- OC Streetcar(http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
+- [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - San Diego Mid Coast Trolley
 ### 2022
