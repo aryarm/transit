@@ -49,9 +49,9 @@
 ### 2021
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- San Diego Mid Coast Trolley
+- [San Diego Mid Coast Trolley](https://www.keepsandiegomoving.com/Mid-coast/midcoast-intro.aspx)
 ### 2022
-- Dodger Stadium Aerial Tram (to US)
+- [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
 - [Las Vegas High Speed Rail](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [North Hollywood to Pasadena BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 ### 2023
