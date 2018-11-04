@@ -31,7 +31,7 @@
 #### Late
 - [San Elijo Lagoon Double Track Project](https://www.keepsandiegomoving.com/Lossan-Group/san_elijo_lagoon_double_track_schedule.aspx)
 ### 2020
-- [Poinsettia Station Improvements](https://www.keepsandiegomoving.com/Lossan-Group/Poinsettia_Station_Improvements_schedule.aspx)
+- [Poinsettia Station Improvements](https://www.keepsandiegomoving.com/Lossan-group/Poinsettia_Station_Improvements/Poinsettia_Station_Improvements_intro.aspx)
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
 - [West Santa Ana Branch EIS](https://www.metro.net/projects/west-santa-ana/faq/)
 #### Spring
