@@ -60,8 +60,9 @@
 - [LAX People Mover and Connector Station](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Purple Line Extension Phase 1](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [North San Fernando Valley BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
+### 2024
+- [Foothill Gold Line Extension Phase 2B to La Verne](https://foothillgoldline.org/wp-content/uploads/2018/11/2018-11-12-FINAL-FACT-SHEET-AND-FAQs.pdf)
 ### 2025
-- [Foothill Gold Line Extension Phase 2B](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Purple Line Extension Phase 2](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Orange Line BRT Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [LA River Bike Path](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
@@ -73,6 +74,7 @@
 - CAHSR Bakersfield to Madera
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 ### 2028
+- [Foothill Gold Line Extension Phase 2B to Montclair](https://foothillgoldline.org/wp-content/uploads/2018/11/2018-11-12-FINAL-FACT-SHEET-AND-FAQs.pdf)
 - [Blue Line Signal and Washington/Flower Junction Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Vermont Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - Sepulveda Pass Phase 2 (San Fernando Valley to Westwood)
