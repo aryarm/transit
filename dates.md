@@ -10,7 +10,6 @@
 ### 2019
 - [Link US Draft EIS](https://www.metro.net/projects/link-us/environmental-review/)
 - [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
-- [Crenshaw/LAX Line](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [San Diego River Double Track](https://www.keepsandiegomoving.com/Lossan-Group/san_diego_river_double_track_schedule.aspx)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
@@ -32,6 +31,7 @@
 #### Late
 - [San Elijo Lagoon Double Track Project](https://www.keepsandiegomoving.com/Lossan-Group/san_elijo_lagoon_double_track_schedule.aspx)
 ### 2020
+- [Crenshaw/LAX Line](https://la.curbed.com/2018/11/16/18097780/metro-crenshaw-lax-line-opening-date-2020-delay)
 - [Poinsettia Station Improvements](https://www.keepsandiegomoving.com/Lossan-group/Poinsettia_Station_Improvements/Poinsettia_Station_Improvements_intro.aspx)
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
 - [West Santa Ana Branch EIS](https://www.metro.net/projects/west-santa-ana/faq/)
