@@ -4,10 +4,11 @@
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 ### 2018
 #### November
-- [Elvira to Morena Double Track](http://lossanmap.sandag.org/#)
 #### Winter
 - [CAHSR LA to Anaheim Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)?
 ### 2019
+- [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
+- [Batiquitos Lagoon Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
 - [Link US Draft EIS](https://www.metro.net/projects/link-us/environmental-review/)
 - [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
@@ -18,7 +19,6 @@
 #### Spring
 - [Gilman Drive Bridge](https://www.keepsandiegomoving.com/I-5-Corridor/gilman-drive-bridge-schedule-and-budget.aspx)
 #### May
-- [Batiquitos Lagoon Double Track](http://lossanmap.sandag.org/#)?
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/globalassets/station-detail-pages/2017-_van-nuys-presentation--final.pdf)
 #### Spring/Summer
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf)
@@ -31,8 +31,8 @@
 #### Late
 - [San Elijo Lagoon Double Track Project](https://www.keepsandiegomoving.com/Lossan-Group/san_elijo_lagoon_double_track_schedule.aspx)
 ### 2020
+- [Elvira to Morena Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
 - [Crenshaw/LAX Line](https://la.curbed.com/2018/11/16/18097780/metro-crenshaw-lax-line-opening-date-2020-delay)
-- [Poinsettia Station Improvements](https://www.keepsandiegomoving.com/Lossan-group/Poinsettia_Station_Improvements/Poinsettia_Station_Improvements_intro.aspx)
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
 - [West Santa Ana Branch EIS](https://www.metro.net/projects/west-santa-ana/faq/)
 #### Spring
@@ -56,6 +56,7 @@
 - [Las Vegas High Speed Rail](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [North Hollywood to Pasadena BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf)
+- [San Onofre to Pulgas Double Track Phase 2](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
 ### 2023
 - [LAX People Mover and Connector Station](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Purple Line Extension Phase 1](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
