@@ -3,7 +3,6 @@
 ### Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 ### 2018
-#### November
 #### Winter
 - [CAHSR LA to Anaheim Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)?
 ### 2019
@@ -41,7 +40,7 @@
 - [CAHSR Burbank to LA Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### Fall
 - North Hollywood to Pasadena BRT Final EIR released
-- North Torrey Pines Living and Learning Community
+- [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
 #### Late
 - [Sixth Street Viaduct](https://la.curbed.com/2018/3/16/17129192/la-sixth-street-bridge-construction-101-freeway)
 - [Willowbrook/Rosa Parks Station Improvement](https://la.curbed.com/2018/8/27/17786896/blue-line-metro-los-angeles-willowbrook-station)
