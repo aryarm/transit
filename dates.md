@@ -31,11 +31,12 @@
 - [San Elijo Lagoon Double Track Project](https://www.keepsandiegomoving.com/Lossan-Group/san_elijo_lagoon_double_track_schedule.aspx)
 ### 2020
 - [Elvira to Morena Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
-- [Crenshaw/LAX Line](https://la.curbed.com/2018/11/16/18097780/metro-crenshaw-lax-line-opening-date-2020-delay)
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
 - [West Santa Ana Branch EIS](https://www.metro.net/projects/west-santa-ana/faq/)
 #### Spring
 - North Hollywood to Pasadena BRT Draft EIR released
+#### Early Summer
+- [Crenshaw/LAX Line](https://www.masstransitmag.com/news/12437249/metros-2-billion-rail-line-from-mid-city-to-the-south-bay-will-miss-its-2019-deadline)
 #### Summer
 - [CAHSR Burbank to LA Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### Fall
