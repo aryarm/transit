@@ -28,6 +28,7 @@
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### Late
+- Cesar E Chavez Av Bus Stop Improvement
 - [San Elijo Lagoon Double Track Project](https://www.keepsandiegomoving.com/Lossan-Group/san_elijo_lagoon_double_track_schedule.aspx)
 ### 2020
 - [Elvira to Morena Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
