@@ -2,9 +2,6 @@
 
 ### Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
-### 2018
-#### Winter
-- [CAHSR LA to Anaheim Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)?
 ### 2019
 - [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
 - [Batiquitos Lagoon Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
@@ -13,6 +10,8 @@
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [San Diego River Double Track](https://www.keepsandiegomoving.com/Lossan-Group/san_diego_river_double_track_schedule.aspx)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
+#### Winter
+- [CAHSR LA to Anaheim Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)?
 #### Jan to September
 - [Temporary Shutdown and Rebuild of Blue Line](https://la.curbed.com/2018/3/26/17153130/blue-line-closure-upgrades)
 #### Spring
@@ -28,20 +27,19 @@
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### Late
-- Cesar E Chavez Av Bus Stop Improvement
 - [San Elijo Lagoon Double Track Project](https://www.keepsandiegomoving.com/Lossan-Group/san_elijo_lagoon_double_track_schedule.aspx)
 ### 2020
 - [Elvira to Morena Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
 - [West Santa Ana Branch EIS](https://www.metro.net/projects/west-santa-ana/faq/)
-#### Spring
-- North Hollywood to Pasadena BRT Draft EIR released
+#### Early
+- [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
 #### Early Summer
 - [Crenshaw/LAX Line](https://www.masstransitmag.com/news/12437249/metros-2-billion-rail-line-from-mid-city-to-the-south-bay-will-miss-its-2019-deadline)
 #### Summer
 - [CAHSR Burbank to LA Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### Fall
-- North Hollywood to Pasadena BRT Final EIR released
+- [North Hollywood to Pasadena BRT Draft and Final EIRs released](https://www.metro.net/projects/noho-pasadena-corridor/)
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
 #### Late
 - [Sixth Street Viaduct](https://la.curbed.com/2018/3/16/17129192/la-sixth-street-bridge-construction-101-freeway)
@@ -73,8 +71,9 @@
 - [Purple Line Extension Phase 3](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 ### 2027
 - [East San Fernando Valley Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- CAHSR Bakersfield to Madera
+- [CAHSR Bakersfield to Madera](https://www.spur.org/news/2018-03-28/california-high-speed-rail-under-construction-and-moving-forward)
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
+- [Carlsbad Village Double Track](http://www.ci.encinitas.ca.us/Portals/0/City%20Documents/Documents/Development%20Services/Planning/Advanced%20Planning/CMLS/LOSSAN%20SD%20CBVDT%20Trench%20Feasibility%20Study.pdf#%5B%7B%22num%22%3A138%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C699%2C0%5D)
 ### 2028
 - [Foothill Gold Line Extension Phase 2B to Montclair](https://foothillgoldline.org/wp-content/uploads/2018/11/2018-11-12-FINAL-FACT-SHEET-AND-FAQs.pdf)
 - [Blue Line Signal and Washington/Flower Junction Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
@@ -83,17 +82,16 @@
 - [Gold Line Eastside Extension to Whittier or South El Monte](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [West Santa Ana Branch](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 ### 2030
-- Carlsbad Village Double Track?
-- San Dieguito Double Track (+ Station @ Del Mar Fair!)?
-- Sorrento to Miramar Phase 2?
-- Voigt Drive/I-5 DARs (Direct Access Ramps)
+- [San Dieguito Double Track (+ Station @ Del Mar Fair)](https://www.keepsandiegomoving.com/Lossan-Group/san_dieguito_schedule.aspx)
+- [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
+- [Voigt Drive/I-5 DARs (Direct Access Ramps)?](http://onthego.ucsd.edu/projects/i5-express.html)
 ### 2040
 - CA High Speed Rail to San Diego
 ### 2051 (could be accelerated)
-- Orange Line BRT Conversion to LRT
+- [Orange Line BRT Conversion to LRT](https://la.curbed.com/2018/7/26/17617240/orange-line-improvements-travel-times-approved)
 ### 2057
-- Sepulveda Pass Phase 3 (Westwood to LAX)
+- [Sepulveda Pass Phase 3 (Westwood to LAX)](https://archpaper.com/2018/06/la-metro-link-san-fernando-valley-westwood-lax/)
 ### 2060s
-- Vermont BRT to Rail Conversion
+- [Vermont BRT to Rail Conversion](https://la.curbed.com/2018/5/7/17317100/los-angeles-subway-vermont-rail)
 ### 2067
-- High Desert Corridor (connect Palmdale to Victorville via Freeway + HSR)
+- [High Desert Corridor (connect Palmdale to Victorville via Freeway + HSR)](https://thesource.metro.net/2016/04/15/potential-ballot-measure-what-you-need-to-know-about-the-high-desert-corridor-2/)
