@@ -4,7 +4,6 @@
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 ### 2019
 - [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
-- [Batiquitos Lagoon Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG1.png)
 - [Link US Draft EIS](https://www.metro.net/projects/link-us/environmental-review/)
 - [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
@@ -51,6 +50,7 @@
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [San Diego Mid Coast Trolley](https://www.keepsandiegomoving.com/Mid-coast/midcoast-intro.aspx)
 ### 2022
+- [Batiquitos Lagoon Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG2.png)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
 - [Las Vegas High Speed Rail](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [North Hollywood to Pasadena BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
