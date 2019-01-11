@@ -49,6 +49,8 @@
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [San Diego Mid Coast Trolley](https://www.keepsandiegomoving.com/Mid-coast/midcoast-intro.aspx)
+#### February
+- [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/Laguna-Niguel-San-Juan-Capistrano-Passing-Siding-Project/?frm=10759#!Details)
 ### 2022
 - [Batiquitos Lagoon Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG2.png)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
@@ -78,7 +80,7 @@
 - [Foothill Gold Line Extension Phase 2B to Montclair](https://foothillgoldline.org/wp-content/uploads/2018/11/2018-11-12-FINAL-FACT-SHEET-AND-FAQs.pdf)
 - [Blue Line Signal and Washington/Flower Junction Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Vermont Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- Sepulveda Pass Phase 2 (San Fernando Valley to Westwood)
+- [Sepulveda Pass Phase 1 (San Fernando Valley to Westwood)](https://la.curbed.com/2018/6/12/17455886/sepulveda-pass-metro-transit-monorail-subway)
 - [Gold Line Eastside Extension to Whittier or South El Monte](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [West Santa Ana Branch](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 ### 2030
@@ -86,11 +88,11 @@
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
 - [Voigt Drive/I-5 DARs (Direct Access Ramps)?](http://onthego.ucsd.edu/projects/i5-express.html)
 ### 2040
-- CA High Speed Rail to San Diego
+- [CA High Speed Rail to San Diego and Los Angeles](http://www.dot.ca.gov/californiarail/)
 ### 2051 (could be accelerated)
 - [Orange Line BRT Conversion to LRT](https://la.curbed.com/2018/7/26/17617240/orange-line-improvements-travel-times-approved)
 ### 2057
-- [Sepulveda Pass Phase 3 (Westwood to LAX)](https://archpaper.com/2018/06/la-metro-link-san-fernando-valley-westwood-lax/)
+- [Sepulveda Pass Phase 2 (Westwood to LAX)](https://archpaper.com/2018/06/la-metro-link-san-fernando-valley-westwood-lax/)
 ### 2060s
 - [Vermont BRT to Rail Conversion](https://la.curbed.com/2018/5/7/17317100/los-angeles-subway-vermont-rail)
 ### 2067
