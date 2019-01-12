@@ -7,7 +7,6 @@
 - [Link US Draft EIS](https://www.metro.net/projects/link-us/environmental-review/)
 - [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
-- [San Diego River Double Track](https://www.keepsandiegomoving.com/Lossan-Group/san_diego_river_double_track_schedule.aspx)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
 #### Winter
 - [CAHSR LA to Anaheim Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)?
@@ -23,18 +22,21 @@
 - [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/)
 #### Fall
 - [CAHSR Burbank to LA Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)
+#### September
+- [San Diego River Double Track](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
+#### October
+- [San Elijo Lagoon Double Track Project](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
-#### Late
-- [San Elijo Lagoon Double Track Project](https://www.keepsandiegomoving.com/Lossan-Group/san_elijo_lagoon_double_track_schedule.aspx)
 ### 2020
-- [Elvira to Morena Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
 - [West Santa Ana Branch EIS](https://www.metro.net/projects/west-santa-ana/faq/)
 #### Early
 - [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
 #### Early Summer
 - [Crenshaw/LAX Line](https://www.masstransitmag.com/news/12437249/metros-2-billion-rail-line-from-mid-city-to-the-south-bay-will-miss-its-2019-deadline)
+#### July
+- [Elvira to Morena Double Track](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
 #### Summer
 - [CAHSR Burbank to LA Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### Fall
@@ -45,12 +47,11 @@
 - [Willowbrook/Rosa Parks Station Improvement](https://la.curbed.com/2018/8/27/17786896/blue-line-metro-los-angeles-willowbrook-station)
 #### December
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
+- [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
 ### 2021
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [San Diego Mid Coast Trolley](https://www.keepsandiegomoving.com/Mid-coast/midcoast-intro.aspx)
-#### February
-- [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/Laguna-Niguel-San-Juan-Capistrano-Passing-Siding-Project/?frm=10759#!Details)
 ### 2022
 - [Batiquitos Lagoon Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
