@@ -4,12 +4,12 @@
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 ### 2019
 - [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
-- [Link US Draft EIS](https://www.metro.net/projects/link-us/environmental-review/)
-- [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
 #### Winter
 - [CAHSR LA to Anaheim Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)?
+#### January
+- [Link US Draft EIS](https://www.metro.net/projects/link-us/environmental-review/)
 #### Jan to September
 - [Temporary Shutdown and Rebuild of Blue Line](https://la.curbed.com/2018/3/26/17153130/blue-line-closure-upgrades)
 #### Spring
@@ -18,6 +18,8 @@
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/globalassets/station-detail-pages/2017-_van-nuys-presentation--final.pdf)
 #### Spring/Summer
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf)
+#### Summer
+- [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
 #### Summer/Fall
 - [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/)
 #### Fall
