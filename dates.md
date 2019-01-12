@@ -54,6 +54,8 @@
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [San Diego Mid Coast Trolley](https://www.keepsandiegomoving.com/Mid-coast/midcoast-intro.aspx)
+#### Mid
+- [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
 ### 2022
 - [Batiquitos Lagoon Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
