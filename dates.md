@@ -3,7 +3,6 @@
 ### Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 ### 2019
-- [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
 #### Winter
@@ -30,6 +29,8 @@
 - [San Elijo Lagoon Double Track Project](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
+#### December
+- [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
 ### 2020
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
 - [West Santa Ana Branch EIS](https://www.metro.net/projects/west-santa-ana/faq/)
