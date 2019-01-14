@@ -78,6 +78,7 @@
 ### 2026
 - [Purple Line Extension Phase 3](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 ### 2027
+- [Green Line LRT Extension to Torrance](http://media.metro.net/projects_studies/resources/images/att_a_28x28_list.pdf)
 - [East San Fernando Valley Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [CAHSR Bakersfield to Madera](https://www.spur.org/news/2018-03-28/california-high-speed-rail-under-construction-and-moving-forward)
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
