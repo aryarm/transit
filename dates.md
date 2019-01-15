@@ -13,6 +13,8 @@
 - [Temporary Shutdown and Rebuild of Blue Line](https://la.curbed.com/2018/3/26/17153130/blue-line-closure-upgrades)
 #### Spring
 - [Gilman Drive Bridge](https://www.keepsandiegomoving.com/I-5-Corridor/gilman-drive-bridge-schedule-and-budget.aspx)
+#### April
+- [Patsaouras Plaza Busway](http://libraryarchives.metro.net/DPGTL/StatusReports/2018-june-patsaouras-plaza-busway-station.pdf#page=4)
 #### May
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/globalassets/station-detail-pages/2017-_van-nuys-presentation--final.pdf)
 #### Spring/Summer
