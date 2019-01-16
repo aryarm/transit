@@ -19,6 +19,8 @@
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/globalassets/station-detail-pages/2017-_van-nuys-presentation--final.pdf)
 #### Spring/Summer
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf)
+#### July
+- [CAHSR Bakersfield to Palmdale Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### Summer
 - [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
 #### Summer/Fall
@@ -27,11 +29,13 @@
 - [CAHSR Burbank to LA Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### September
 - [San Diego River Double Track](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
+- [CAHSR Burbank to Los Angeles Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### October
 - [San Elijo Lagoon Double Track Project](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### December
+- [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 - [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
 ### 2020
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
