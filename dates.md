@@ -73,6 +73,7 @@
 - [North San Fernando Valley BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 ### 2024
 - [Foothill Gold Line Extension Phase 2B to La Verne](https://foothillgoldline.org/wp-content/uploads/2018/11/2018-11-12-FINAL-FACT-SHEET-AND-FAQs.pdf)
+- [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
 ### 2025
 - [Purple Line Extension Phase 2](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Orange Line BRT Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
