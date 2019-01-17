@@ -7,10 +7,10 @@
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
 #### Winter
 - [CAHSR LA to Anaheim Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)?
-#### January
+#### January 17
 - [Link US Draft EIS](https://www.metro.net/projects/link-us/environmental-review/)
-#### Jan to September
-- [Temporary Shutdown and Rebuild of Blue Line](https://la.curbed.com/2018/3/26/17153130/blue-line-closure-upgrades)
+#### Jan 25 to Late May
+- [Temporary Shutdown and Rebuild of Blue Line](https://www.metro.net/projects/new-blue-line-improvements/)
 #### Spring
 - [Gilman Drive Bridge](https://www.keepsandiegomoving.com/I-5-Corridor/gilman-drive-bridge-schedule-and-budget.aspx)
 #### April
