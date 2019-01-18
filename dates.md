@@ -102,6 +102,7 @@
 ### 2029
 - [CAHSR Silicon Valley to Central Valley Line (San Francisco to Bakersfield)](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=9)
 ### 2030
+- [Sprinter (Oceanside-Escondido) Double Tracking](https://www.sandag.org/uploads/2050RTP/F2050rtp_all.pdf#page=226)
 - [San Dieguito Double Track (+ Station @ Del Mar Fair)](https://www.keepsandiegomoving.com/Lossan-Group/san_dieguito_schedule.aspx)
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
 - [Voigt Drive/I-5 DARs (Direct Access Ramps)?](http://onthego.ucsd.edu/projects/i5-express.html)
