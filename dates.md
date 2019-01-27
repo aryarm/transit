@@ -6,7 +6,7 @@
 ### 2019
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-#### Feb
+#### Feb 7
 - [Gilman Drive Bridge](https://onthego.ucsd.edu/projects/gilman-bridge.html)
 #### Spring
 - [San Elijo Lagoon Double Track Project](https://www.thecoastnews.com/chesterfield-drive-re-opens-project-nears-completion/)
