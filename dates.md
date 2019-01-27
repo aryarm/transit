@@ -2,16 +2,14 @@
 
 ### Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
+- [CAHSR LA to Anaheim Draft EIS](http://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 ### 2019
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-#### Winter
-- [CAHSR LA to Anaheim Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)?
-#### Jan 25 to Late May
-- [Temporary Shutdown and Rebuild of Blue Line](https://www.metro.net/projects/new-blue-line-improvements/)
+#### Feb
+- [Gilman Drive Bridge](https://onthego.ucsd.edu/projects/gilman-bridge.html)
 #### Spring
 - [San Elijo Lagoon Double Track Project](https://www.thecoastnews.com/chesterfield-drive-re-opens-project-nears-completion/)
-- [Gilman Drive Bridge](https://www.keepsandiegomoving.com/I-5-Corridor/gilman-drive-bridge-schedule-and-budget.aspx)
 #### April
 - [Patsaouras Plaza Busway](http://libraryarchives.metro.net/DPGTL/StatusReports/2018-june-patsaouras-plaza-busway-station.pdf#page=4)
 #### May
@@ -27,6 +25,7 @@
 #### Fall
 - [CAHSR Burbank to LA Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### September
+- [New Blue Line](https://www.metro.net/projects/new-blue-line-improvements/)
 - [San Diego River Double Track](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
 - [CAHSR Burbank to Los Angeles Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### Fall/Winter
