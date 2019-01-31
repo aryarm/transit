@@ -106,9 +106,8 @@
 - [CAHSR Phase 1 (San Francisco and Merced to Anaheim](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=43)
 ### 2040
 - [CA High Speed Rail to San Diego and Los Angeles](http://www.dot.ca.gov/californiarail/)
-### 2051 (could be accelerated)
-- [Orange Line BRT Conversion to LRT](https://la.curbed.com/2018/7/26/17617240/orange-line-improvements-travel-times-approved)
 ### 2057
+- [Orange Line BRT Conversion to LRT](https://la.curbed.com/2018/10/12/17968238/metro-orange-line-bus-rail-project)
 - [Sepulveda Pass Phase 2 (Westwood to LAX)](https://archpaper.com/2018/06/la-metro-link-san-fernando-valley-westwood-lax/)
 ### 2060s
 - [Vermont BRT to Rail Conversion](https://la.curbed.com/2018/5/7/17317100/los-angeles-subway-vermont-rail)
