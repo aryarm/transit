@@ -20,12 +20,10 @@
 - [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
 #### Summer/Fall
 - [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/)
-#### Fall
-- [CAHSR Burbank to LA Draft EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### September
 - [New Blue Line](https://www.metro.net/projects/new-blue-line-improvements/)
 - [San Diego River Double Track](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
-- [CAHSR Burbank to Los Angeles Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
+- [CAHSR Burbank to LA Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### November
