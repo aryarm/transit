@@ -35,7 +35,7 @@
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
 - [West Santa Ana Branch Draft EIS](https://www.metro.net/projects/west-santa-ana/faq/)
 - [Vista Canyon Metrolink Station](http://catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
-### Fall 2019/Winter 2020
+#### Fall 2019/Winter 2020
 - [Metro NextGen Bus Study](http://media.metro.net/projects_studies/nextgen/images/NextGen_Participation_Schedule.png)
 #### Early
 - [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
