@@ -13,7 +13,7 @@
 #### May
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/globalassets/station-detail-pages/2017-_van-nuys-presentation--final.pdf)
 #### Spring/Summer
-- [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf)
+- [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 #### July
 - [CAHSR Bakersfield to Palmdale Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### Summer
