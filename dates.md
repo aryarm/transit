@@ -6,8 +6,6 @@
 ### 2019
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-#### Feb 7
-- [Gilman Drive Bridge](https://onthego.ucsd.edu/projects/gilman-bridge.html)
 #### Spring
 - [San Elijo Lagoon Double Track Project](https://www.thecoastnews.com/chesterfield-drive-re-opens-project-nears-completion/)
 #### April
@@ -30,6 +28,8 @@
 - [CAHSR Burbank to Los Angeles Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
+#### November
+- [Foothill Blvd Master Plan Improvements Project](https://www.ci.claremont.ca.us/living/foothill-boulevard-upgrade)
 #### December
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 - [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
