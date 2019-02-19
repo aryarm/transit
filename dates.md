@@ -33,7 +33,7 @@
 - [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
 ### 2020
 - [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
-- [West Santa Ana Branch EIS](https://www.metro.net/projects/west-santa-ana/faq/)
+- [West Santa Ana Branch Draft EIS](https://www.metro.net/projects/west-santa-ana/faq/)
 - [Vista Canyon Metrolink Station](http://catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
 ### Fall 2019/Winter 2020
 - [Metro NextGen Bus Study](http://media.metro.net/projects_studies/nextgen/images/NextGen_Participation_Schedule.png)
@@ -55,6 +55,7 @@
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
 - [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
 ### 2021
+- [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [San Diego Mid Coast Trolley](https://www.keepsandiegomoving.com/Mid-coast/midcoast-intro.aspx)
