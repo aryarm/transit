@@ -6,10 +6,9 @@
 ### 2019
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-#### Spring
-- [San Elijo Lagoon Double Track Project](https://www.thecoastnews.com/chesterfield-drive-re-opens-project-nears-completion/)
 #### April
 - [Patsaouras Plaza Busway](http://libraryarchives.metro.net/DPGTL/StatusReports/2018-june-patsaouras-plaza-busway-station.pdf#page=4)
+- [Encinitas Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=93)
 #### May
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/globalassets/station-detail-pages/2017-_van-nuys-presentation--final.pdf)
 #### Spring/Summer
@@ -22,53 +21,62 @@
 - [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/)
 #### September
 - [New Blue Line](https://www.metro.net/projects/new-blue-line-improvements/)
-- [San Diego River Double Track](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
+- [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [CAHSR Burbank to LA Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
+#### October
+- [San Elijo Lagoon Double Track Project](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
+- [Chesterfield Drive Crossing Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 #### November
 - [Foothill Blvd Master Plan Improvements Project](https://www.ci.claremont.ca.us/living/foothill-boulevard-upgrade)
 #### December
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
-- [Poinsettia Station Improvements](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
+- [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 ### 2020
-- [North Oceanside Double Track](https://www.keepsandiegomoving.com/Lossan-Group/no_oceanside_double_track_schedule.aspx)?
-- [West Santa Ana Branch Draft EIS](https://www.metro.net/projects/west-santa-ana/faq/)
+- [West Santa Ana Branch Draft EIS](https://media.metro.net/projects_studies/30-10_highway/images/WSAB_project_timeline_2019.png)
 - [Vista Canyon Metrolink Station](http://catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
 #### Fall 2019/Winter 2020
 - [Metro NextGen Bus Study](http://media.metro.net/projects_studies/nextgen/images/NextGen_Participation_Schedule.png)
 #### Early
 - [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
+#### April
+- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=93)
 #### Early Summer
 - [Crenshaw/LAX Line](https://www.masstransitmag.com/news/12437249/metros-2-billion-rail-line-from-mid-city-to-the-south-bay-will-miss-its-2019-deadline)
 #### July
-- [Elvira to Morena Double Track](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
+- [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 #### Summer
 - [CAHSR Burbank to LA Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### Fall
 - [North Hollywood to Pasadena BRT Draft and Final EIRs released](https://www.metro.net/projects/noho-pasadena-corridor/)
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
+#### September
+- [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### Late
 - [Sixth Street Viaduct](https://la.curbed.com/2018/3/16/17129192/la-sixth-street-bridge-construction-101-freeway)
 - [Willowbrook/Rosa Parks Station Improvement](https://la.curbed.com/2018/8/27/17786896/blue-line-metro-los-angeles-willowbrook-station)
 #### December
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
-- [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://github.com/aryam7/transit/blob/master/images/LOSSAN_Projects.png)
+- [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://octa.net/images/SJC_passing_siding_Schedule.png)
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 - [Regional Transit Connector](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- [San Diego Mid Coast Trolley](https://www.keepsandiegomoving.com/Mid-coast/midcoast-intro.aspx)
+#### March
+- [SANDAG Regional Plan Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### Mid
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
+#### September
+- [San Diego Mid Coast Trolley](https://www.keepsandiegomoving.com/Mid-coast/midcoast-intro.aspx)
 ### 2022
 - [CAHSR Central Valley Segment (Bakersfield to Madera)](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=8)
-- [Batiquitos Lagoon Double Track](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
+- [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
 - [Las Vegas High Speed Rail](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [North Hollywood to Pasadena BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf)
-- [San Onofre to Pulgas Double Track Phase 2](https://github.com/aryam7/transit/blob/master/images/SANDAG.png)
+- [San Onofre to Pulgas Double Track Phase 2](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 ### 2023
 - [LAX People Mover and Connector Station](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Purple Line Extension Phase 1](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
@@ -77,6 +85,7 @@
 - [Foothill Gold Line Extension Phase 2B to La Verne](https://foothillgoldline.org/wp-content/uploads/2018/11/2018-11-12-FINAL-FACT-SHEET-AND-FAQs.pdf)
 - [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
 ### 2025
+- [North Oceanside Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)?
 - [Purple Line Extension Phase 2](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Orange Line BRT Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [LA River Bike Path](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
@@ -104,7 +113,7 @@
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
 - [Voigt Drive/I-5 DARs (Direct Access Ramps)?](http://onthego.ucsd.edu/projects/i5-express.html)
 ### 2033
-- [CAHSR Phase 1 (San Francisco and Merced to Anaheim](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=43)
+- [CAHSR Phase 1 (San Francisco and Merced to Anaheim)](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=43)
 ### 2040
 - [CA High Speed Rail to San Diego and Los Angeles](http://www.dot.ca.gov/californiarail/)
 ### 2047
