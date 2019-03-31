@@ -21,6 +21,7 @@
     ##### Summer/Fall
     - [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/)
     ##### September
+    - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=524)
     - [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=523)
     - [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
     - [CAHSR Burbank to LA Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
@@ -46,12 +47,15 @@
     ##### Early
     - [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
     ##### March
+    - [San Onofre Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=524)
     - [Patsaouras Plaza Busway](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
     - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=523)
     ##### Spring
     - [Crenshaw/LAX Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
     ##### April
     - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=93)
+    ##### May
+    - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=526)
     ##### July
     - [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
     ##### Summer
