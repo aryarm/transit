@@ -50,6 +50,7 @@
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=523)
 #### Spring
 - [Crenshaw/LAX Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
+- [North Hollywood to Pasadena Draft EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### April
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=93)
 #### May
@@ -60,7 +61,7 @@
 - [CAHSR Burbank to LA Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 - [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 #### Fall
-- [North Hollywood to Pasadena BRT Draft and Final EIRs released](https://www.metro.net/projects/noho-pasadena-corridor/)
+- [North Hollywood to Pasadena Final EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
@@ -86,7 +87,6 @@
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
 - [Las Vegas High Speed Rail](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
-- [North Hollywood to Pasadena BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf)
 - [San Onofre to Pulgas Double Track Phase 2](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 #### Spring/Summer
@@ -101,6 +101,8 @@
 ### 2024
 - [Foothill Gold Line Extension Phase 2B to La Verne](https://foothillgoldline.org/wp-content/uploads/2018/11/2018-11-12-FINAL-FACT-SHEET-AND-FAQs.pdf)
 - [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
+#### Summer
+- [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 
 ### 2025
 - [North Oceanside Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)?
