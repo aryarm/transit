@@ -55,6 +55,8 @@
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=93)
 #### May
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=526)
+#### June
+- [Gold Line / I 210 Barrier Replacement Project](http://www.pasadenanow.com/main/metro-reaches-deeper-into-wallet-to-fix-portion-of-210-freeway-prone-to-crashes-spilling-onto-gold-line/)
 #### July
 - [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 #### Summer
