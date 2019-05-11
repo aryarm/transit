@@ -7,11 +7,8 @@
 ### 2019
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-#### April
-- [Encinitas Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=93)
 #### May
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/globalassets/station-detail-pages/2017-_van-nuys-presentation--final.pdf)
-- [San Elijo Lagoon Double Track Project](https://us13.campaign-archive.com/?u=94a2f8a66c9b57349ad0202e1&id=2c7417fb1d)
 #### Spring/Summer
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 #### July
@@ -29,8 +26,6 @@
 - [New Blue Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
-#### October
-- [Chesterfield Drive Crossing Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 #### November
 - [Foothill Blvd Master Plan Improvements Project](https://www.ci.claremont.ca.us/living/foothill-boulevard-upgrade)
 #### December
