@@ -9,6 +9,8 @@
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
 #### May
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/globalassets/station-detail-pages/2017-_van-nuys-presentation--final.pdf)
+#### June
+- [Carlsbad Village Double Track Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 #### Spring/Summer
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 #### July
@@ -18,9 +20,8 @@
 #### Summer/Fall
 - [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/)
 #### September
-- [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=524)
-- [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=523)
-- [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
+- [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
+- [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 - [CAHSR Burbank to LA Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### Fall
 - [New Blue Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
@@ -28,9 +29,10 @@
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### November
 - [Foothill Blvd Master Plan Improvements Project](https://www.ci.claremont.ca.us/living/foothill-boulevard-upgrade)
+- [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=65)
 #### December
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
-- [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
+- [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 
 ### 2020
 - [West Santa Ana Branch Draft EIS](https://media.metro.net/projects_studies/30-10_highway/images/WSAB_project_timeline_2019.png)
@@ -46,14 +48,12 @@
 #### Spring
 - [Crenshaw/LAX Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 - [North Hollywood to Pasadena Draft EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
-#### April
-- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=93)
 #### May
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=526)
 #### June
 - [Gold Line / I 210 Barrier Replacement Project](http://www.pasadenanow.com/main/metro-reaches-deeper-into-wallet-to-fix-portion-of-210-freeway-prone-to-crashes-spilling-onto-gold-line/)
 #### July
-- [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
+- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=66)
 #### Summer
 - [CAHSR Burbank to LA Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 - [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
@@ -62,6 +62,8 @@
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
+#### November
+- [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 #### Late
 - [Sixth Street Viaduct](https://la.curbed.com/2018/3/16/17129192/la-sixth-street-bridge-construction-101-freeway)
 #### December
@@ -77,7 +79,7 @@
 #### Mid
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
 #### September
-- [San Diego Mid Coast Trolley](https://www.keepsandiegomoving.com/Mid-coast/midcoast-intro.aspx)
+- [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 
 ### 2022
 - [CAHSR Central Valley Segment (Bakersfield to Madera)](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=8)
