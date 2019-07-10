@@ -3,27 +3,20 @@
 ### Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 - [CAHSR LA to Anaheim Draft EIS](http://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
+- [CAHSR Bakersfield to Palmdale Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 
 ### 2019
 - [Construction on Las Vegas High Speed Rail begins](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-#### May
-- [Van Nuys Station Improvements](https://www.metrolinktrains.com/globalassets/station-detail-pages/2017-_van-nuys-presentation--final.pdf)
-#### June
-- [Carlsbad Village Double Track Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
-#### Spring/Summer
-- [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
-#### July
-- [CAHSR Bakersfield to Palmdale Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### Summer
-- [Link US Final EIS](https://www.metro.net/projects/link-us/environmental-review/)
-#### Summer/Fall
-- [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/)
+- [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
+- [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/#contentMain)
 #### September
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 - [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 - [CAHSR Burbank to LA Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 #### Fall
+- [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
 - [New Blue Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 #### Fall/Winter
 - [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
