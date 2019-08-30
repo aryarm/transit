@@ -2,8 +2,6 @@
 
 ### Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
-- [CAHSR LA to Anaheim Draft EIS](http://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
-- [CAHSR Bakersfield to Palmdale Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
 
 ### 2019
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
@@ -13,7 +11,7 @@
 #### September
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 - [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
-- [CAHSR Burbank to LA Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
+- [CAHSR Burbank to LA Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 #### Fall
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
 - [New Blue Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
@@ -25,8 +23,10 @@
 - [Foothill Blvd Master Plan Improvements Project](https://www.ci.claremont.ca.us/living/foothill-boulevard-upgrade)
 - [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=65)
 #### December
-- [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/Project_Sections/southern_ca_update_dec_2018.html)
+- [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 - [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
+#### Late 2019 / Early 2020
+- [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 
 ### 2020
 - [West Santa Ana Branch Draft EIS](https://media.metro.net/projects_studies/30-10_highway/images/WSAB_project_timeline_2019.png)
@@ -44,10 +44,11 @@
 - [North Hollywood to Pasadena Draft EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### May
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=526)
+#### June
+- [CAHSR Bakersfield to Palmdale Final EIR](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 #### July
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=66)
 #### Summer
-- [CAHSR Burbank to LA Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 - [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 #### Fall
 - [North Hollywood to Pasadena Final EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
@@ -64,9 +65,14 @@
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
+#### January
+- [CAHSR Palmdale to Burbank Final EIR](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 #### February
 - [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://octa.net/images/SJC_passing_siding_Schedule.png)
+#### June
+- [CAHSR Burbank to LA Final EIR](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 #### March
+- [CAHSR LA to Anaheim Final EIR](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 - [SANDAG Regional Plan Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### Mid
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
