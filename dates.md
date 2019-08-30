@@ -15,8 +15,6 @@
 #### Fall
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
 - [New Blue Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
-#### Fall/Winter
-- [CAHSR LA to Anaheim Final EIS](http://www.ustream.tv/recorded/117188882#44:37)
 #### October
 - [Weekend Green Line Closures](https://www.metro.net/projects/notices/Green_Line_Station_Closures_July_2019/)
 #### November
