@@ -73,8 +73,6 @@
 #### March
 - [CAHSR LA to Anaheim Final EIR](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 - [SANDAG Regional Plan Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
-#### Mid
-- [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
 #### September
 - [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 
@@ -85,6 +83,8 @@
 - [Las Vegas High Speed Rail](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf)
 - [San Onofre to Pulgas Double Track Phase 2](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
+#### Early
+- [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
 #### March
 - [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
 #### Spring
