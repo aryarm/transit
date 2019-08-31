@@ -100,7 +100,6 @@
 - [Purple Line Extension Phase 1](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 
 ### 2024
-- [Foothill Gold Line Extension Phase 2B to La Verne](https://foothillgoldline.org/wp-content/uploads/2018/11/2018-11-12-FINAL-FACT-SHEET-AND-FAQs.pdf)
 - [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
 #### Summer
 - [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
@@ -110,6 +109,7 @@
 - [Orange Line BRT Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [LA River Bike Path](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [LA River Mobility Hub - San Fernando Valley](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
+- [Foothill Gold Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 #### Summer
 - [Purple Line Extension Phase 2](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 
@@ -122,7 +122,7 @@
 - [Carlsbad Village Double Track](http://www.ci.encinitas.ca.us/Portals/0/City%20Documents/Documents/Development%20Services/Planning/Advanced%20Planning/CMLS/LOSSAN%20SD%20CBVDT%20Trench%20Feasibility%20Study.pdf#%5B%7B%22num%22%3A138%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C699%2C0%5D)
 
 ### 2028
-- [Foothill Gold Line Extension Phase 2B to Montclair](https://foothillgoldline.org/wp-content/uploads/2018/11/2018-11-12-FINAL-FACT-SHEET-AND-FAQs.pdf)
+- [Foothill Gold Line Extension Phase 2B to Montclair](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 - [Blue Line Signal and Washington/Flower Junction Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Vermont Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Sepulveda Pass Phase 1 (San Fernando Valley to Westwood)](https://la.curbed.com/2018/6/12/17455886/sepulveda-pass-metro-transit-monorail-subway)
