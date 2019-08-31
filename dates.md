@@ -19,9 +19,9 @@
 #### October
 - [Weekend Green Line Closures](https://www.metro.net/projects/notices/Green_Line_Station_Closures_July_2019/)
 #### November
-- [Foothill Blvd Master Plan Improvements Project](https://www.ci.claremont.ca.us/living/foothill-boulevard-upgrade)
 - [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=65)
 #### December
+- [Foothill Blvd Master Plan Improvements Project](http://www.dailybulletin.com/foothill-boulevard-construction-project-causing-headaches-in-claremont)
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 - [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 #### Late 2019 / Early 2020
