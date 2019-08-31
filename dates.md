@@ -39,10 +39,12 @@
 - [Patsaouras Plaza Busway](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=523)
 #### Spring
-- [Crenshaw/LAX Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
+- [Patsaouras Bus Plaza Station](https://metro.legistar.com/View.ashx?M=F&ID=7535530&GUID=29C01138-DD13-44CD-9D30-2D6352E14D8F#page=3)
 - [North Hollywood to Pasadena Draft EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### May
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=526)
+#### Spring/Summer
+- [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=7535530&GUID=29C01138-DD13-44CD-9D30-2D6352E14D8F#page=3)
 #### June
 - [CAHSR Bakersfield to Palmdale Final EIR](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 #### July
