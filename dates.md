@@ -58,8 +58,6 @@
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### November
 - [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
-#### Late
-- [Sixth Street Viaduct](https://la.curbed.com/2018/3/16/17129192/la-sixth-street-bridge-construction-101-freeway)
 #### December
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
 
@@ -87,6 +85,8 @@
 - [Las Vegas High Speed Rail](https://www.railwayage.com/news/brightline-goes-west-plans-la-las-vegas-high-speed-rail/)
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf)
 - [San Onofre to Pulgas Double Track Phase 2](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
+#### March
+- [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
 #### Spring
 - [Gold Line / I 210 Barrier Replacement Project 1](http://www.pasadenanow.com/main/210-freewaygold-line-barrier-project-slated-for-fall-2020-construction-start)
 #### Spring/Summer
