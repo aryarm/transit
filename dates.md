@@ -29,8 +29,7 @@
 
 ### 2020
 - [West Santa Ana Branch Draft EIS](https://media.metro.net/projects_studies/30-10_highway/images/WSAB_project_timeline_2019.png)
-- [Vista Canyon Metrolink Station](http://catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
-#### Fall 2019/Winter 2020
+- [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf)#### Fall 2019/Winter 2020
 - [Metro NextGen Bus Study](http://media.metro.net/projects_studies/nextgen/images/NextGen_Participation_Schedule.png)
 #### Early
 - [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
