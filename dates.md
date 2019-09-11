@@ -15,9 +15,10 @@
 - [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/#contentMain)
 #### Fall
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
-- [New Blue Line](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 #### October
 - [Weekend Green Line Closures](https://www.metro.net/projects/notices/Green_Line_Station_Closures_July_2019/)
+#### Late October
+- [New Blue Line](https://thesource.metro.net/2019/09/10/the-blue-line-will-open-late-october-with-free-rides-and-a-community-celebration/)
 #### November
 - [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=65)
 #### December
