@@ -37,10 +37,9 @@
 - [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
 #### March
 - [San Onofre Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=524)
-- [Patsaouras Plaza Busway](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=523)
 #### Spring
-- [Patsaouras Bus Plaza Station](https://metro.legistar.com/View.ashx?M=F&ID=7535530&GUID=29C01138-DD13-44CD-9D30-2D6352E14D8F#page=3)
+- [Patsaouras Plaza Busway Station](https://metro.legistar.com/View.ashx?M=F&ID=7535530&GUID=29C01138-DD13-44CD-9D30-2D6352E14D8F#page=3)
 - [North Hollywood to Pasadena Draft EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### May
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=526)
