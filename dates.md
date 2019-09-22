@@ -29,7 +29,6 @@
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 
 ### 2020
-- [West Santa Ana Branch Draft EIS](https://media.metro.net/projects_studies/30-10_highway/images/WSAB_project_timeline_2019.png)
 - [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
 #### Fall 2019/Winter 2020
 - [Metro NextGen Bus Study](http://media.metro.net/projects_studies/nextgen/images/NextGen_Participation_Schedule.png)
@@ -59,6 +58,7 @@
 #### November
 - [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 #### December
+- [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
 
 ### 2021
