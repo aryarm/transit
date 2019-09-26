@@ -8,8 +8,6 @@
 #### Summer
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 #### September
-- [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
-- [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 - [CAHSR Burbank to LA Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 #### Summer/Fall
 - [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/#contentMain)
@@ -24,7 +22,7 @@
 #### December
 - [Foothill Blvd Master Plan Improvements Project](http://www.dailybulletin.com/foothill-boulevard-construction-project-causing-headaches-in-claremont)
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
-- [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
+- [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 #### Late 2019 / Early 2020
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 
@@ -34,18 +32,16 @@
 - [Metro NextGen Bus Study](http://media.metro.net/projects_studies/nextgen/images/NextGen_Participation_Schedule.png)
 #### Early
 - [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
-#### March
-- [San Onofre Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=524)
-- [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=523)
 #### Spring
 - [Patsaouras Plaza Busway Station](https://metro.legistar.com/View.ashx?M=F&ID=7535530&GUID=29C01138-DD13-44CD-9D30-2D6352E14D8F#page=3)
 - [North Hollywood to Pasadena Draft EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### May
-- [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5041_25477.pdf#page=526)
+- [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=89)
 #### Spring/Summer
 - [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=7535530&GUID=29C01138-DD13-44CD-9D30-2D6352E14D8F#page=3)
 #### June
 - [CAHSR Bakersfield to Palmdale Final EIR](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
+- [Del Mar Bluffs Stabilization V Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
 #### July
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=66)
 #### Summer
@@ -56,7 +52,7 @@
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### November
-- [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
+- [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 #### December
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
@@ -66,6 +62,7 @@
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 #### January
 - [CAHSR Palmdale to Burbank Final EIR](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
+- [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
 #### February
 - [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://octa.net/images/SJC_passing_siding_Schedule.png)
 #### June
@@ -91,6 +88,9 @@
 - [Regional Transit Connector](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 #### Summer
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf#page=24)
+#### September
+- [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
+- [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 
 ### 2023
 - [Las Vegas High Speed Rail](https://vegasinc.lasvegassun.com/business/tourism/2019/aug/02/vegas-california-passenger-rail-project-secure/)
