@@ -23,6 +23,7 @@
 - [Foothill Blvd Master Plan Improvements Project](http://www.dailybulletin.com/foothill-boulevard-construction-project-causing-headaches-in-claremont)
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 - [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
+- [Palomar Street Rail Grade Separation Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=94)
 #### Late 2019 / Early 2020
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 
