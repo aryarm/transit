@@ -15,7 +15,7 @@
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
 #### October
 - [Weekend Green Line Closures](https://www.metro.net/projects/notices/Green_Line_Station_Closures_July_2019/)
-#### Late October
+#### November 2
 - [New Blue Line](https://thesource.metro.net/2019/09/10/the-blue-line-will-open-late-october-with-free-rides-and-a-community-celebration/)
 #### November
 - [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=65)
