@@ -2,24 +2,19 @@
 
 ### Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
+- [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 
 ### 2019
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-#### Summer
-- [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
-#### September
-- [CAHSR Burbank to LA Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
-#### Summer/Fall
-- [Sepulveda Transit Corridor Draft EIS](https://www.metro.net/projects/sepulvedacorridor/#contentMain)
+- [CAHSR Burbank to LA Draft EIS](https://www.hsr.ca.gov/programs/environmental/)
 #### Fall
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
-#### October
-- [Weekend Green Line Closures](https://www.metro.net/projects/notices/Green_Line_Station_Closures_July_2019/)
 #### November 2
 - [New Blue Line](https://thesource.metro.net/2019/09/10/the-blue-line-will-open-late-october-with-free-rides-and-a-community-celebration/)
 #### November
 - [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=65)
 #### December
+- [Sepulveda Transit Corridor Feasibility Study](http://media.metro.net/projects_studies/sfv-405/images/presentation_sepulveda_transit_corridor_2019-0724.pdf#page=30)
 - [Foothill Blvd Master Plan Improvements Project](http://www.dailybulletin.com/foothill-boulevard-construction-project-causing-headaches-in-claremont)
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 - [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
