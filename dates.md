@@ -57,6 +57,7 @@
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
+- [LA River Bike Path Draft EIR](https://www.metro.net/projects/lariverpath/)
 #### January
 - [CAHSR Palmdale to Burbank Final EIR](https://hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_050119.pdf#page=183)
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
