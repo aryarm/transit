@@ -9,8 +9,6 @@
 - [CAHSR Burbank to LA Draft EIS](https://www.hsr.ca.gov/programs/environmental/)
 #### Fall
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
-#### November 2
-- [New Blue Line](https://thesource.metro.net/2019/09/10/the-blue-line-will-open-late-october-with-free-rides-and-a-community-celebration/)
 #### November
 - [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=65)
 #### December
