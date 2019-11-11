@@ -15,8 +15,6 @@
 - [Foothill Blvd Master Plan Improvements Project](http://www.dailybulletin.com/foothill-boulevard-construction-project-causing-headaches-in-claremont)
 - [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 - [Palomar Street Rail Grade Separation Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=94)
-#### Late 2019 / Early 2020
-
 
 ### 2020
 - [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
