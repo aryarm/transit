@@ -8,8 +8,6 @@
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
 #### Fall
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
-#### November
-- [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=65)
 #### December
 - [Sepulveda Transit Corridor Feasibility Study](http://media.metro.net/projects_studies/sfv-405/images/presentation_sepulveda_transit_corridor_2019-0724.pdf#page=30)
 - [Foothill Blvd Master Plan Improvements Project](http://www.dailybulletin.com/foothill-boulevard-construction-project-causing-headaches-in-claremont)
@@ -48,6 +46,7 @@
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### November
 - [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
+- [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=28)
 #### December
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
