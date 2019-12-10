@@ -8,9 +8,9 @@
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
 #### Fall
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
+#### December 20
+- [Foothill Blvd Master Plan Improvements Project](https://www.ci.claremont.ca.us/living/foothill-boulevard-upgrade#widget_1505_4047_2310)
 #### December
-- [Sepulveda Transit Corridor Feasibility Study](http://media.metro.net/projects_studies/sfv-405/images/presentation_sepulveda_transit_corridor_2019-0724.pdf#page=30)
-- [Foothill Blvd Master Plan Improvements Project](http://www.dailybulletin.com/foothill-boulevard-construction-project-causing-headaches-in-claremont)
 - [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 - [Palomar Street Rail Grade Separation Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=94)
 
