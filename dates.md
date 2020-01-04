@@ -1,18 +1,12 @@
 # Southern California Transit Projects
 
-### Delayed Indefinitely
+### Deadline Missed or Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
-
-### 2019
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-#### Fall
 - [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
-#### December 20
-- [Foothill Blvd Master Plan Improvements Project](https://www.ci.claremont.ca.us/living/foothill-boulevard-upgrade#widget_1505_4047_2310)
-#### December
-- [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
-- [Palomar Street Rail Grade Separation Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=94)
+- [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=28)
+- [Palomar Street Rail Grade Separation Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=29)
 
 ### 2020
 - [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
