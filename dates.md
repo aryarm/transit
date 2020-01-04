@@ -41,10 +41,10 @@
 #### November
 - [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 - [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=28)
+- [CAHSR LA to Anaheim Draft EIS](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 #### December
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
-- [CAHSR LA to Anaheim Draft EIS](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
