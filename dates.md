@@ -4,7 +4,6 @@
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-- [Van Nuys Station Improvements](https://www.metrolinktrains.com/rider-info/general-info/stations/van-nuys/#advisories)
 - [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=28)
 - [Palomar Street Rail Grade Separation Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=29)
 
