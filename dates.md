@@ -19,24 +19,24 @@
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 - [CAHSR Burbank to LA Draft EIS](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 #### Spring
-- [Patsaouras Plaza Busway Station](https://metro.legistar.com/View.ashx?M=F&ID=7535530&GUID=29C01138-DD13-44CD-9D30-2D6352E14D8F#page=3)
+- [Patsaouras Plaza Busway Station](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=8)
 - [North Hollywood to Pasadena Draft EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### May
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=89)
-#### Spring/Summer
-- [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=7535530&GUID=29C01138-DD13-44CD-9D30-2D6352E14D8F#page=3)
 #### June
 - [Del Mar Bluffs Stabilization V Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
 #### July
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=66)
 #### Summer
 - [Burbank Channel Bikeway Phase 2](https://www.burbankca.gov/departments/community-development/transportation/projects/burbank-channel-bikeway)
-- [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
+- [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=9)
+#### Summer/Fall
+- [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=3)
+#### September
+- [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### Fall
 - [North Hollywood to Pasadena Final EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
-#### September
-- [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### November
 - [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 - [San Diego River Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=28)
@@ -75,10 +75,10 @@
 - [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
 #### Spring
 - [Gold Line / I 210 Barrier Replacement Project 1](http://www.pasadenanow.com/main/210-freewaygold-line-barrier-project-slated-for-fall-2020-construction-start)
-#### Spring/Summer
-- [Regional Transit Connector](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
 #### Summer
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf#page=24)
+#### Summer/Fall
+- [Regional Transit Connector](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=4)
 #### September
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 - [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
@@ -89,7 +89,7 @@
 - [North San Fernando Valley BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/)
 #### Fall
-- [Purple Line Extension Phase 1](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
+- [Purple Line Extension Phase 1](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=5)
 
 ### 2024
 - [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
@@ -103,10 +103,10 @@
 - [LA River Mobility Hub - San Fernando Valley](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Foothill Gold Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 #### Summer
-- [Purple Line Extension Phase 2](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
+- [Purple Line Extension Phase 2](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=6)
 
 ### 2027
-- [Purple Line Extension Phase 3](https://metro.legistar.com/LegislationDetail.aspx?ID=3891977&GUID=FD2988DE-7035-443C-ACF1-3405F686F21D)
+- [Purple Line Extension Phase 3](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=7)
 - [Green Line LRT Extension to Torrance](http://media.metro.net/projects_studies/resources/images/att_a_28x28_list.pdf)
 - [East San Fernando Valley Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [CAHSR Bakersfield to Madera](https://www.spur.org/news/2018-03-28/california-high-speed-rail-under-construction-and-moving-forward)
