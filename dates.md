@@ -6,13 +6,12 @@
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
 - [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=28)
 - [Palomar Street Rail Grade Separation Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=29)
+- [CAHSR Bakersfield to Palmdale Draft EIR](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 
 ### 2020
 - [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
 #### Fall 2019/Winter 2020
 - [Metro NextGen Bus Study](http://media.metro.net/projects_studies/nextgen/images/NextGen_Participation_Schedule.png)
-#### January
-- [CAHSR Bakersfield to Palmdale Draft EIR](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 #### Early
 - [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
 #### February
