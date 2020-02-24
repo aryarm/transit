@@ -4,28 +4,22 @@
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-- [Poinsettia Station Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=28)
-- [Palomar Street Rail Grade Separation Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5177_26864.pdf#page=29)
 - [CAHSR Bakersfield to Palmdale Draft EIR](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 
 ### 2020
 - [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
-#### Fall 2019/Winter 2020
-- [Metro NextGen Bus Study](http://media.metro.net/projects_studies/nextgen/images/NextGen_Participation_Schedule.png)
-#### Early
-- [Cesar E Chavez Av Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
 #### February
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 - [CAHSR Burbank to LA Draft EIS](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
+#### March
+- [Palomar Street Rail Grade Separation Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=106)
 #### Spring
 - [Patsaouras Plaza Busway Station](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=8)
 - [North Hollywood to Pasadena Draft EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
-#### May
-- [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=89)
+#### Late Spring
+- [Cesar E Chavez Av Bus Stop Improvement](https://thesource.metro.net/2019/12/09/cesar-chavez-bus-improvements-move-forward-bus-stop-relocation-begins-december-20/)
 #### June
 - [Del Mar Bluffs Stabilization V Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
-#### July
-- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=66)
 #### Summer
 - [Burbank Channel Bikeway Phase 2](https://www.burbankca.gov/departments/community-development/transportation/projects/burbank-channel-bikeway)
 - [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=9)
@@ -33,6 +27,9 @@
 - [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=3)
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
+- [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=106)
+#### October
+- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=107)
 #### Fall
 - [North Hollywood to Pasadena Final EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
@@ -61,6 +58,7 @@
 #### September
 - [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 #### December
+- [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 - [CAHSR LA to Anaheim ROD](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 
 ### 2022
