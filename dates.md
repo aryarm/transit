@@ -4,7 +4,6 @@
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-- [CAHSR Bakersfield to Palmdale Draft EIR](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 
 ### 2020
 - [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
