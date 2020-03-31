@@ -11,7 +11,6 @@
 - [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
 #### Spring
 - [Patsaouras Plaza Busway Station](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=8)
-- [North Hollywood to Pasadena Draft EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### Late Spring
 - [Cesar E Chavez Av Bus Stop Improvement](https://thesource.metro.net/2019/12/09/cesar-chavez-bus-improvements-move-forward-bus-stop-relocation-begins-december-20/)
 #### June
@@ -24,6 +23,8 @@
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=106)
+#### Late Summer
+- [North Hollywood to Pasadena Draft EIR](https://www.boulevardsentinel.com/metro-delays-report-on-brt-route-in-eagle-rock/)
 #### October
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=107)
 #### Fall
