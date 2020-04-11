@@ -18,8 +18,6 @@
 #### Summer
 - [Burbank Channel Bikeway Phase 2](https://www.burbankca.gov/departments/community-development/transportation/projects/burbank-channel-bikeway)
 - [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=9)
-#### Summer/Fall
-- [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=3)
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=106)
@@ -49,6 +47,8 @@
 - [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://octa.net/images/SJC_passing_siding_Schedule.png)
 #### March
 - [SANDAG Regional Plan Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
+#### May
+- [Crenshaw/LAX Line](https://www.latimes.com/california/story/2020-04-10/metro-crenshaw-lax-line-opening-date-delayed)
 #### August
 - [CAHSR Palmdale to Burbank ROD](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 #### September
