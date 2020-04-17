@@ -4,13 +4,13 @@
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
-- [CAHSR Palmdale to Burbank Draft EIS](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
-- [CAHSR Burbank to LA Draft EIS](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 
 ### 2020
 - [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
 #### Spring
 - [Patsaouras Plaza Busway Station](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=8)
+#### May
+- [CAHSR Burbank to LA Draft EIS](https://www.hsr.ca.gov/about/business_plans/2020#page=94)
 #### Late Spring
 - [Cesar E Chavez Av Bus Stop Improvement](https://thesource.metro.net/2019/12/09/cesar-chavez-bus-improvements-move-forward-bus-stop-relocation-begins-december-20/)
 #### June
@@ -30,8 +30,8 @@
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
 #### November
 - [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
-- [CAHSR LA to Anaheim Draft EIS](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 #### December
+- [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/about/business_plans/2020#page=94)
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
 
@@ -40,28 +40,32 @@
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 - [LA River Bike Path Draft EIR](https://www.metro.net/projects/lariverpath/)
 #### January
-- [CAHSR Burbank to LA ROD](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
+- [CAHSR LA to Anaheim Draft EIS](https://www.hsr.ca.gov/about/business_plans/2020#page=94)
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
 #### February
-- [CAHSR Bakersfield to Palmdale ROD](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 - [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://octa.net/images/SJC_passing_siding_Schedule.png)
+#### April
+- [CAHSR Bakersfield to Palmdale ROD](https://www.hsr.ca.gov/about/business_plans/2020#page=94)
 #### March
 - [SANDAG Regional Plan Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### May
 - [Crenshaw/LAX Line](https://www.latimes.com/california/story/2020-04-10/metro-crenshaw-lax-line-opening-date-delayed)
-#### August
-- [CAHSR Palmdale to Burbank ROD](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
+#### June
+- [CAHSR Burbank to LA ROD](https://www.hsr.ca.gov/about/business_plans/2020#page=94)
 #### September
 - [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
 #### December
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
-- [CAHSR LA to Anaheim ROD](https://www.buildhsr.com/pdfs/press_center/508_final_press%20release%20for%20lga_110519.pdf#page=2)
 
 ### 2022
 - [CAHSR Central Valley Segment (Bakersfield to Madera)](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=8)
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
 - [San Onofre to Pulgas Double Track Phase 2](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
+#### January
+- [CAHSR Palmdale to Burbank ROD](https://www.hsr.ca.gov/about/business_plans/2020#page=94)
+#### February
+- [CAHSR LA to Anaheim ROD](https://www.hsr.ca.gov/about/business_plans/2020#page=94)
 #### Early
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
 #### March
