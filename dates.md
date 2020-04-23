@@ -87,6 +87,8 @@
 - [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/)
 #### Fall
 - [Purple Line Extension Phase 1](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=5)
+#### Late
+- [West Valley Connector BRT](https://www.gosbcta.com/wp-content/uploads/2020/01/West-Valley-Connector-Website.pdf#page=3)
 
 ### 2024
 - [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
