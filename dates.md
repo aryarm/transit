@@ -58,7 +58,6 @@
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 
 ### 2022
-- [CAHSR Central Valley Segment (Bakersfield to Madera)](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=8)
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
 - [San Onofre to Pulgas Double Track Phase 2](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
@@ -79,6 +78,8 @@
 #### September
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 - [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
+#### December
+- [CAHSR Central Valley Segment (Kings/Tulare to Madera) - Civil Construction](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=17)
 
 ### 2023
 - [Las Vegas High Speed Rail](https://vegasinc.lasvegassun.com/business/tourism/2019/aug/02/vegas-california-passenger-rail-project-secure/)
@@ -120,17 +121,19 @@
 - [Gold Line Eastside Extension to Whittier or South El Monte](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [West Santa Ana Branch](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 
-### 2029
-- [CAHSR Silicon Valley to Central Valley Line (San Francisco to Bakersfield)](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=9)
-
 ### 2030
 - [Sprinter (Oceanside-Escondido) Double Tracking](https://www.sandag.org/uploads/2050RTP/F2050rtp_all.pdf#page=226)
 - [San Dieguito Double Track (+ Station @ Del Mar Fair)](https://www.keepsandiegomoving.com/Lossan-Group/san_dieguito_schedule.aspx)
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
 - [Voigt Drive/I-5 DARs (Direct Access Ramps)?](http://onthego.ucsd.edu/projects/i5-express.html)
 
+### 2031
+#### Late
+- [CAHSR Silicon Valley to Central Valley Line (San Francisco and Merced to Bakersfield)](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=142)
+
 ### 2033
-- [CAHSR Phase 1 (San Francisco and Merced to Anaheim)](http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf#page=43)
+#### Late
+- [CAHSR Phase 1 (San Francisco and Merced to Anaheim)](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=142)
 
 ### 2040
 - [CA High Speed Rail to San Diego and Los Angeles](http://www.dot.ca.gov/californiarail/)
