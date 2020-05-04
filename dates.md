@@ -21,15 +21,18 @@
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=106)
+- [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
+- [Batiquitos Lagoon Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
 #### Late Summer
 - [North Hollywood to Pasadena Draft EIR](https://www.boulevardsentinel.com/metro-delays-report-on-brt-route-in-eagle-rock/)
 #### October
-- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=107)
+- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=107)
 #### Fall
 - [North Hollywood to Pasadena Final EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
 #### November
-- [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
+- [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
+- [San Diego River Bridge Rail Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
 #### December
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
@@ -53,7 +56,7 @@
 #### June
 - [CAHSR Burbank to LA ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 #### September
-- [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5143_25816.pdf#page=64)
+- [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
 #### December
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 
@@ -102,6 +105,8 @@
 - [LA River Bike Path](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [LA River Mobility Hub - San Fernando Valley](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Foothill Gold Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
+#### June
+- [Central Mobility Station - Old Town to San Diego Airport Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=106)
 #### Summer
 - [Purple Line Extension Phase 2](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=6)
 
