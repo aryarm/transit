@@ -15,12 +15,9 @@
 - [Del Mar Bluffs Stabilization V Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
 #### Summer
 - [Burbank Channel Bikeway Phase 2](https://www.burbankca.gov/departments/community-development/transportation/projects/burbank-channel-bikeway)
-- [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=9)
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=106)
-- [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
-- [Batiquitos Lagoon Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
 #### Late Summer
 - [North Hollywood to Pasadena Draft EIR](https://www.boulevardsentinel.com/metro-delays-report-on-brt-route-in-eagle-rock/)
 #### October
@@ -30,8 +27,8 @@
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
 #### November
 - [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
-- [San Diego River Bridge Rail Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
 #### December
+- [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
@@ -48,15 +45,16 @@
 #### April
 - [CAHSR Bakersfield to Palmdale ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 #### March
+- [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=8611753&GUID=C7F8F01D-E699-4252-8E99-6F9B43909E9D#page=9)
 - [SANDAG Regional Plan Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
-#### May
-- [Crenshaw/LAX Line](https://www.latimes.com/california/story/2020-04-10/metro-crenshaw-lax-line-opening-date-delayed)
 #### June
+- [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8611753&GUID=C7F8F01D-E699-4252-8E99-6F9B43909E9D#page=3)
 - [CAHSR Burbank to LA ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 #### September
 - [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
 #### December
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
+- [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5409_27623.pdf#page=74)
 
 ### 2022
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
@@ -128,7 +126,6 @@
 - [Sprinter (Oceanside-Escondido) Double Tracking](https://www.sandag.org/uploads/2050RTP/F2050rtp_all.pdf#page=226)
 - [San Dieguito Double Track (+ Station @ Del Mar Fair)](https://www.keepsandiegomoving.com/Lossan-Group/san_dieguito_schedule.aspx)
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
-- [Voigt Drive/I-5 DARs (Direct Access Ramps)?](http://onthego.ucsd.edu/projects/i5-express.html)
 
 ### 2031
 #### Late
