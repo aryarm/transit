@@ -4,29 +4,25 @@
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 - [East San Fernando Valley LRT Final EIS](https://www.metro.net/projects/east-sfv/)
+- [Patsaouras Plaza Busway Station](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=8)
+- [Del Mar Bluffs Stabilization V Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
 
 ### 2020
 - [Vista Canyon Metrolink Station](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
-#### Spring
-- [Patsaouras Plaza Busway Station](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=8)
-#### Late Spring
-- [Cesar E Chavez Ave Bus Stop Improvement](https://thesource.metro.net/2019/12/09/cesar-chavez-bus-improvements-move-forward-bus-stop-relocation-begins-december-20/)
-#### June
-- [Del Mar Bluffs Stabilization V Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
 #### Summer
 - [Burbank Channel Bikeway Phase 2](https://www.burbankca.gov/departments/community-development/transportation/projects/burbank-channel-bikeway)
+#### August
+- [Cesar E Chavez Ave Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=106)
 #### Late Summer
 - [North Hollywood to Pasadena Draft EIR](https://www.boulevardsentinel.com/metro-delays-report-on-brt-route-in-eagle-rock/)
 #### October
-- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=107)
+- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
 #### Fall
 - [North Hollywood to Pasadena Final EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
-#### November
-- [Elvira to Morena Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
 #### December
 - [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
