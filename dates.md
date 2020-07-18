@@ -15,16 +15,16 @@
 - [Cesar E Chavez Ave Bus Stop Improvement](https://www.metro.net/projects/cesar-e-chavez-av-bus-stop-improvement/)
 #### September
 - [SANDAG Regional Plan Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
-- [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5398_27173.pdf#page=106)
-#### Late Summer
-- [North Hollywood to Pasadena Draft EIR](https://www.boulevardsentinel.com/metro-delays-report-on-brt-route-in-eagle-rock/)
 #### October
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
 #### Fall
 - [North Hollywood to Pasadena Final EIR](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 - [North Torrey Pines Living and Learning Community](https://livinglearning.ucsd.edu/construction/index.html)
+#### Late
+- [North Hollywood to Pasadena Draft EIR](https://www.boulevardsentinel.com/metro-report-on-brt-route-in-eagle-rock-in-limbo/)
 #### December
-- [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
+- [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
+- [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
