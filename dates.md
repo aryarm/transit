@@ -23,6 +23,7 @@
 #### Late
 - [North Hollywood to Pasadena Draft EIR](https://www.boulevardsentinel.com/metro-report-on-brt-route-in-eagle-rock-in-limbo/)
 #### December
+- [G Line Bus Electrification](https://la.streetsblog.org/2020/07/27/metro-kicks-off-g-line-bus-electrification)
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
 - [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
 - [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
