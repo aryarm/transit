@@ -67,6 +67,7 @@
 - [San Diego Central Mobility Hub](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=81)
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=83)
 #### Spring
+- [El Portal Pedestrian Undercrossing](https://www.businesswire.com/news/home/20201001006005/en/Granite-Awarded-7-Million-Pedestrian-Rail-Undercrossing-and-Shared-Use-Path-Project-in-Southern-California)
 - [Gold Line / I 210 Barrier Replacement Project 1](http://www.pasadenanow.com/main/210-freewaygold-line-barrier-project-slated-for-fall-2020-construction-start)
 #### Summer
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf#page=24)
