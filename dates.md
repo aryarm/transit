@@ -35,6 +35,7 @@
 #### April
 - [CAHSR Bakersfield to Palmdale ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 #### Spring
+- [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
 - [Downtown LA Dedicated Bus Lanes - Phase 2](https://thesource.metro.net/2020/08/10/new-dedicated-bus-lanes-and-protected-bike-lanes-debut-on-5th-and-6th-streets-in-dtla/)
 #### March
 - [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=8729010&GUID=FE944B68-32B0-42B0-8A06-1F23435ED49D#page=10)
