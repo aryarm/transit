@@ -8,13 +8,10 @@
 ### 2020
 - [Vista Canyon Multi-Modal Center](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
 #### Late October
-- [Patsaouras Plaza Busway Station](https://la.streetsblog.org/2020/09/24/metro-cuts-service-and-more-updates-from-the-september-board-meeting/#share)
 - [North Hollywood to Pasadena Draft EIR](https://www.boulevardsentinel.com/metro-proposes-dedicated-bus-lanes-for-colorado-boulevard-says-a-freeway-route-is-less-feasible/)
 #### November
 - [Del Mar Bluffs Stabilization V Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=80)
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
-#### Fall
-- [Cesar E Chavez Ave Bus Stop Improvement](https://youtu.be/JGZ2zc-Y-u4)
 #### December
 - [G Line Bus Electrification](https://la.streetsblog.org/2020/07/27/metro-kicks-off-g-line-bus-electrification)
 - [Del Mar Bluffs Stabilization IV](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=80)
