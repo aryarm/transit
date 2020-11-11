@@ -3,10 +3,8 @@
 ### Deadline Missed or Delayed Indefinitely
 - [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
-- [Burbank Channel Bikeway Phase 2](https://www.burbankca.gov/departments/community-development/transportation/projects/burbank-channel-bikeway)
 
 ### 2020
-- [Vista Canyon Multi-Modal Center](http://web.archive.org/web/20190601075145if_/http://www.catc.ca.gov/programs/sb1/lpp/docs/2018_Adopted_CompetitiveLPP.pdf#page=3)
 #### November
 - [Del Mar Bluffs Stabilization V Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=80)
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
@@ -20,8 +18,8 @@
 
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
-- [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/)
 - [LA River Bike Path Draft EIR](https://www.metro.net/projects/lariverpath/)
+- [Vista Canyon Multi-Modal Center](https://vistacanyon.com/news/whats-new/groundbreaking-at-vista-canyon-metrolink-station/)
 #### January
 - [CAHSR LA to Anaheim Draft EIS](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
@@ -54,6 +52,8 @@
 - [CAHSR Palmdale to Burbank ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 #### February
 - [CAHSR LA to Anaheim ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
+#### Q1
+- [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/#m-navigation)
 #### Early
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
 #### March
