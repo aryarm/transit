@@ -78,7 +78,6 @@
 ### 2023
 - [Las Vegas High Speed Rail](https://vegasinc.lasvegassun.com/business/tourism/2019/aug/02/vegas-california-passenger-rail-project-secure/)
 - [LAX People Mover and Connector Station](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- [North San Fernando Valley BRT](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/)
 - [Pershing Drive Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
 #### April
@@ -99,6 +98,7 @@
 - [LA River Bike Path](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [LA River Mobility Hub - San Fernando Valley](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Foothill Gold Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
+- [North San Fernando Valley BRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
 #### June
 - [Central Mobility Station - Old Town to San Diego Airport Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=106)
 #### Summer
@@ -143,7 +143,7 @@
 - [Crenshaw Northern Extension](https://www.metro.net/projects/crenshaw-northern-extension/)
 
 ### 2057
-- [Orange Line BRT Conversion to LRT](https://la.curbed.com/2018/10/12/17968238/metro-orange-line-bus-rail-project)
+- [Orange Line BRT Conversion to LRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
 - [Sepulveda Pass Phase 2 (Westwood to LAX)](https://archpaper.com/2018/06/la-metro-link-san-fernando-valley-westwood-lax/)
 
 ### 2060s
