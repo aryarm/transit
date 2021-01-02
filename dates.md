@@ -1,7 +1,7 @@
 # Southern California Transit Projects
 
 ### Deadline Missed or Delayed Indefinitely
-- [Green Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
+- [C (Green) Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
 
 ### 2020
@@ -11,7 +11,6 @@
 #### December
 - [G Line Bus Electrification](https://la.streetsblog.org/2020/07/27/metro-kicks-off-g-line-bus-electrification)
 - [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
-- [CAHSR Palmdale to Burbank Draft EIS](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 - [LA Streetcar](http://streetcar.la/project-info/timeline/)
 
@@ -34,6 +33,7 @@
 - [SANDAG Regional Plan Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
 #### Late Spring
 - [North Hollywood to Pasadena Final EIR](https://www.boulevardsentinel.com/metro-proposes-dedicated-bus-lanes-for-colorado-boulevard-says-a-freeway-route-is-less-feasible/)
+
 #### June
 - [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8786034&GUID=44033C8C-F354-4041-BC25-CCA5DB197714#page=4)
 - [CAHSR Burbank to LA ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
@@ -42,7 +42,8 @@
 #### December
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 - [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=84)
-
+### Summer
+- [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/brdmeetings/2020/brdmtg_081320_Item4_CEO_Report.pdf)
 ### 2022
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
@@ -63,7 +64,7 @@
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=83)
 #### Spring
 - [El Portal Pedestrian Undercrossing](https://www.businesswire.com/news/home/20201001006005/en/Granite-Awarded-7-Million-Pedestrian-Rail-Undercrossing-and-Shared-Use-Path-Project-in-Southern-California)
-- [Gold Line / I 210 Barrier Replacement Project 1](http://www.pasadenanow.com/main/210-freewaygold-line-barrier-project-slated-for-fall-2020-construction-start)
+- [L (Gold) Line / I 210 Barrier Replacement Project 1](http://www.pasadenanow.com/main/210-freewaygold-line-barrier-project-slated-for-fall-2020-construction-start)
 #### Summer
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf#page=24)
 #### Summer/Fall
@@ -82,7 +83,7 @@
 #### April
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
 #### Fall
-- [Purple Line Extension Phase 1](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=5)
+- [D (Purple) Line Extension Phase 1](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=5)
 #### Late
 - [West Valley Connector BRT](https://www.gosbcta.com/wp-content/uploads/2020/01/West-Valley-Connector-Website.pdf#page=3)
 
@@ -93,33 +94,33 @@
 
 ### 2025
 - [North Oceanside Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)?
-- [Orange Line BRT Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
+- [G (Orange) Line BRT Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [LA River Bike Path](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [LA River Mobility Hub - San Fernando Valley](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- [Foothill Gold Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
+- [Foothill L (Gold) Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 - [North San Fernando Valley BRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
 #### June
 - [Central Mobility Station - Old Town to San Diego Airport Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=106)
 #### Summer
-- [Purple Line Extension Phase 2](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=6)
+- [D (Purple) Line Extension Phase 2](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=6)
 
 ### 2026
 - [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
 
 ### 2027
-- [Purple Line Extension Phase 3](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=7)
-- [Green Line LRT Extension to Torrance](http://media.metro.net/projects_studies/resources/images/att_a_28x28_list.pdf)
+- [D (Purple) Line Extension Phase 3](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=7)
+- [C (Green) Line LRT Extension to Torrance](http://media.metro.net/projects_studies/resources/images/att_a_28x28_list.pdf)
 - [East San Fernando Valley Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [CAHSR Bakersfield to Madera](https://www.spur.org/news/2018-03-28/california-high-speed-rail-under-construction-and-moving-forward)
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Carlsbad Village Double Track](http://www.ci.encinitas.ca.us/Portals/0/City%20Documents/Documents/Development%20Services/Planning/Advanced%20Planning/CMLS/LOSSAN%20SD%20CBVDT%20Trench%20Feasibility%20Study.pdf#%5B%7B%22num%22%3A138%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C699%2C0%5D)
 
 ### 2028
-- [Foothill Gold Line Extension Phase 2B to Montclair](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
-- [Blue Line Signal and Washington/Flower Junction Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
+- [Foothill L (Gold) Line Extension Phase 2B to Montclair](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
+- [A (Blue) Line Signal and Washington/Flower Junction Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Vermont Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Sepulveda Pass Phase 1 (San Fernando Valley to Westwood)](https://la.curbed.com/2018/6/12/17455886/sepulveda-pass-metro-transit-monorail-subway)
-- [Gold Line Eastside Extension to Whittier or South El Monte](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
+- [L (Gold) Line Eastside Extension to Whittier or South El Monte](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [West Santa Ana Branch](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 
 ### 2030
@@ -142,7 +143,7 @@
 - [Crenshaw Northern Extension](https://www.metro.net/projects/crenshaw-northern-extension/)
 
 ### 2057
-- [Orange Line BRT Conversion to LRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
+- [G (Orange) Line BRT Conversion to LRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
 - [Sepulveda Pass Phase 2 (Westwood to LAX)](https://archpaper.com/2018/06/la-metro-link-san-fernando-valley-westwood-lax/)
 
 ### 2060s
