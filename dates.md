@@ -1,18 +1,10 @@
 # Southern California Transit Projects
 
-### Deadline Missed or Delayed Indefinitely
-- [C (Green) Line Extension to Metrolink EIS](http://www.scag.ca.gov/programs/Pages/NorwalkGreenlineStudy.aspx)
-- [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/wp-content/uploads/2018/07/Inglewood-Transit-Connector-Scoping-Meeting-Presentation-7.26.18.pdf#page=17)
-
 ### 2020
-#### November
-- [Del Mar Bluffs Stabilization V Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=80)
-- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
 #### December
 - [G Line Bus Electrification](https://la.streetsblog.org/2020/07/27/metro-kicks-off-g-line-bus-electrification)
 - [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
-- [LA Streetcar](http://streetcar.la/project-info/timeline/)
 
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
@@ -23,17 +15,24 @@
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
 #### February
 - [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://octa.net/images/SJC_passing_siding_Schedule.png)
-#### April
-- [CAHSR Bakersfield to Palmdale ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
-#### Spring
-- [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
-- [Downtown LA Dedicated Bus Lanes - Phase 2](https://thesource.metro.net/2020/08/10/new-dedicated-bus-lanes-and-protected-bike-lanes-debut-on-5th-and-6th-streets-in-dtla/)
+#### Early
+- [Rose Creek Coastal Rail Trail](https://www.keepsandiegomoving.com/RegionalBikeProjects/rose_creek_bikeway_schedule.aspx)
 #### March
 - [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=8729010&GUID=FE944B68-32B0-42B0-8A06-1F23435ED49D#page=10)
 - [SANDAG Regional Plan Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
+#### Spring
+- [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
+- [Downtown LA Dedicated Bus Lanes - Phase 2](https://thesource.metro.net/2020/08/10/new-dedicated-bus-lanes-and-protected-bike-lanes-debut-on-5th-and-6th-streets-in-dtla/)
+#### April
+- [CAHSR Bakersfield to Palmdale ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
+#### Q1/Q2
+- [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/transportation-solutions/inglewood-transit-connector/)
 #### Late Spring
 - [North Hollywood to Pasadena Final EIR](https://www.boulevardsentinel.com/metro-proposes-dedicated-bus-lanes-for-colorado-boulevard-says-a-freeway-route-is-less-feasible/)
-
+#### Mid
+- [Del Mar Bluffs Stabilization V Design](https://keepsandiegomoving.com/Libraries/Lossan-PDFs/DMB_5_Fact_Sheet_Final.sflb.ashx)
+#### Summer
+- [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/brdmeetings/2020/brdmtg_081320_Item4_CEO_Report.pdf)
 #### June
 - [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8786034&GUID=44033C8C-F354-4041-BC25-CCA5DB197714#page=4)
 - [CAHSR Burbank to LA ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
@@ -42,8 +41,7 @@
 #### December
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 - [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=84)
-### Summer
-- [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/brdmeetings/2020/brdmtg_081320_Item4_CEO_Report.pdf)
+
 ### 2022
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
@@ -64,11 +62,12 @@
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=83)
 #### Spring
 - [El Portal Pedestrian Undercrossing](https://www.businesswire.com/news/home/20201001006005/en/Granite-Awarded-7-Million-Pedestrian-Rail-Undercrossing-and-Shared-Use-Path-Project-in-Southern-California)
-- [L (Gold) Line / I 210 Barrier Replacement Project 1](http://www.pasadenanow.com/main/210-freewaygold-line-barrier-project-slated-for-fall-2020-construction-start)
 #### Summer
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf#page=24)
 #### Summer/Fall
 - [Regional Transit Connector](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=4)
+#### August
+- [L (Gold) Line / I 210 Barrier Replacement Project 1](http://metro.legistar1.com/metro/attachments/5aab4d98-c020-4f4b-9c99-0321482d09f5.pdf#page=10)
 #### September
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 - [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
@@ -99,6 +98,7 @@
 - [LA River Mobility Hub - San Fernando Valley](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Foothill L (Gold) Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 - [North San Fernando Valley BRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
+- [LA Streetcar](http://streetcar.la/project-info/spring-2020-project-update/)
 #### June
 - [Central Mobility Station - Old Town to San Diego Airport Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=106)
 #### Summer
@@ -141,6 +141,9 @@
 
 ### 2047
 - [Crenshaw Northern Extension](https://www.metro.net/projects/crenshaw-northern-extension/)
+
+### 2052
+- [C (Green) Line Extension to Metrolink EIS](https://theplan.metro.net/wp-content/uploads/2016/09/measurem_ordinance_16-01.pdf#page=20)
 
 ### 2057
 - [G (Orange) Line BRT Conversion to LRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
