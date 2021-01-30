@@ -1,7 +1,6 @@
 # Southern California Transit Projects
 
-### 2020
-#### December
+### Deadline Missed / Delayed Indefinitely
 - [G Line Bus Electrification](https://la.streetsblog.org/2020/07/27/metro-kicks-off-g-line-bus-electrification)
 - [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
@@ -106,6 +105,8 @@
 
 ### 2026
 - [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
+#### Q3
+- [Inglewood Transit Connector](http://envisioninglewood.org/wp-content/uploads/2021/01/project_implementation_faw_sheet_R2.pdf#page=2)
 
 ### 2027
 - [D (Purple) Line Extension Phase 3](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=7)
