@@ -12,8 +12,6 @@
 #### January
 - [CAHSR LA to Anaheim Draft EIS](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
-#### February
-- [Laguna Niguel to San Juan Capistrano Passing Siding Project](https://octa.net/images/SJC_passing_siding_Schedule.png)
 #### Early
 - [Rose Creek Coastal Rail Trail](https://www.keepsandiegomoving.com/RegionalBikeProjects/rose_creek_bikeway_schedule.aspx)
 #### March
