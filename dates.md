@@ -27,6 +27,7 @@
 #### June
 - [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8786034&GUID=44033C8C-F354-4041-BC25-CCA5DB197714#page=4)
 - [CAHSR Burbank to LA ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
+- [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### August
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Q3
@@ -36,6 +37,7 @@
 #### November
 - [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=103)
 #### December
+- [Del Mar Bluffs Stabilization VI Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 - [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=84)
 
@@ -53,10 +55,10 @@
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
 #### March
 - [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
-- [Fourth and Fifth Avenue Bikeways](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=83)
+- [Fourth and Fifth Avenue Bikeways](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 #### April
-- [San Diego Central Mobility Hub](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=81)
-- [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=83)
+- [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
+- [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 - [El Portal Pedestrian Undercrossing](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Summer
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf#page=24)
@@ -101,7 +103,8 @@
 - [D (Purple) Line Extension Phase 2](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=6)
 
 ### 2026
-- [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
+#### August
+- [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 #### Q3
 - [Inglewood Transit Connector](http://envisioninglewood.org/wp-content/uploads/2021/01/project_implementation_faw_sheet_R2.pdf#page=2)
 
