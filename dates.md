@@ -1,27 +1,21 @@
 # Southern California Transit Projects
 
 ### Deadline Missed / Delayed Indefinitely
-- [G Line Bus Electrification](https://la.streetsblog.org/2020/07/27/metro-kicks-off-g-line-bus-electrification)
-- [San Onofre to Pulgas Double Track Design](https://www.sandag.org/uploads/meetingid/meetingid_5409_27658.pdf#page=70)
+- [G Line Bus Electrification](https://la.streetsblog.org/2021/02/11/metro-continues-to-delay-timelines-for-bus-electrification-pilots)
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
 - [LA River Bike Path Draft EIR](https://www.metro.net/projects/lariverpath/)
 - [Vista Canyon Multi-Modal Center](https://vistacanyon.com/news/whats-new/groundbreaking-at-vista-canyon-metrolink-station/)
-#### January
-- [CAHSR LA to Anaheim Draft EIS](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
-- [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=90)
-#### Early
-- [Rose Creek Coastal Rail Trail](https://www.keepsandiegomoving.com/RegionalBikeProjects/rose_creek_bikeway_schedule.aspx)
 #### March
-- [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=8729010&GUID=FE944B68-32B0-42B0-8A06-1F23435ED49D#page=10)
-- [SANDAG Regional Plan Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=106)
+- [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=9182113&GUID=F4C22FF1-D742-4B81-A4E3-21993F726B48#page=9)
+#### April
+- [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=102)
 #### Spring
+- [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 - [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
 - [Downtown LA Dedicated Bus Lanes - Phase 2](https://thesource.metro.net/2020/08/10/new-dedicated-bus-lanes-and-protected-bike-lanes-debut-on-5th-and-6th-streets-in-dtla/)
-#### April
-- [CAHSR Bakersfield to Palmdale ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 #### Q1/Q2
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/transportation-solutions/inglewood-transit-connector/)
 #### Late Spring
@@ -33,8 +27,14 @@
 #### June
 - [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8786034&GUID=44033C8C-F354-4041-BC25-CCA5DB197714#page=4)
 - [CAHSR Burbank to LA ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
-#### September
-- [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=105)
+#### August
+- [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
+#### Q3
+- [CAHSR Bakersfield to Palmdale ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
+#### Late
+- [2021 SANDAG Regional Plan Approval](https://www.sdforward.com/about-san-diego-forward/what-san-diego-forward)
+#### November
+- [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=103)
 #### December
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 - [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=84)
@@ -57,8 +57,7 @@
 #### April
 - [San Diego Central Mobility Hub](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=81)
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=83)
-#### Spring
-- [El Portal Pedestrian Undercrossing](https://www.businesswire.com/news/home/20201001006005/en/Granite-Awarded-7-Million-Pedestrian-Rail-Undercrossing-and-Shared-Use-Path-Project-in-Southern-California)
+- [El Portal Pedestrian Undercrossing](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Summer
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf#page=24)
 #### Summer/Fall
