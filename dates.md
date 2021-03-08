@@ -6,32 +6,32 @@
 
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
-- [LA River Bike Path Draft EIR](https://www.metro.net/projects/lariverpath/)
+- [LA River Bike Path Draft EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Vista Canyon Multi-Modal Center](https://vistacanyon.com/news/whats-new/groundbreaking-at-vista-canyon-metrolink-station/)
 #### March
 - [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=9182113&GUID=F4C22FF1-D742-4B81-A4E3-21993F726B48#page=9)
 #### April
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=102)
 #### Spring
-- [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
-- [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
+- [Antelope Valley Line Capacity and Service Improvements Draft EIR](https://www.metro.net/projects/avl/)
 - [Downtown LA Dedicated Bus Lanes - Phase 2](https://thesource.metro.net/2020/08/10/new-dedicated-bus-lanes-and-protected-bike-lanes-debut-on-5th-and-6th-streets-in-dtla/)
 #### Q1/Q2
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/transportation-solutions/inglewood-transit-connector/)
 #### Late Spring
 - [North Hollywood to Pasadena Final EIR](https://www.boulevardsentinel.com/metro-proposes-dedicated-bus-lanes-for-colorado-boulevard-says-a-freeway-route-is-less-feasible/)
-#### Mid
-- [Del Mar Bluffs Stabilization V Design](https://keepsandiegomoving.com/Libraries/Lossan-PDFs/DMB_5_Fact_Sheet_Final.sflb.ashx)
-#### Summer
-- [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/brdmeetings/2020/brdmtg_081320_Item4_CEO_Report.pdf)
+#### Q2
+- [CAHSR Bakersfield to Palmdale ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### June
 - [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8786034&GUID=44033C8C-F354-4041-BC25-CCA5DB197714#page=4)
-- [CAHSR Burbank to LA ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
 - [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
+#### Summer
+- [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
 #### August
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Q3
-- [CAHSR Bakersfield to Palmdale ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
+- [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
+#### October
+- [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Late
 - [2021 SANDAG Regional Plan Approval](https://www.sdforward.com/about-san-diego-forward/what-san-diego-forward)
 #### November
@@ -39,16 +39,17 @@
 #### December
 - [Del Mar Bluffs Stabilization VI Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
-- [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=84)
+- [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=103)
+#### Q4
+- [CAHSR Burbank to LA ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
+#### Q4 2021/Q1 2022
+- [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 
 ### 2022
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
 - [San Onofre to Pulgas Double Track Phase 2](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
-#### January
-- [CAHSR Palmdale to Burbank ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
-#### February
-- [CAHSR LA to Anaheim ROD](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=94)
+- [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 #### Q1
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/#m-navigation)
 #### Early
@@ -68,15 +69,18 @@
 - [L (Gold) Line / I 210 Barrier Replacement Project 1](http://metro.legistar1.com/metro/attachments/5aab4d98-c020-4f4b-9c99-0321482d09f5.pdf#page=10)
 #### September
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
-- [Rose Canyon Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 #### December
 - [CAHSR Central Valley Segment (Kings/Tulare to Madera) - Civil Construction](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=17)
+#### Q4
+- [CAHSR Palmdale to Burbank ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 
 ### 2023
 - [Las Vegas High Speed Rail](https://vegasinc.lasvegassun.com/business/tourism/2019/aug/02/vegas-california-passenger-rail-project-secure/)
 - [LAX People Mover and Connector Station](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/)
 - [Pershing Drive Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
+#### Q4 2022/Q2 2023
+- [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### April
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
 #### Fall
