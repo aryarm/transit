@@ -1,15 +1,13 @@
 # Southern California Transit Projects
 
 ### Deadline Missed / Delayed Indefinitely
-- [G Line Bus Electrification](https://la.streetsblog.org/2021/02/11/metro-continues-to-delay-timelines-for-bus-electrification-pilots)
+- [Green Line Extension through Norwalk](https://la.streetsblog.org/2017/01/09/scag-studying-green-line-across-norwalk-meeting-wednesday/)
 - [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
 - [LA River Bike Path Draft EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Vista Canyon Multi-Modal Center](https://vistacanyon.com/news/whats-new/groundbreaking-at-vista-canyon-metrolink-station/)
-#### March
-- [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=9182113&GUID=F4C22FF1-D742-4B81-A4E3-21993F726B48#page=9)
 #### April
 - [Rose Creek Coastal Rail Trail](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=102)
 #### Spring
@@ -17,12 +15,13 @@
 - [Downtown LA Dedicated Bus Lanes - Phase 2](https://thesource.metro.net/2020/08/10/new-dedicated-bus-lanes-and-protected-bike-lanes-debut-on-5th-and-6th-streets-in-dtla/)
 #### Q1/Q2
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/transportation-solutions/inglewood-transit-connector/)
+#### May
+- [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=9244464&GUID=D3EE3813-22DD-460D-8F10-869ECA440741#page=9)
 #### Late Spring
 - [North Hollywood to Pasadena Final EIR](https://www.boulevardsentinel.com/metro-proposes-dedicated-bus-lanes-for-colorado-boulevard-says-a-freeway-route-is-less-feasible/)
 #### Q2
 - [CAHSR Bakersfield to Palmdale ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### June
-- [Crenshaw/LAX Line](https://metro.legistar.com/View.ashx?M=F&ID=8786034&GUID=44033C8C-F354-4041-BC25-CCA5DB197714#page=4)
 - [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Summer
 - [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
@@ -36,6 +35,8 @@
 - [2021 SANDAG Regional Plan Approval](https://www.sdforward.com/about-san-diego-forward/what-san-diego-forward)
 #### November
 - [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=103)
+#### Winter
+- [K (Crenshaw/LAX) Line](https://metro.legistar.com/View.ashx?M=F&ID=9244464&GUID=D3EE3813-22DD-460D-8F10-869ECA440741#page=4)
 #### December
 - [Del Mar Bluffs Stabilization VI Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
@@ -48,8 +49,9 @@
 ### 2022
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Dodger Stadium Aerial Tram (to US)](https://la.curbed.com/2018/4/26/17285588/aerial-tram-dodgers-stadium-union-station)
-- [San Onofre to Pulgas Double Track Phase 2](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
+- [Landis Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/landisbikeway_schedule.aspx)
+- [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
 #### Q1
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/#m-navigation)
 #### Early
@@ -77,19 +79,22 @@
 - [LAX People Mover and Connector Station](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/)
 - [Pershing Drive Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
+- [Howard Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/howardbikeway-schedule.aspx)
 #### Q4 2022/Q2 2023
 - [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### April
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
-#### Fall
-- [D (Purple) Line Extension Phase 1](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=5)
 #### Late
 - [West Valley Connector BRT](https://www.gosbcta.com/wp-content/uploads/2020/01/West-Valley-Connector-Website.pdf#page=3)
 
 ### 2024
+- [San Onofre to Pulgas Double Track Phase 2](https://sandag.org/uploads/meetingid/meetingid_5674_28896.pdf#page=13)
 - [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
+- [University Bikeway](https://keepsandiegomoving.com/RegionalBikeProjects/universitybikeway_schedule.aspx)
 #### Summer
 - [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
+#### Fall
+- [D (Purple) Line Extension Phase 1](https://metro.legistar.com/View.ashx?M=F&ID=9244464&GUID=D3EE3813-22DD-460D-8F10-869ECA440741#page=6)
 
 ### 2025
 - [North Oceanside Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)?
@@ -130,6 +135,7 @@
 - [Sprinter (Oceanside-Escondido) Double Tracking](https://www.sandag.org/uploads/2050RTP/F2050rtp_all.pdf#page=226)
 - [San Dieguito Double Track (+ Station @ Del Mar Fair)](https://www.keepsandiegomoving.com/Lossan-Group/san_dieguito_schedule.aspx)
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
+- [G Line Bus Electrification](https://la.streetsblog.org/2021/02/11/metro-continues-to-delay-timelines-for-bus-electrification-pilots)
 
 ### 2031
 #### Late
