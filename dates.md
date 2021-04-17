@@ -2,7 +2,6 @@
 
 ### Deadline Missed / Delayed Indefinitely
 - [Green Line Extension through Norwalk](https://la.streetsblog.org/2017/01/09/scag-studying-green-line-across-norwalk-meeting-wednesday/)
-- [West Santa Ana Branch Draft EIS](https://urbanize.la/post/metro-could-open-west-santa-ana-branch-segments)
 
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
@@ -16,11 +15,13 @@
 #### Q1/Q2
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/transportation-solutions/inglewood-transit-connector/)
 #### May
-- [Willowbrook/Rosa Parks Station Improvement](https://metro.legistar.com/View.ashx?M=F&ID=9244464&GUID=D3EE3813-22DD-460D-8F10-869ECA440741#page=9)
+- [Willowbrook/Rosa Parks Station Improvement](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=8)
 #### Late Spring
 - [North Hollywood to Pasadena Final EIR](https://www.boulevardsentinel.com/metro-proposes-dedicated-bus-lanes-for-colorado-boulevard-says-a-freeway-route-is-less-feasible/)
 #### Q2
 - [CAHSR Bakersfield to Palmdale ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
+#### Early Summer
+- [West Santa Ana Branch Draft EIS](https://www.metro.net/projects/west-santa-ana/)
 #### June
 - [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Summer
@@ -29,6 +30,8 @@
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Q3
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
+#### Summer/Fall
+- [LA Metro Link US Draft EIS](https://hsr.ca.gov/wp-content/uploads/2021/04/brdmtg_042221_Item3_NEPA_Update.pdf#page=4)
 #### October
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Late
@@ -36,7 +39,7 @@
 #### November
 - [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=103)
 #### Winter
-- [K (Crenshaw/LAX) Line](https://metro.legistar.com/View.ashx?M=F&ID=9244464&GUID=D3EE3813-22DD-460D-8F10-869ECA440741#page=4)
+- [K (Crenshaw/LAX) Line](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=3)
 #### December
 - [Del Mar Bluffs Stabilization VI Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
@@ -66,9 +69,7 @@
 #### Summer
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf#page=24)
 #### Summer/Fall
-- [Regional Transit Connector](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=4)
-#### August
-- [L (Gold) Line / I 210 Barrier Replacement Project 1](http://metro.legistar1.com/metro/attachments/5aab4d98-c020-4f4b-9c99-0321482d09f5.pdf#page=10)
+- [Regional Transit Connector](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=4)
 #### September
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 #### Q4
@@ -79,7 +80,6 @@
 ### 2023
 - [Las Vegas High Speed Rail](https://vegasinc.lasvegassun.com/business/tourism/2019/aug/02/vegas-california-passenger-rail-project-secure/)
 - [LAX People Mover and Connector Station](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/)
 - [Pershing Drive Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
 - [Howard Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/howardbikeway-schedule.aspx)
 #### Q4 2022/Q2 2023
@@ -93,10 +93,12 @@
 - [San Onofre to Pulgas Double Track Phase 2](https://sandag.org/uploads/meetingid/meetingid_5674_28896.pdf#page=13)
 - [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
 - [University Bikeway](https://keepsandiegomoving.com/RegionalBikeProjects/universitybikeway_schedule.aspx)
+#### June
+- [Division 20 Portal Widening and Turnback Facility](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=9)
 #### Summer
 - [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### Fall
-- [D (Purple) Line Extension Phase 1](https://metro.legistar.com/View.ashx?M=F&ID=9244464&GUID=D3EE3813-22DD-460D-8F10-869ECA440741#page=6)
+- [D (Purple) Line Extension Phase 1](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=5)
 
 ### 2025
 - [North Oceanside Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)?
@@ -109,7 +111,7 @@
 #### June
 - [Central Mobility Station - Old Town to San Diego Airport Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=106)
 #### Summer
-- [D (Purple) Line Extension Phase 2](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=6)
+- [D (Purple) Line Extension Phase 2](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=6)
 
 ### 2026
 #### August
@@ -118,11 +120,12 @@
 - [Inglewood Transit Connector](http://envisioninglewood.org/wp-content/uploads/2021/01/project_implementation_faw_sheet_R2.pdf#page=2)
 
 ### 2027
-- [D (Purple) Line Extension Phase 3](https://metro.legistar.com/View.ashx?M=F&ID=8003866&GUID=1395A86D-0C5F-4A05-8F61-21561E0A1BE4#page=7)
 - [C (Green) Line LRT Extension to Torrance](http://media.metro.net/projects_studies/resources/images/att_a_28x28_list.pdf)
 - [East San Fernando Valley Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Carlsbad Village Double Track](http://www.ci.encinitas.ca.us/Portals/0/City%20Documents/Documents/Development%20Services/Planning/Advanced%20Planning/CMLS/LOSSAN%20SD%20CBVDT%20Trench%20Feasibility%20Study.pdf#%5B%7B%22num%22%3A138%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C699%2C0%5D)
+#### Spring
+- [D (Purple) Line Extension Phase 3](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=7)
 
 ### 2028
 - [Foothill L (Gold) Line Extension Phase 2B to Montclair](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
