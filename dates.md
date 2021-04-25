@@ -82,6 +82,7 @@
 - [LAX People Mover and Connector Station](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Pershing Drive Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
 - [Howard Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/howardbikeway-schedule.aspx)
+- [Crenshaw Northern Extension Draft EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
 #### Q4 2022/Q2 2023
 - [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### April
@@ -93,11 +94,13 @@
 - [San Onofre to Pulgas Double Track Phase 2](https://sandag.org/uploads/meetingid/meetingid_5674_28896.pdf#page=13)
 - [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
 - [University Bikeway](https://keepsandiegomoving.com/RegionalBikeProjects/universitybikeway_schedule.aspx)
+- [Crenshaw Northern Extension Final EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
 #### June
 - [Division 20 Portal Widening and Turnback Facility](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=9)
 #### Summer
 - [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### Fall
+- [Pomona to Fontana BRT](https://www.sgvtribune.com/2021/04/05/87-million-federal-grant-okd-for-san-bernardino-county-busway-project)
 - [D (Purple) Line Extension Phase 1](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=5)
 
 ### 2025
@@ -108,6 +111,7 @@
 - [Foothill L (Gold) Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 - [North San Fernando Valley BRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
 - [LA Streetcar](http://streetcar.la/project-info/spring-2020-project-update/)
+- [LAX Airport Metro Connector Station](https://la.streetsblog.org/2021/04/22/metro-board-approves-900-million-budget-for-lax-connector)
 #### June
 - [Central Mobility Station - Old Town to San Diego Airport Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=106)
 #### Summer
