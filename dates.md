@@ -2,30 +2,25 @@
 
 ### Deadline Missed / Delayed Indefinitely
 - [Green Line Extension through Norwalk](https://la.streetsblog.org/2017/01/09/scag-studying-green-line-across-norwalk-meeting-wednesday/)
+- [Willowbrook/Rosa Parks Station Improvement](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=8)
+- [North Hollywood to Pasadena Final EIR](https://www.boulevardsentinel.com/metro-proposes-dedicated-bus-lanes-for-colorado-boulevard-says-a-freeway-route-is-less-feasible/)
 
 ### 2021
 - [West Santa Ana Branch Final EIS](https://media.metro.net/projects_studies/westSantaAnaBranch/images/factsheet_overview_WSAB.pdf#page=4)
 - [LA River Bike Path Draft EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Vista Canyon Multi-Modal Center](https://vistacanyon.com/news/whats-new/groundbreaking-at-vista-canyon-metrolink-station/)
-#### Spring
-- [Antelope Valley Line Capacity and Service Improvements Draft EIR](https://www.metro.net/projects/avl/)
-- [Downtown LA Dedicated Bus Lanes - Phase 2](https://thesource.metro.net/2020/08/10/new-dedicated-bus-lanes-and-protected-bike-lanes-debut-on-5th-and-6th-streets-in-dtla/)
 #### Q1/Q2
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/transportation-solutions/inglewood-transit-connector/)
-#### May
-- [Willowbrook/Rosa Parks Station Improvement](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=8)
-#### Late Spring
-- [North Hollywood to Pasadena Final EIR](https://www.boulevardsentinel.com/metro-proposes-dedicated-bus-lanes-for-colorado-boulevard-says-a-freeway-route-is-less-feasible/)
 #### Q2
 - [CAHSR Bakersfield to Palmdale ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
+#### June
+- [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
 #### Early Summer
 - [West Santa Ana Branch Draft EIS](https://www.metro.net/projects/west-santa-ana/)
-#### June
-- [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
+#### July
+- [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
 #### Summer
-- [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
-#### August
-- [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
+- [Antelope Valley Line Capacity and Service Improvements Draft EIR](https://www.metro.net/projects/avl/)
 #### Q3
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Summer/Fall
@@ -35,7 +30,8 @@
 #### October
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Late
-- [2021 SANDAG Regional Plan Approval](https://www.sdforward.com/about-san-diego-forward/what-san-diego-forward)
+- [2021 SANDAG Regional Plan Adoption](https://www.sdforward.com/about-san-diego-forward/what-san-diego-forward)
+- [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
 #### November
 - [San Diego Mid Coast Trolley](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=103)
 #### Winter
@@ -63,11 +59,8 @@
 - [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
 - [Fourth and Fifth Avenue Bikeways](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 #### April
-- [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 - [El Portal Pedestrian Undercrossing](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
-#### Summer
-- [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](http://media.metro.net/projects_studies/regionalrail/rosecransmarquardt_openhouse_2017-1017.pdf#page=24)
 #### Fall
 - [Regional Transit Connector](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=9)
 #### September
@@ -76,6 +69,8 @@
 - [CAHSR Palmdale to Burbank ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Late
 - [Arts District / 6th Street Station](https://www.metro.net/projects/arts-dist-6th-station/)
+#### December
+- [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
 
 ### 2023
 - [Las Vegas High Speed Rail](https://vegasinc.lasvegassun.com/business/tourism/2019/aug/02/vegas-california-passenger-rail-project-secure/)
@@ -86,6 +81,8 @@
 - [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### April
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
+#### June
+- [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](https://www.metro.net/projects/rosecrans-marquardt-grade-separation/)
 #### Late
 - [West Valley Connector BRT](https://www.gosbcta.com/wp-content/uploads/2020/01/West-Valley-Connector-Website.pdf#page=3)
 
@@ -111,8 +108,6 @@
 - [Foothill L (Gold) Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 - [North San Fernando Valley BRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
 - [LA Streetcar](http://streetcar.la/project-info/spring-2020-project-update/)
-#### June
-- [Central Mobility Station - Old Town to San Diego Airport Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5398_27205.pdf#page=106)
 #### Summer
 - [D (Purple) Line Extension Phase 2](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=6)
 
