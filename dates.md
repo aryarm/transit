@@ -58,6 +58,8 @@
 #### March
 - [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
 - [Fourth and Fifth Avenue Bikeways](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
+#### Spring
+- [LA Metro's Traffic Reduction Study](https://thesource.metro.net/2021/06/24/with-congestion-increasing-heres-an-update-on-metros-traffic-reduction-study/)
 #### April
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 - [El Portal Pedestrian Undercrossing](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
