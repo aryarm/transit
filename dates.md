@@ -12,12 +12,8 @@
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/transportation-solutions/inglewood-transit-connector/)
 #### June
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
-#### Early Summer
-- [West Santa Ana Branch Draft EIS](https://www.metro.net/projects/west-santa-ana/)
 #### July
 - [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
-#### Summer
-- [Antelope Valley Line Capacity and Service Improvements Draft EIR](https://www.metro.net/projects/avl/)
 #### August
 - [CAHSR Bakersfield to Palmdale ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Q3
@@ -62,6 +58,8 @@
 #### April
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 - [El Portal Pedestrian Undercrossing](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
+#### Summer
+- [West Santa Ana Branch Final EIR](https://media.metro.net/2021/WSAB-English-Fact-Sheet.pdf)
 #### Fall
 - [Regional Transit Connector](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=9)
 #### September
