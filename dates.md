@@ -68,6 +68,9 @@
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 #### Q4
 - [CAHSR Palmdale to Burbank ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
+#### Winter
+- [Burbank Junction Speed Improvements](https://metrolinktrains.com/about/agency/score/burbank-project)
+- [Chatsworth Station Improvements](https://metrolinktrains.com/chatsworth-project)
 #### Late
 - [Arts District / 6th Street Station](https://www.metro.net/projects/arts-dist-6th-station/)
 #### December
@@ -95,6 +98,9 @@
 #### June
 - [Division 20 Portal Widening and Turnback Facility](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=9)
 - [LAX People Mover and Connector Station](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=14)
+#### Spring
+- [Marengo Siding Improvements](https://metrolinktrains.com/marengo-siding)
+- [Rancho Cucamonga Siding Extension](https://metrolinktrains.com/rancho-cucamonga-siding)
 #### Summer
 - [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### Fall
@@ -109,7 +115,10 @@
 - [Foothill L (Gold) Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 - [North San Fernando Valley BRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
 - [LA Streetcar](http://streetcar.la/project-info/spring-2020-project-update/)
+#### Spring
+- [Simi Valley Double Track](https://metrolinktrains.com/about/agency/score/simi-valley-project/)
 #### Summer
+- [El Monte Siding Extension](https://metrolinktrains.com/el-monte-siding)
 - [D (Purple) Line Extension Phase 2](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=6)
 
 ### 2026
