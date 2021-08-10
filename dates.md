@@ -2,7 +2,6 @@
 
 ### Deadline Missed / Delayed Indefinitely
 - [Green Line Extension through Norwalk](https://la.streetsblog.org/2017/01/09/scag-studying-green-line-across-norwalk-meeting-wednesday/)
-- [Willowbrook/Rosa Parks Station Improvement](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=8)
 - [North Hollywood to Pasadena Final EIR](https://www.boulevardsentinel.com/metro-proposes-dedicated-bus-lanes-for-colorado-boulevard-says-a-freeway-route-is-less-feasible/)
 
 ### 2021
