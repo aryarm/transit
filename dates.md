@@ -146,7 +146,6 @@
 - [Sprinter (Oceanside-Escondido) Double Tracking](https://www.sandag.org/uploads/2050RTP/F2050rtp_all.pdf#page=226)
 - [San Dieguito Double Track (+ Station @ Del Mar Fair)](https://www.keepsandiegomoving.com/Lossan-Group/san_dieguito_schedule.aspx)
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
-- [G Line Bus Electrification](https://la.streetsblog.org/2021/02/11/metro-continues-to-delay-timelines-for-bus-electrification-pilots)
 
 ### 2031
 #### Late
