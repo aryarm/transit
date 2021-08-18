@@ -73,9 +73,10 @@
 
 ### 2023
 - [Las Vegas High Speed Rail](https://vegasinc.lasvegassun.com/business/tourism/2019/aug/02/vegas-california-passenger-rail-project-secure/)
-- [Pershing Drive Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
+- [Pershing Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
 - [Howard Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/howardbikeway-schedule.aspx)
 - [Crenshaw Northern Extension Draft EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
+- [Central Avenue Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/CentralAvenue_schedule.aspx)
 #### Q4 2022/Q2 2023
 - [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### April
@@ -90,6 +91,7 @@
 - [Montebello Blvd Grade Separation](https://www.theaceproject.org/montebello-corridor-grade-separatio)
 - [University Bikeway](https://keepsandiegomoving.com/RegionalBikeProjects/universitybikeway_schedule.aspx)
 - [Crenshaw Northern Extension Final EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
+- [Bayshore Bikeway - Barrio Logan Segment](https://www.keepsandiegomoving.com/RegionalBikeProjects/Bayshore_Bikeway_schedule.aspx)
 #### June
 - [Division 20 Portal Widening and Turnback Facility](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=9)
 - [LAX People Mover and Connector Station](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=14)
@@ -110,6 +112,11 @@
 - [Foothill L (Gold) Line Extension Phase 2B to Pomona](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 - [North San Fernando Valley BRT](https://thesource.metro.net/2020/11/05/celebrating-the-valleys-new-shortcut-metros-innovative-g-line-orange-marks-15th-anniversary/)
 - [LA Streetcar](http://streetcar.la/project-info/spring-2020-project-update/)
+- [Border to Bayshore Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/border_to_bayshore_schedule.aspx)
+- [Imperial Ave Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/imperialavenuebikeway_schedule.aspx)
+- [Orange Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/orangebikeway-schedule.aspx)
+- [Eastern Hillcrest Bikeway](https://www.keepsandiegomoving.com/regionalbikeprojects/UptownSegment2-schedule.aspx)
+- [Washington Street and Bachman Place Bikeways](https://www.keepsandiegomoving.com/regionalbikeprojects/UptownSegment3-schedule.aspx)
 #### Spring
 - [Simi Valley Double Track](https://metrolinktrains.com/about/agency/score/simi-valley-project/)
 #### Summer
