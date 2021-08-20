@@ -11,8 +11,6 @@
 - [Vista Canyon Multi-Modal Center](https://vistacanyon.com/news/whats-new/groundbreaking-at-vista-canyon-metrolink-station/)
 #### July
 - [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
-#### August
-- [CAHSR Bakersfield to Palmdale ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Q3
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Summer/Fall
