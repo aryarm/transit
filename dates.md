@@ -43,6 +43,7 @@
 - [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Landis Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/landisbikeway_schedule.aspx)
 - [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
+- [Doran Street Grade Separation](https://www.metro.net/projects/doran-street-railroad-crossing/)
 #### Q1
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/#m-navigation)
 #### Early
@@ -51,6 +52,7 @@
 - [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
 - [Fourth and Fifth Avenue Bikeways](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 #### Spring
+- [Vermont Transit Corridor South Bay Extension Feasibility Study](https://www.metro.net/projects/vermont-transit-corridor-south-bay-extension-feasibility-study/)
 - [LA Metro's Traffic Reduction Study](https://thesource.metro.net/2021/06/24/with-congestion-increasing-heres-an-update-on-metros-traffic-reduction-study/)
 #### April
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
@@ -83,6 +85,7 @@
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
 #### June
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](https://www.metro.net/projects/rosecrans-marquardt-grade-separation/)
+- [Lonehill Avenue to White Avenue Double-Track](https://www.metro.net/projects/lonehill-to-white-double-track/)
 #### Late
 - [West Valley Connector BRT](https://www.gosbcta.com/wp-content/uploads/2020/01/West-Valley-Connector-Website.pdf#page=3)
 
@@ -147,6 +150,7 @@
 - [L (Gold) Line Eastside Extension to Whittier or South El Monte](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [West Santa Ana Branch](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [CAHSR Bakersfield to Merced](https://www.fresnobee.com/news/local/high-speed-rail/article240234126.html)
+- [Link US - Phase A](https://www.metro.net/projects/link-us/)
 
 ### 2030
 - [Sprinter (Oceanside-Escondido) Double Tracking](https://www.sandag.org/uploads/2050RTP/F2050rtp_all.pdf#page=226)
