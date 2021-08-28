@@ -7,6 +7,7 @@
 - [Del Mar Bluffs Stabilization V Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
 
 ### 2021
+- [Alvarado St Bus Priority Lane](https://www.metro.net/projects/alvaradost/)
 - [LA River Bike Path Draft EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Vista Canyon Multi-Modal Center](https://vistacanyon.com/news/whats-new/groundbreaking-at-vista-canyon-metrolink-station/)
 #### July
@@ -14,6 +15,7 @@
 #### Q3
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Summer/Fall
+- [Brighton to Roxford Double Track](https://www.metro.net/projects/brighton-to-roxford-double-track-regional-rail/)
 - [LA Metro Link US NEPA Draft EIS](https://hsr.ca.gov/wp-content/uploads/2021/04/brdmtg_042221_Item3_NEPA_Update.pdf#page=4)
 #### Fall
 - [Dodger Stadium Gondola Draft EIR](https://californianewstimes.com/preferred-route-chosen-for-dodger-stadium-to-union-station-gondola-project-press-telegram/349979/)
@@ -118,6 +120,7 @@
 #### Spring
 - [Simi Valley Double Track](https://metrolinktrains.com/about/agency/score/simi-valley-project/)
 #### Summer
+- [Centinela Grade Separation](https://www.metro.net/projects/centinela/)
 - [El Monte Siding Extension](https://metrolinktrains.com/el-monte-siding)
 - [D (Purple) Line Extension Phase 2](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=6)
 
