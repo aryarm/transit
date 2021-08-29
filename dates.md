@@ -32,6 +32,7 @@
 - [Del Mar Bluffs Stabilization VI Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 - [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=103)
+- [San Elijo Lagoon Bike/Pedestrian Bridge](https://www.sandag.org/uploads/projectid/projectid_604_28513.pdf#page=53)
 #### Q4
 - [CAHSR Burbank to LA ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Q4 2021/Q1 2022
@@ -158,6 +159,8 @@
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
 
 ### 2031
+#### Jan
+- [I-5/SR 56 Bike Extension](https://www.sandag.org/uploads/projectid/projectid_604_28513.pdf#page=64)
 #### Late
 - [CAHSR Silicon Valley to Central Valley Line (San Francisco and Merced to Bakersfield)](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=142)
 
