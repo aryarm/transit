@@ -2,7 +2,6 @@
 
 ### Deadline Missed / Delayed Indefinitely
 - [Green Line Extension through Norwalk](https://la.streetsblog.org/2017/01/09/scag-studying-green-line-across-norwalk-meeting-wednesday/)
-- [North Hollywood to Pasadena Final EIR](https://www.metro.net/projects/noho-pasadena-corridor/)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/transportation-solutions/inglewood-transit-connector/)
 
 ### 2021
@@ -36,6 +35,8 @@
 - [CAHSR Burbank to LA ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Q4 2021/Q1 2022
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
+#### Late 2021/Early 2022
+- [North Hollywood to Pasadena Final EIR](https://www.metro.net/projects/noho-pasadena-corridor/)
 
 ### 2022
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
