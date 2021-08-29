@@ -18,7 +18,7 @@
 #### Fall
 - [Dodger Stadium Gondola Draft EIR](https://californianewstimes.com/preferred-route-chosen-for-dodger-stadium-to-union-station-gondola-project-press-telegram/349979/)
 #### October
-- [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
+- [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=101)
 #### Late
 - [2021 SANDAG Regional Plan Adoption](https://www.sdforward.com/about-san-diego-forward/what-san-diego-forward)
 - [Antelope Valley Line Capacity and Service Improvements Final EIR](https://www.metro.net/projects/avl/)
