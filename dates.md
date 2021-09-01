@@ -7,7 +7,6 @@
 ### 2021
 - [Alvarado St Bus Priority Lane](https://www.metro.net/projects/alvaradost/)
 - [LA River Bike Path Draft EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
-- [Vista Canyon Multi-Modal Center](https://vistacanyon.com/news/whats-new/groundbreaking-at-vista-canyon-metrolink-station/)
 #### July
 - [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
 #### Q3
@@ -45,6 +44,7 @@
 - [Landis Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/landisbikeway_schedule.aspx)
 - [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
 - [Doran Street Grade Separation](https://www.metro.net/projects/doran-street-railroad-crossing/)
+- [Vista Canyon Multi-Modal Center](https://uc265994bedf1c0e5ca7cd1e7dd1.dl.dropboxusercontent.com/cd/0/inline2/BVU4iyWJ_s-_A9zdviCDieJ6DswQUb6LnaphuxX90w5ty-oEADwF6DEmK61VDsS3Fay60CNoMt9dhjVWC58cgGxwTjVfqwTA4c9BslODhOGN7-rfVq6X67oguTYaq_pSCyhWz28rwm60NlEUwP9Y2UD2qMn8W42VMmVYbnaA2JnOrK_197RMnUDUl2Bf0dUV_2e7kiaitbqV8WK8OgxXdkMXTTjeH0HNAOWMUKTIwxfFk7Xyx8jHX3ZapN9fdkF0M5_XHnxur3qjWBaVsQnu_Te6BlbpD2MA4Ck5G1XjLeNDhHK7TUYvQIIvyLwYxuo14xDkkaqm1TCnJqxyDRKiGuHdBCTEgsV-qY_lZ6XmZRbadNTrvYiuG6nGAKxHzKfKc9w/file#page=442)
 #### Q1
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/#m-navigation)
 #### Early
