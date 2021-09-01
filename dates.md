@@ -49,6 +49,7 @@
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/#m-navigation)
 #### Early
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
+- [Serra Siding Extension Project Draft EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### March
 - [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
 - [Fourth and Fifth Avenue Bikeways](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
@@ -60,6 +61,8 @@
 - [El Portal Pedestrian Undercrossing](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Summer
 - [West Santa Ana Branch Final EIR](https://media.metro.net/2021/WSAB-English-Fact-Sheet.pdf)
+#### Mid
+- [Serra Siding Extension Project Final EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Fall
 - [Regional Transit Connector](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=9)
 #### September
@@ -80,6 +83,7 @@
 - [Howard Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/howardbikeway-schedule.aspx)
 - [Crenshaw Northern Extension Draft EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
 - [Central Avenue Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/CentralAvenue_schedule.aspx)
+- [Anaheim Canyon Metrolink Station Improvement](https://www.masstransitmag.com/rail/infrastructure/press-release/21231456/orange-county-transportation-authority-octa-octa-begins-work-on-30-million-anaheim-canyon-metrolink-improvements)
 #### Q4 2022/Q2 2023
 - [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### April
@@ -140,6 +144,8 @@
 - [East San Fernando Valley Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Carlsbad Village Double Track](http://www.ci.encinitas.ca.us/Portals/0/City%20Documents/Documents/Development%20Services/Planning/Advanced%20Planning/CMLS/LOSSAN%20SD%20CBVDT%20Trench%20Feasibility%20Study.pdf#%5B%7B%22num%22%3A138%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C699%2C0%5D)
+#### Early
+- [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Spring
 - [D (Purple) Line Extension Phase 3](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=7)
 
