@@ -155,6 +155,9 @@
 - [Link US - Phase A](https://www.metro.net/projects/link-us/)
 
 ### 2030
+- [Balboa Double Track Extension](https://www.metro.net/projects/avl)
+- [Canyon-Santa Clarita Siding Extension](https://www.metro.net/projects/avl)
+- [Lancaster Terminal Improvements](https://www.metro.net/projects/avl)
 - [Sprinter (Oceanside-Escondido) Double Tracking](https://www.sandag.org/uploads/2050RTP/F2050rtp_all.pdf#page=226)
 - [San Dieguito Double Track (+ Station @ Del Mar Fair)](https://www.keepsandiegomoving.com/Lossan-Group/san_dieguito_schedule.aspx)
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
