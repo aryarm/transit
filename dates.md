@@ -102,6 +102,7 @@
 - [Crenshaw Northern Extension Final EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
 - [Bayshore Bikeway - Barrio Logan Segment](https://www.keepsandiegomoving.com/RegionalBikeProjects/Bayshore_Bikeway_schedule.aspx)
 - [Del Mar Bluffs Stabilization V](https://keepsandiegomoving.com/Libraries/Lossan-PDFs/DMB_Update_20210726_DelMarCouncil_FINAL.sflb.ashx#page=33)
+- [Etiwanda Ave Grade Separation](https://www.dailybulletin.com/2021/03/19/rancho-cucamonga-reflects-on-2020-and-looks-ahead-to-future-projects/)
 #### June
 - [Division 20 Portal Widening and Turnback Facility](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=9)
 - [LAX People Mover and Connector Station](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=14)
