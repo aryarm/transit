@@ -3,7 +3,6 @@
 ### Deadline Missed / Delayed Indefinitely
 - [Green Line Extension through Norwalk](https://la.streetsblog.org/2017/01/09/scag-studying-green-line-across-norwalk-meeting-wednesday/)
 - [Inglewood Transit Connector Final EIR](http://envisioninglewood.org/transportation-solutions/inglewood-transit-connector/)
-- [Old Town Transit Center West Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
 
 ### 2021
 - [LA River Bike Path Draft EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
@@ -27,7 +26,6 @@
 #### Winter
 - [K (Crenshaw/LAX) Line](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=3)
 #### December
-- [Del Mar Bluffs Stabilization VI Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 - [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=103)
 - [San Elijo Lagoon Bike/Pedestrian Bridge](https://www.sandag.org/uploads/projectid/projectid_604_28513.pdf#page=53)
@@ -54,6 +52,7 @@
 #### March
 - [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
 - [Fourth and Fifth Avenue Bikeways](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
+- [Bridge 257.2 Replacement Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 #### Spring
 - [Vermont Transit Corridor South Bay Extension Feasibility Study](https://www.metro.net/projects/vermont-transit-corridor-south-bay-extension-feasibility-study/)
 - [LA Metro's Traffic Reduction Study](https://thesource.metro.net/2021/06/24/with-congestion-increasing-heres-an-update-on-metros-traffic-reduction-study/)
@@ -75,8 +74,6 @@
 - [Chatsworth Station Improvements](https://metrolinktrains.com/chatsworth-project)
 #### Late
 - [Arts District / 6th Street Station](https://www.metro.net/projects/arts-dist-6th-station/)
-#### December
-- [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5679_29235.pdf#page=80)
 
 ### 2023
 - [Las Vegas High Speed Rail](https://vegasinc.lasvegassun.com/business/tourism/2019/aug/02/vegas-california-passenger-rail-project-secure/)
@@ -92,8 +89,12 @@
 #### June
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](https://www.metro.net/projects/rosecrans-marquardt-grade-separation/)
 - [Lonehill Avenue to White Avenue Double-Track](https://www.metro.net/projects/lonehill-to-white-double-track/)
+#### October
+- [Del Mar Bluffs IV](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 #### Late
 - [West Valley Connector BRT](https://www.gosbcta.com/wp-content/uploads/2020/01/West-Valley-Connector-Website.pdf#page=3)
+#### December
+- [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 
 ### 2024
 - [San Onofre to Pulgas Double Track Phase 2](https://sandag.org/uploads/meetingid/meetingid_5674_28896.pdf#page=13)
@@ -101,8 +102,10 @@
 - [University Bikeway](https://keepsandiegomoving.com/RegionalBikeProjects/universitybikeway_schedule.aspx)
 - [Crenshaw Northern Extension Final EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
 - [Bayshore Bikeway - Barrio Logan Segment](https://www.keepsandiegomoving.com/RegionalBikeProjects/Bayshore_Bikeway_schedule.aspx)
-- [Del Mar Bluffs Stabilization V](https://keepsandiegomoving.com/Libraries/Lossan-PDFs/DMB_Update_20210726_DelMarCouncil_FINAL.sflb.ashx#page=33)
+- [Del Mar Bluffs V](https://keepsandiegomoving.com/Libraries/Lossan-PDFs/DMB_Update_20210726_DelMarCouncil_FINAL.sflb.ashx#page=33)
 - [Etiwanda Ave Grade Separation](https://www.dailybulletin.com/2021/03/19/rancho-cucamonga-reflects-on-2020-and-looks-ahead-to-future-projects/)
+#### April
+- [Del Mar Bluffs VI Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 #### June
 - [Division 20 Portal Widening and Turnback Facility](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=9)
 - [LAX People Mover and Connector Station](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=14)
@@ -136,7 +139,7 @@
 - [D (Purple) Line Extension Phase 2](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=6)
 
 ### 2026
-#### August
+#### May
 - [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 #### Q3
 - [Inglewood Transit Connector](http://envisioninglewood.org/wp-content/uploads/2021/01/project_implementation_faw_sheet_R2.pdf#page=2)
