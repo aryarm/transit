@@ -131,6 +131,7 @@
 - [Orange Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/orangebikeway-schedule.aspx)
 - [Eastern Hillcrest Bikeway](https://www.keepsandiegomoving.com/regionalbikeprojects/UptownSegment2-schedule.aspx)
 - [Washington Street and Bachman Place Bikeways](https://www.keepsandiegomoving.com/regionalbikeprojects/UptownSegment3-schedule.aspx)
+- [San Dieguito Double Track Phase 1](https://www.delmar.ca.us/AgendaCenter/ViewFile/Agenda/_09202021-2827#page=13)
 #### Spring
 - [Simi Valley Double Track](https://metrolinktrains.com/about/agency/score/simi-valley-project/)
 #### Summer
