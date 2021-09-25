@@ -7,10 +7,8 @@
 ### 2021
 - [LA River Bike Path Draft EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Grand Av and Olive St Bus Priority Lanes](https://la.streetsblog.org/2021/09/01/bus-only-lane-couplet-coming-to-grand-and-olive/)
-#### Q3
-- [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Summer/Fall
-- [Brighton to Roxford Double Track](https://www.metro.net/projects/brighton-to-roxford-double-track-regional-rail/)
+- [Brighton to Roxford Double Track - Segment 1](https://www.metro.net/projects/brighton-to-roxford-double-track-regional-rail)
 - [LA Metro Link US NEPA Draft EIS](https://hsr.ca.gov/wp-content/uploads/2021/04/brdmtg_042221_Item3_NEPA_Update.pdf#page=4)
 #### Late Summer
 - [Alvarado St Bus Priority Lane - Phase 2](https://www.metro.net/projects/alvaradost/)
@@ -32,6 +30,7 @@
 - [San Elijo Lagoon Bike/Pedestrian Bridge](https://www.sandag.org/uploads/projectid/projectid_604_28513.pdf#page=53)
 - [Coachella Valley-San Gprgonio Pass Rail Corridor ROD](https://www.rctc.org/wp-content/uploads/2021/05/CVR-FactSheet-Spring2021-FINAL.pdf#page=1)
 #### Q4
+- [CAHSR Palmdale to Burbank Draft EIS](https://www.oc-breeze.com/2021/08/28/202083_looking-ahead-at-the-palmdale-to-burbank-segment-of-the-california-high-speed-rail)
 - [CAHSR Burbank to LA ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Q4 2021/Q1 2022
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
