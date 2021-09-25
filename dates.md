@@ -15,6 +15,7 @@
 #### Late Summer
 - [Alvarado St Bus Priority Lane - Phase 2](https://www.metro.net/projects/alvaradost/)
 #### Fall
+- [Riverside-Downtown Station Improvements Draft EIR](https://www.rctc.org/projects/riverside-dt-station-improvements#accordion_775165110)
 - [Dodger Stadium Gondola Draft EIR](https://californianewstimes.com/preferred-route-chosen-for-dodger-stadium-to-union-station-gondola-project-press-telegram/349979/)
 #### October
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=101)
@@ -29,6 +30,7 @@
 - [Metro NextGen Bus Plan](https://thesource.metro.net/2020/01/10/frequent-service-plan-released-for-nextgen-bus-plan/)
 - [I-5/Voigt Drive Improvements](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=103)
 - [San Elijo Lagoon Bike/Pedestrian Bridge](https://www.sandag.org/uploads/projectid/projectid_604_28513.pdf#page=53)
+- [Coachella Valley-San Gprgonio Pass Rail Corridor ROD](https://www.rctc.org/wp-content/uploads/2021/05/CVR-FactSheet-Spring2021-FINAL.pdf#page=1)
 #### Q4
 - [CAHSR Burbank to LA ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Q4 2021/Q1 2022
@@ -47,6 +49,7 @@
 #### Q1
 - [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/#m-navigation)
 #### Early
+- [Moreno Valley/March Field Station Improvements](https://www.rctc.org/projects/stationimprovements#moreno_vallery)
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
 - [Serra Siding Extension Project Draft EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### March
@@ -66,6 +69,7 @@
 #### Fall
 - [Regional Transit Connector](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=9)
 #### September
+- [Riverside-Downtown Station Improvements Final EIR](https://www.rctc.org/projects/riverside-dt-station-improvements#accordion_775165110)
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5155_26585.pdf#page=61)
 #### Q4
 - [CAHSR Palmdale to Burbank ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
