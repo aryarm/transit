@@ -135,6 +135,7 @@
 - [Eastern Hillcrest Bikeway](https://www.keepsandiegomoving.com/regionalbikeprojects/UptownSegment2-schedule.aspx)
 - [Washington Street and Bachman Place Bikeways](https://www.keepsandiegomoving.com/regionalbikeprojects/UptownSegment3-schedule.aspx)
 - [San Dieguito Double Track Phase 1](https://www.delmar.ca.us/AgendaCenter/ViewFile/Agenda/_09202021-2827#page=13)
+- [Gold Line/I-210 Safety Enhancement I](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
 #### Spring
 - [Simi Valley Double Track](https://metrolinktrains.com/about/agency/score/simi-valley-project/)
 #### Summer
@@ -168,6 +169,7 @@
 - [West Santa Ana Branch](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [CAHSR Bakersfield to Merced](https://www.fresnobee.com/news/local/high-speed-rail/article240234126.html)
 - [Link US - Phase A](https://www.metro.net/projects/link-us/)
+- [Gold Line/I-210 Safety Enhancement II](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
 
 ### 2030
 - [Balboa Double Track Extension](https://www.metro.net/projects/avl)
