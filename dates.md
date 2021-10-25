@@ -7,11 +7,11 @@
 ### 2021
 - [LA River Bike Path Draft EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Grand Av and Olive St Bus Priority Lanes](https://la.streetsblog.org/2021/09/01/bus-only-lane-couplet-coming-to-grand-and-olive/)
+#### Late Summer
+- [Alvarado St Bus Priority Lane - Phase 2](https://www.metro.net/projects/alvaradost/)
 #### Summer/Fall
 - [Brighton to Roxford Double Track - Segment 1](https://www.metro.net/projects/brighton-to-roxford-double-track-regional-rail)
 - [LA Metro Link US NEPA Draft EIS](https://hsr.ca.gov/wp-content/uploads/2021/04/brdmtg_042221_Item3_NEPA_Update.pdf#page=4)
-#### Late Summer
-- [Alvarado St Bus Priority Lane - Phase 2](https://www.metro.net/projects/alvaradost/)
 #### Fall
 - [Riverside-Downtown Station Improvements Draft EIR](https://www.rctc.org/projects/riverside-dt-station-improvements#accordion_775165110)
 - [Dodger Stadium Gondola Draft EIR](https://californianewstimes.com/preferred-route-chosen-for-dodger-stadium-to-union-station-gondola-project-press-telegram/349979/)
@@ -63,6 +63,7 @@
 - [El Portal Pedestrian Undercrossing](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
 #### Summer
 - [West Santa Ana Branch Final EIR](https://media.metro.net/2021/WSAB-English-Fact-Sheet.pdf)
+- [Eastside Access Improvements Project](https://la.streetsblog.org/2021/10/22/metro-starts-construction-on-little-tokyo-arts-district-eastside-access-improvements/)
 #### Mid
 - [Serra Siding Extension Project Final EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Fall
