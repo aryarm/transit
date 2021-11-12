@@ -56,6 +56,7 @@
 - [Fourth and Fifth Avenue Bikeways](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 - [Bridge 257.2 Replacement Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 #### Spring
+- [La Brea Av Bus Priority Lanes](https://www.metro.net/projects/la-brea-av-bus-priority-lane-project/)
 - [Vermont Transit Corridor South Bay Extension Feasibility Study](https://www.metro.net/projects/vermont-transit-corridor-south-bay-extension-feasibility-study/)
 - [LA Metro's Traffic Reduction Study](https://thesource.metro.net/2021/06/24/with-congestion-increasing-heres-an-update-on-metros-traffic-reduction-study/)
 #### April
