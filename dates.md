@@ -20,7 +20,7 @@
 - [Alvarado St Bus Priority Lane - Phase 2](https://la.streetsblog.org/2021/09/16/bus-lanes-update-la-brea-olive-grand-and-more-alvarado-coming-soon/)
 #### Late 2021/Early 2022
 - [North Hollywood to Pasadena Final EIR](https://www.metro.net/projects/noho-pasadena-corridor/)
-#### January
+#### January 20
 - [CAHSR Burbank to LA ROD](https://hsr.ca.gov/high-speed-rail-in-california/project-sections/burbank-to-los-angeles/)
 #### February
 - [I-805: South Bay BRT](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=76)
