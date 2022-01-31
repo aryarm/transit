@@ -155,7 +155,6 @@
 - [Vermont Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Sepulveda Pass Phase 1 (San Fernando Valley to Westwood)](https://la.curbed.com/2018/6/12/17455886/sepulveda-pass-metro-transit-monorail-subway)
 - [L (Gold) Line Eastside Extension to Whittier or South El Monte](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- [West Santa Ana Branch](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [CAHSR Bakersfield to Merced](https://www.fresnobee.com/news/local/high-speed-rail/article240234126.html)
 - [Link US - Phase A](https://www.metro.net/projects/link-us/)
 - [Gold Line/I-210 Safety Enhancement II](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
@@ -176,6 +175,7 @@
 - [CAHSR Silicon Valley to Central Valley Line (San Francisco and Merced to Bakersfield)](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=142)
 
 ### 2033
+- [West Santa Ana Branch - Phase I](https://thesource.metro.net/2022/01/28/metro-board-approves-route-for-initial-segment-for-west-santa-ana-branch-project-and-union-station-as-northern-terminus/)
 #### Late
 - [CAHSR Phase 1 (San Francisco and Merced to Anaheim)](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=142)
 
