@@ -22,8 +22,6 @@
 - [North Hollywood to Pasadena Final EIR](https://www.metro.net/projects/noho-pasadena-corridor/)
 #### February
 - [I-805: South Bay BRT](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=76)
-#### Q1
-- [OC Streetcar](http://www.octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/#m-navigation)
 #### Early
 - [Moreno Valley/March Field Station Improvements](https://www.rctc.org/projects/stationimprovements#moreno_vallery)
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
@@ -97,6 +95,8 @@
 - [Etiwanda Ave Grade Separation](https://www.dailybulletin.com/2021/03/19/rancho-cucamonga-reflects-on-2020-and-looks-ahead-to-future-projects/)
 #### April
 - [Del Mar Bluffs VI Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
+#### Q2
+- [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
 #### June
 - [Division 20 Portal Widening and Turnback Facility](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=9)
 - [LAX People Mover and Connector Station](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=14)
