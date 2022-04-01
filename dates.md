@@ -48,7 +48,6 @@
 - [West Santa Ana Branch Final EIR](https://media.metro.net/2021/WSAB-English-Fact-Sheet.pdf)
 - [Eastside Access Improvements Project](https://la.streetsblog.org/2021/10/22/metro-starts-construction-on-little-tokyo-arts-district-eastside-access-improvements/)
 - [Dodger Stadium Gondola Draft EIR](https://www.laart.la/#post-6)
-- [K (Crenshaw/LAX) Line](https://metro.legistar.com/View.ashx?M=F&ID=9962351&GUID=33BD7560-22C5-4E06-B4C7-3B0119362938#page=4)
 #### Mid
 - [Serra Siding Extension Project Final EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Summer/Fall
@@ -103,6 +102,8 @@
 - [Rancho Cucamonga Siding Extension](https://metrolinktrains.com/rancho-cucamonga-siding)
 #### Summer
 - [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
+#### Late
+- [K (Crenshaw/LAX) Line](https://www.nbclosangeles.com/news/local/metro-reaches-substantial-completion-on-bulk-of-crenshaw-lax-rail-line/2859666/)
 #### Fall
 - [Pomona to Fontana BRT](https://www.sgvtribune.com/2021/04/05/87-million-federal-grant-okd-for-san-bernardino-county-busway-project)
 - [D (Purple) Line Extension Phase 1](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=5)
