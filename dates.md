@@ -24,7 +24,6 @@
 - [Serra Siding Extension Project Draft EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/high-speed-rail-in-california/project-sections/palmdale-to-burbank/)
 #### March
-- [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 - [Howard Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
 - [Orange Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
@@ -41,6 +40,7 @@
 #### June
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 #### Summer
+- [Sixth Street Viaduct](https://urbanize.city/la/post/checking-sixth-street-viaduct)
 - [West Santa Ana Branch Final EIR](https://media.metro.net/2021/WSAB-English-Fact-Sheet.pdf)
 - [Eastside Access Improvements Project](https://la.streetsblog.org/2021/10/22/metro-starts-construction-on-little-tokyo-arts-district-eastside-access-improvements/)
 - [Dodger Stadium Gondola Draft EIR](https://www.laart.la/#post-6)
