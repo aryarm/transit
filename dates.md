@@ -18,8 +18,6 @@
 - [Doran Street Grade Separation](https://www.metro.net/projects/doran-street-railroad-crossing/)
 - [Vista Canyon Multi-Modal Center](https://uc265994bedf1c0e5ca7cd1e7dd1.dl.dropboxusercontent.com/cd/0/inline2/BVU4iyWJ_s-_A9zdviCDieJ6DswQUb6LnaphuxX90w5ty-oEADwF6DEmK61VDsS3Fay60CNoMt9dhjVWC58cgGxwTjVfqwTA4c9BslODhOGN7-rfVq6X67oguTYaq_pSCyhWz28rwm60NlEUwP9Y2UD2qMn8W42VMmVYbnaA2JnOrK_197RMnUDUl2Bf0dUV_2e7kiaitbqV8WK8OgxXdkMXTTjeH0HNAOWMUKTIwxfFk7Xyx8jHX3ZapN9fdkF0M5_XHnxur3qjWBaVsQnu_Te6BlbpD2MA4Ck5G1XjLeNDhHK7TUYvQIIvyLwYxuo14xDkkaqm1TCnJqxyDRKiGuHdBCTEgsV-qY_lZ6XmZRbadNTrvYiuG6nGAKxHzKfKc9w/file#page=442)
 - [Alvarado St Bus Priority Lane - Phase 2](https://la.streetsblog.org/2021/09/16/bus-lanes-update-la-brea-olive-grand-and-more-alvarado-coming-soon/)
-#### February
-- [I-805: South Bay BRT](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=76)
 #### Early
 - [Moreno Valley/March Field Station Improvements](https://www.rctc.org/projects/stationimprovements#moreno_vallery)
 - [Redlands Passenger Rail Project](http://www.redlandsrailproject.org/)
@@ -27,8 +25,6 @@
 - [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/high-speed-rail-in-california/project-sections/palmdale-to-burbank/)
 #### March
 - [Sixth Street Viaduct](https://la.curbed.com/2019/7/24/20726559/sixth-street-bridge-construction-completion-2022)
-- [Fourth and Fifth Avenue Bikeways](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
-- [Bridge 257.2 Replacement Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 - [Howard Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
 - [Orange Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
@@ -56,6 +52,7 @@
 - [Regional Transit Connector](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=9)
 #### November
 - [LA to Las Vegas HSR - Final EIR](https://www.fox5vegas.com/news/nevada-california-high-speed-rail-could-break-ground-early-2023-report-says/article_86c99808-7d99-11ec-805f-d769b5f0cf43.html)
+- [Bridge 257.2 Replacement Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_6009_31620.pdf#page=48)
 #### Q4
 - [CAHSR Palmdale to Burbank ROD](https://hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=52)
 #### Winter
