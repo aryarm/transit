@@ -72,7 +72,6 @@
 #### April
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
 #### June
-- [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](https://www.metro.net/projects/rosecrans-marquardt-grade-separation/)
 - [Lonehill Avenue to White Avenue Double-Track](https://www.metro.net/projects/lonehill-to-white-double-track/)
 #### October
 - [Del Mar Bluffs IV](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
@@ -118,6 +117,7 @@
 - [Washington Street and Bachman Place Bikeways](https://www.keepsandiegomoving.com/regionalbikeprojects/UptownSegment3-schedule.aspx)
 - [San Dieguito Double Track Phase 1](https://www.delmar.ca.us/AgendaCenter/ViewFile/Agenda/_09202021-2827#page=13)
 - [Gold Line/I-210 Safety Enhancement I](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
+- [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](https://thesource.metro.net/2022/06/02/metro-breaks-ground-on-new-rail-bridge-in-santa-fe-springs-to-enhance-safety-and-improve-traffic-flow/)
 #### January
 - [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 #### Spring
