@@ -2,7 +2,6 @@
 
 ### Deadline Missed / Delayed Indefinitely
 - [Green Line Extension through Norwalk](https://la.streetsblog.org/2017/01/09/scag-studying-green-line-across-norwalk-meeting-wednesday/)
-- [LA River Bike Path Draft EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Brighton to Roxford Double Track - Segment 1](https://www.metro.net/projects/brighton-to-roxford-double-track-regional-rail)
 - [LA Metro Link US NEPA Draft EIS](https://hsr.ca.gov/wp-content/uploads/2021/04/brdmtg_042221_Item3_NEPA_Update.pdf#page=4)
 - [Serra Siding Extension Project Draft EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
@@ -66,6 +65,8 @@
 - [CAHSR Palmdale to Burbank ROD](https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=49)
 #### April
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
+#### Spring
+- [LA River Bike Path Draft EIR](https://www.metro.net/projects/lariverpath/)
 #### June
 - [Lonehill Avenue to White Avenue Double-Track](https://www.metro.net/projects/lonehill-to-white-double-track/)
 #### October
