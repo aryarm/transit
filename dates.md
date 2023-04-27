@@ -122,12 +122,12 @@
 #### Summer
 - [Centinela Grade Separation](https://www.metro.net/projects/centinela/)
 - [El Monte Siding Extension](https://metrolinktrains.com/el-monte-siding)
-- [D (Purple) Line Extension Phase 2](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=6)
 
 ### 2026
 - [LA to Las Vegas High Speed Rail](https://www.fox5vegas.com/news/nevada-california-high-speed-rail-could-break-ground-early-2023-report-says/article_86c99808-7d99-11ec-805f-d769b5f0cf43.html)
 #### May
 - [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
+- [D (Purple) Line Extension Phase 2](https://twitter.com/numble/status/1651251055186051072?t=NQESOXKIx4jbeGRIBXtalw&s=09)
 #### Q3
 - [Inglewood Transit Connector](http://envisioninglewood.org/wp-content/uploads/2021/01/project_implementation_faw_sheet_R2.pdf#page=2)
 #### December
