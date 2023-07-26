@@ -15,7 +15,6 @@
 - [Doran Street Grade Separation](https://www.metro.net/projects/doran-street-railroad-crossing/)
 - [Vista Canyon Multi-Modal Center](https://uc265994bedf1c0e5ca7cd1e7dd1.dl.dropboxusercontent.com/cd/0/inline2/BVU4iyWJ_s-_A9zdviCDieJ6DswQUb6LnaphuxX90w5ty-oEADwF6DEmK61VDsS3Fay60CNoMt9dhjVWC58cgGxwTjVfqwTA4c9BslODhOGN7-rfVq6X67oguTYaq_pSCyhWz28rwm60NlEUwP9Y2UD2qMn8W42VMmVYbnaA2JnOrK_197RMnUDUl2Bf0dUV_2e7kiaitbqV8WK8OgxXdkMXTTjeH0HNAOWMUKTIwxfFk7Xyx8jHX3ZapN9fdkF0M5_XHnxur3qjWBaVsQnu_Te6BlbpD2MA4Ck5G1XjLeNDhHK7TUYvQIIvyLwYxuo14xDkkaqm1TCnJqxyDRKiGuHdBCTEgsV-qY_lZ6XmZRbadNTrvYiuG6nGAKxHzKfKc9w/file#page=442)
 - [Alvarado St Bus Priority Lane - Phase 2](https://la.streetsblog.org/2021/09/16/bus-lanes-update-la-brea-olive-grand-and-more-alvarado-coming-soon/)
-- [CAHSR Palmdale to Burbank Draft EIS](https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=49)
 #### March
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 - [Howard Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
@@ -41,8 +40,6 @@
 - [Serra Siding Extension Project Final EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Summer/Fall
 - [Riverside-Downtown Station Improvements Final EIR](https://www.rctc.org/projects/riverside-dt-station-improvements#accordion_899309486)
-#### Fall
-- [Regional Transit Connector](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=9)
 #### October
 - [Redlands Passenger Rail Project](https://redlandschamber.org/redlandsrail/)
 #### November
@@ -61,7 +58,6 @@
 - [Central Avenue Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/CentralAvenue_schedule.aspx)
 - [Anaheim Canyon Metrolink Station Improvement](https://www.masstransitmag.com/rail/infrastructure/press-release/21231456/orange-county-transportation-authority-octa-octa-begins-work-on-30-million-anaheim-canyon-metrolink-improvements)
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/high-speed-rail-in-california/project-sections/los-angeles-to-anaheim/)
-- [CAHSR Palmdale to Burbank ROD](https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=49)
 #### April
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
 #### Spring
@@ -70,6 +66,8 @@
 - [Lonehill Avenue to White Avenue Double-Track](https://www.metro.net/projects/lonehill-to-white-double-track/)
 #### October
 - [Del Mar Bluffs IV](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
+#### Q4
+- [CAHSR Palmdale to Burbank ROD]([https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=49](https://hsr.ca.gov/wp-content/uploads/2023/03/2023-Project-Update-Report-From-the-CEO.pdf))
 #### Late
 - [West Valley Connector BRT](https://www.gosbcta.com/wp-content/uploads/2020/01/West-Valley-Connector-Website.pdf#page=3)
 
