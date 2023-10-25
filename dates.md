@@ -171,6 +171,9 @@
 #### Late
 - [CAHSR Phase 1 (San Francisco and Merced to Anaheim)](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=142)
 
+### 2034
+- [Del Mar Tunnel](https://www.enr.com/articles/57396-officials-detail-conceptual-plans-for-up-to-4b-southern-california-rail-tunnel)
+
 ### 2035
 - [L (Gold) Line Eastside Extension to Whittier]()
 
