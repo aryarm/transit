@@ -12,7 +12,6 @@
 - [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Landis Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/landisbikeway_schedule.aspx)
 - [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
-- [Doran Street Grade Separation](https://www.metro.net/projects/doran-street-railroad-crossing/)
 - [Alvarado St Bus Priority Lane - Phase 2](https://la.streetsblog.org/2021/09/16/bus-lanes-update-la-brea-olive-grand-and-more-alvarado-coming-soon/)
 #### March
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
@@ -22,8 +21,6 @@
 - [La Brea Av Bus Priority Lanes](https://www.metro.net/projects/la-brea-av-bus-priority-lane-project/)
 - [Vermont Transit Corridor South Bay Extension Feasibility Study](https://www.metro.net/projects/vermont-transit-corridor-south-bay-extension-feasibility-study/)
 - [LA Metro's Traffic Reduction Study](https://thesource.metro.net/2021/06/24/with-congestion-increasing-heres-an-update-on-metros-traffic-reduction-study/)
-#### Q1/Q2
-- [Inglewood Transit Connector Final EIR](https://envisioninglewood.org/transportation-solutions/itc/#post-47)
 #### April
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 - [El Portal Pedestrian Undercrossing](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
@@ -125,8 +122,6 @@
 #### May
 - [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 - [D (Purple) Line Extension Phase 2](https://twitter.com/numble/status/1651251055186051072?t=NQESOXKIx4jbeGRIBXtalw&s=09)
-#### Q3
-- [Inglewood Transit Connector](http://envisioninglewood.org/wp-content/uploads/2021/01/project_implementation_faw_sheet_R2.pdf#page=2)
 #### December
 - [G (Orange) Line BRT Improvements](https://metro.legistar.com/View.ashx?M=F&ID=9894796&GUID=C3BFDAB6-E181-4149-B64A-64E69042A4A9#page=10)
 
@@ -135,6 +130,7 @@
 - [East San Fernando Valley Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Carlsbad Village Double Track](http://www.ci.encinitas.ca.us/Portals/0/City%20Documents/Documents/Development%20Services/Planning/Advanced%20Planning/CMLS/LOSSAN%20SD%20CBVDT%20Trench%20Feasibility%20Study.pdf#%5B%7B%22num%22%3A138%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C699%2C0%5D)
+- [Doran Street Grade Separation](https://www.masstransitmag.com/rail/infrastructure/press-release/53074989/los-angeles-county-metropolitan-transportation-authority-metro-la-metro-receives-383-million-in-funding-for-doran-street-grade-separation-project)
 #### Early
 - [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Spring
@@ -150,6 +146,8 @@
 - [Link US - Phase A](https://www.metro.net/projects/link-us/)
 - [Gold Line/I-210 Safety Enhancement II](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
 - [LA River Bike Path](https://uc0b381a98b20fba0e447c96e8c4.previews.dropboxusercontent.com/p/orig/ABYuUVIYdjY5MJ9DAW9QOpTo1GxLxMo2YFV3ovk0fRnZC37vmmwRr6T3KI5eiRwEOZPzFH48UuQRpQ9WZf2N90i1RJvjb0tvzlzXhFGOcoCx3iP9V16HG6anooogox3XXfed8UmJnXTJ9y_XfyDSsQrP0crzoYPm7WcJ_s0Og5aMvVo78Dfp4I4_4alyF7VQEWMFhDvHxKcspV2YuOmC4TSeYN8ffUE6ph7dQ0WhfUNcl0QOmuo9vnqTpfxrRPVJefPFGl--1APWA-5fUJL6VtdGuSybEYiP-UxDXnsLBEUqbxKKlKiVdgbi1s0NZIFIIBAcGMs03msfxqwnKtIBM15WLyyntvprsF8bK7HMPTFcAB2Wx8OVfZdmYCslllgMWwyTirU01B6dcacIpbd53t_USVZil3Vvsxs4PY2V29Pucv5d8Y5yjGprZsQDs4aNbWc/p.pdf#page=12)
+## Q2
+- [Inglewood Transit Connector](https://envisioninglewood.org/transportation-solutions/itcproject/)
 
 ### 2030
 - [Balboa Double Track Extension](https://www.metro.net/projects/avl)
