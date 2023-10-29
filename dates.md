@@ -8,6 +8,7 @@
 - [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
 - [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
+- [Burbank Junction Speed Improvements](https://metrolinktrains.com/about/agency/score/burbank-project)
 
 ### 2022
 - [Landis Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/landisbikeway_schedule.aspx)
@@ -28,9 +29,6 @@
 - [Sixth Street Viaduct](https://urbanize.city/la/post/checking-sixth-street-viaduct)
 - [West Santa Ana Branch Final EIR](https://media.metro.net/2021/WSAB-English-Fact-Sheet.pdf)
 - [Eastside Access Improvements Project](https://la.streetsblog.org/2021/10/22/metro-starts-construction-on-little-tokyo-arts-district-eastside-access-improvements/)
-- [Dodger Stadium Gondola Draft EIR](https://www.laart.la/#post-6)
-#### Mid
-- [Serra Siding Extension Project Final EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Summer/Fall
 - [Riverside-Downtown Station Improvements Final EIR](https://www.rctc.org/projects/riverside-dt-station-improvements#accordion_899309486)
 #### October
@@ -38,11 +36,6 @@
 #### November
 - [LA to Las Vegas HSR - Final EIR](https://www.fox5vegas.com/news/nevada-california-high-speed-rail-could-break-ground-early-2023-report-says/article_86c99808-7d99-11ec-805f-d769b5f0cf43.html)
 - [Bridge 257.2 Replacement Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_6009_31620.pdf#page=48)
-#### Winter
-- [Burbank Junction Speed Improvements](https://metrolinktrains.com/about/agency/score/burbank-project)
-- [Chatsworth Station Improvements](https://metrolinktrains.com/chatsworth-project)
-#### Late
-- [Arts District / 6th Street Station](https://www.metro.net/projects/arts-dist-6th-station/)
 
 ### 2023
 - [Pershing Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
@@ -60,9 +53,12 @@
 #### October
 - [Del Mar Bluffs IV](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 #### Q4
-- [CAHSR Palmdale to Burbank ROD]([https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=49](https://hsr.ca.gov/wp-content/uploads/2023/03/2023-Project-Update-Report-From-the-CEO.pdf))
+- [CAHSR Palmdale to Burbank ROD](https://hsr.ca.gov/wp-content/uploads/2023/03/2023-Project-Update-Report-From-the-CEO.pdf)
+#### Winter
+- [Chatsworth Station Improvements](https://metrolinktrains.com/chatsworth-project)
 #### Late
 - [West Valley Connector BRT](https://www.gosbcta.com/wp-content/uploads/2020/01/West-Valley-Connector-Website.pdf#page=3)
+- [Arts District / 6th Street Station Draft EIR](https://www.metro.net/projects/arts-dist-6th-station/)
 #### December 21
 - [Alvarado St Bus Priority Lane - Phase 2](https://www.metro.net/projects/alvaradost/)
 
@@ -131,6 +127,7 @@
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Carlsbad Village Double Track](http://www.ci.encinitas.ca.us/Portals/0/City%20Documents/Documents/Development%20Services/Planning/Advanced%20Planning/CMLS/LOSSAN%20SD%20CBVDT%20Trench%20Feasibility%20Study.pdf#%5B%7B%22num%22%3A138%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C699%2C0%5D)
 - [Doran Street Grade Separation](https://www.masstransitmag.com/rail/infrastructure/press-release/53074989/los-angeles-county-metropolitan-transportation-authority-metro-la-metro-receives-383-million-in-funding-for-doran-street-grade-separation-project)
+- [San Onofre to Pulgas Double Track - Phase 2](https://d3n9y02raazwpg.cloudfront.net/sandag/e363329a-53c4-4d34-ba5b-fa83e5fb26fb-3a383fb0-7365-4b67-b96e-089bf81cce16-1695331525.pdf#page=47)
 #### Early
 - [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Spring
