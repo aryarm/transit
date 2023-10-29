@@ -5,17 +5,14 @@
 - [Brighton to Roxford Double Track - Segment 1](https://www.metro.net/projects/brighton-to-roxford-double-track-regional-rail)
 - [LA Metro Link US NEPA Draft EIS](https://hsr.ca.gov/wp-content/uploads/2021/04/brdmtg_042221_Item3_NEPA_Update.pdf#page=4)
 - [Serra Siding Extension Project Draft EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
+- [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
+- [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
+- [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 
 ### 2022
-- [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
-- [Dodger Stadium Gondola Final EIR](https://californianewstimes.com/preferred-route-chosen-for-dodger-stadium-to-union-station-gondola-project-press-telegram/349979/)
-- [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Landis Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/landisbikeway_schedule.aspx)
-- [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
-- [Alvarado St Bus Priority Lane - Phase 2](https://la.streetsblog.org/2021/09/16/bus-lanes-update-la-brea-olive-grand-and-more-alvarado-coming-soon/)
 #### March
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
-- [Howard Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
 - [Orange Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
 #### Spring
 - [La Brea Av Bus Priority Lanes](https://www.metro.net/projects/la-brea-av-bus-priority-lane-project/)
@@ -66,6 +63,8 @@
 - [CAHSR Palmdale to Burbank ROD]([https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=49](https://hsr.ca.gov/wp-content/uploads/2023/03/2023-Project-Update-Report-From-the-CEO.pdf))
 #### Late
 - [West Valley Connector BRT](https://www.gosbcta.com/wp-content/uploads/2020/01/West-Valley-Connector-Website.pdf#page=3)
+#### December 21
+- [Alvarado St Bus Priority Lane - Phase 2](https://www.metro.net/projects/alvaradost/)
 
 ### 2024
 - [San Onofre to Pulgas Double Track Phase 2](https://sandag.org/uploads/meetingid/meetingid_5674_28896.pdf#page=13)
@@ -76,6 +75,7 @@
 - [Del Mar Bluffs V](https://keepsandiegomoving.com/Libraries/Lossan-PDFs/DMB_Update_20210726_DelMarCouncil_FINAL.sflb.ashx#page=33)
 - [Etiwanda Ave Grade Separation](https://www.dailybulletin.com/2021/03/19/rancho-cucamonga-reflects-on-2020-and-looks-ahead-to-future-projects/)
 - [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=53)
+- [Howard Bikeway Final Design](https://d3n9y02raazwpg.cloudfront.net/sandag/e363329a-53c4-4d34-ba5b-fa83e5fb26fb-3a383fb0-7365-4b67-b96e-089bf81cce16-1695331525.pdf#page=43)
 #### April
 - [Del Mar Bluffs VI Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 #### Q2
@@ -146,7 +146,7 @@
 - [Link US - Phase A](https://www.metro.net/projects/link-us/)
 - [Gold Line/I-210 Safety Enhancement II](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
 - [LA River Bike Path](https://uc0b381a98b20fba0e447c96e8c4.previews.dropboxusercontent.com/p/orig/ABYuUVIYdjY5MJ9DAW9QOpTo1GxLxMo2YFV3ovk0fRnZC37vmmwRr6T3KI5eiRwEOZPzFH48UuQRpQ9WZf2N90i1RJvjb0tvzlzXhFGOcoCx3iP9V16HG6anooogox3XXfed8UmJnXTJ9y_XfyDSsQrP0crzoYPm7WcJ_s0Og5aMvVo78Dfp4I4_4alyF7VQEWMFhDvHxKcspV2YuOmC4TSeYN8ffUE6ph7dQ0WhfUNcl0QOmuo9vnqTpfxrRPVJefPFGl--1APWA-5fUJL6VtdGuSybEYiP-UxDXnsLBEUqbxKKlKiVdgbi1s0NZIFIIBAcGMs03msfxqwnKtIBM15WLyyntvprsF8bK7HMPTFcAB2Wx8OVfZdmYCslllgMWwyTirU01B6dcacIpbd53t_USVZil3Vvsxs4PY2V29Pucv5d8Y5yjGprZsQDs4aNbWc/p.pdf#page=12)
-## Q2
+#### Q2
 - [Inglewood Transit Connector](https://envisioninglewood.org/transportation-solutions/itcproject/)
 
 ### 2030
