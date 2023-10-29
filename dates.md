@@ -13,7 +13,6 @@
 - [Landis Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/landisbikeway_schedule.aspx)
 - [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
 - [Doran Street Grade Separation](https://www.metro.net/projects/doran-street-railroad-crossing/)
-- [Vista Canyon Multi-Modal Center](https://uc265994bedf1c0e5ca7cd1e7dd1.dl.dropboxusercontent.com/cd/0/inline2/BVU4iyWJ_s-_A9zdviCDieJ6DswQUb6LnaphuxX90w5ty-oEADwF6DEmK61VDsS3Fay60CNoMt9dhjVWC58cgGxwTjVfqwTA4c9BslODhOGN7-rfVq6X67oguTYaq_pSCyhWz28rwm60NlEUwP9Y2UD2qMn8W42VMmVYbnaA2JnOrK_197RMnUDUl2Bf0dUV_2e7kiaitbqV8WK8OgxXdkMXTTjeH0HNAOWMUKTIwxfFk7Xyx8jHX3ZapN9fdkF0M5_XHnxur3qjWBaVsQnu_Te6BlbpD2MA4Ck5G1XjLeNDhHK7TUYvQIIvyLwYxuo14xDkkaqm1TCnJqxyDRKiGuHdBCTEgsV-qY_lZ6XmZRbadNTrvYiuG6nGAKxHzKfKc9w/file#page=442)
 - [Alvarado St Bus Priority Lane - Phase 2](https://la.streetsblog.org/2021/09/16/bus-lanes-update-la-brea-olive-grand-and-more-alvarado-coming-soon/)
 #### March
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
