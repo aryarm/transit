@@ -20,18 +20,13 @@
 - [LA Metro's Traffic Reduction Study](https://thesource.metro.net/2021/06/24/with-congestion-increasing-heres-an-update-on-metros-traffic-reduction-study/)
 #### April
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
-- [El Portal Pedestrian Undercrossing](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=105)
-- [San Elijo Lagoon Bike/Pedestrian Bridge](https://thecoastnews.com/caltrans-sandag-build-ncc-celebrate-2021-achievements/)
 #### June
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 #### Summer
 - [Sixth Street Viaduct](https://urbanize.city/la/post/checking-sixth-street-viaduct)
 - [West Santa Ana Branch Final EIR](https://media.metro.net/2021/WSAB-English-Fact-Sheet.pdf)
-- [Eastside Access Improvements Project](https://la.streetsblog.org/2021/10/22/metro-starts-construction-on-little-tokyo-arts-district-eastside-access-improvements/)
 #### Summer/Fall
 - [Riverside-Downtown Station Improvements Final EIR](https://www.rctc.org/projects/riverside-dt-station-improvements#accordion_899309486)
-#### October
-- [Redlands Passenger Rail Project](https://redlandschamber.org/redlandsrail/)
 #### November
 - [LA to Las Vegas HSR - Final EIR](https://www.fox5vegas.com/news/nevada-california-high-speed-rail-could-break-ground-early-2023-report-says/article_86c99808-7d99-11ec-805f-d769b5f0cf43.html)
 - [Bridge 257.2 Replacement Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_6009_31620.pdf#page=48)
@@ -41,7 +36,6 @@
 - [Howard Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/howardbikeway-schedule.aspx)
 - [Crenshaw Northern Extension Draft EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
 - [Central Avenue Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/CentralAvenue_schedule.aspx)
-- [Anaheim Canyon Metrolink Station Improvement](https://www.masstransitmag.com/rail/infrastructure/press-release/21231456/orange-county-transportation-authority-octa-octa-begins-work-on-30-million-anaheim-canyon-metrolink-improvements)
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/high-speed-rail-in-california/project-sections/los-angeles-to-anaheim/)
 #### April
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
@@ -71,21 +65,19 @@
 - [Etiwanda Ave Grade Separation](https://www.dailybulletin.com/2021/03/19/rancho-cucamonga-reflects-on-2020-and-looks-ahead-to-future-projects/)
 - [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=53)
 - [Howard Bikeway Final Design](https://d3n9y02raazwpg.cloudfront.net/sandag/e363329a-53c4-4d34-ba5b-fa83e5fb26fb-3a383fb0-7365-4b67-b96e-089bf81cce16-1695331525.pdf#page=43)
+- [Eastside Access Improvements Project](https://www.metro.net/projects/eastside-access-improvements-1st-central-station/)
 #### April
-- [Del Mar Bluffs VI Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
+- [Del Mar Bluffs](d/meetingid_5691_29703.pdf#page=45)
 #### Q2
 - [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
 #### June
 - [Division 20 Portal Widening and Turnback Facility](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=9)
-- [LAX People Mover and Connector Station](https://metro.legistar.com/View.ashx?M=F&ID=9411593&GUID=E243EFC0-06D5-469C-BCF0-4088C6051D21&G=A5FAA737-A54D-4A6C-B1E8-FF70F765FA94#page=14)
 #### Spring
 - [Marengo Siding Extension](https://metrolinktrains.com/marengo-siding)
 - [Rancho Cucamonga Siding Extension](https://metrolinktrains.com/rancho-cucamonga-siding)
 - [Moreno Valley/March Field Station Improvements](https://www.rctc.org/wp-content/uploads/2022/06/MV_March-Field-Fact-Sheet-June-2022_Final.pdf)
 #### Summer
 - [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
-#### Late
-- [K (Crenshaw/LAX) Line](https://www.nbclosangeles.com/news/local/metro-reaches-substantial-completion-on-bulk-of-crenshaw-lax-rail-line/2859666/)
 #### Fall
 - [Pomona to Fontana BRT](https://www.sgvtribune.com/2021/04/05/87-million-federal-grant-okd-for-san-bernardino-county-busway-project)
 - [D (Purple) Line Extension Phase 1](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=5)
@@ -106,6 +98,8 @@
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](https://thesource.metro.net/2022/06/02/metro-breaks-ground-on-new-rail-bridge-in-santa-fe-springs-to-enhance-safety-and-improve-traffic-flow/)
 #### January
 - [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
+#### April
+- [LAX People Mover and Connector Station](https://ktla.com/news/local-news/lax-people-mover-likely-delayed-to-next-year-bond-agency-says)
 #### Spring
 - [Simi Valley Double Track](https://metrolinktrains.com/about/agency/score/simi-valley-project/)
 #### Summer
