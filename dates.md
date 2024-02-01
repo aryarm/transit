@@ -30,7 +30,7 @@
 - [Bridge 257.2 Replacement Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_6009_31620.pdf#page=48)
 
 ### 2023
-- [Howard Bikeway](https://www.keepsandiegomoving.y-schedule.aspx)
+- [Howard Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/howardbikeway-schedule.aspx)
 - [Crenshaw Northern Extension Draft EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
 - [Central Avenue Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/CentralAvenue_schedule.aspx)
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/high-speed-rail-in-california/project-sections/los-angeles-to-anaheim/)
