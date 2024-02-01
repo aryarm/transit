@@ -11,7 +11,6 @@
 - [Burbank Junction Speed Improvements](https://metrolinktrains.com/about/agency/score/burbank-project)
 
 ### 2022
-- [Landis Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/landisbikeway_schedule.aspx)
 #### March
 - [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 - [Orange Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
@@ -23,7 +22,6 @@
 #### June
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 #### Summer
-- [Sixth Street Viaduct](https://urbanize.city/la/post/checking-sixth-street-viaduct)
 - [West Santa Ana Branch Final EIR](https://media.metro.net/2021/WSAB-English-Fact-Sheet.pdf)
 #### Summer/Fall
 - [Riverside-Downtown Station Improvements Final EIR](https://www.rctc.org/projects/riverside-dt-station-improvements#accordion_899309486)
@@ -32,8 +30,7 @@
 - [Bridge 257.2 Replacement Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_6009_31620.pdf#page=48)
 
 ### 2023
-- [Pershing Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5415_28093.pdf#page=82)
-- [Howard Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/howardbikeway-schedule.aspx)
+- [Howard Bikeway](https://www.keepsandiegomoving.y-schedule.aspx)
 - [Crenshaw Northern Extension Draft EIR](https://www.metro.net/projects/crenshaw-northern-extension/)
 - [Central Avenue Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/CentralAvenue_schedule.aspx)
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/high-speed-rail-in-california/project-sections/los-angeles-to-anaheim/)
@@ -76,6 +73,7 @@
 - [Marengo Siding Extension](https://metrolinktrains.com/marengo-siding)
 - [Rancho Cucamonga Siding Extension](https://metrolinktrains.com/rancho-cucamonga-siding)
 - [Moreno Valley/March Field Station Improvements](https://www.rctc.org/wp-content/uploads/2022/06/MV_March-Field-Fact-Sheet-June-2022_Final.pdf)
+- [Pershing Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/PershingBikeway_schedule.aspx)
 #### Summer
 - [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### Fall
