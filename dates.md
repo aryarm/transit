@@ -67,7 +67,7 @@
 - [Howard Bikeway Final Design](https://d3n9y02raazwpg.cloudfront.net/sandag/e363329a-53c4-4d34-ba5b-fa83e5fb26fb-3a383fb0-7365-4b67-b96e-089bf81cce16-1695331525.pdf#page=43)
 - [Eastside Access Improvements Project](https://www.metro.net/projects/eastside-access-improvements-1st-central-station/)
 #### April
-- [Del Mar Bluffs](d/meetingid_5691_29703.pdf#page=45)
+- [Del Mar Bluffs VI Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 #### Q2
 - [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
 #### June
