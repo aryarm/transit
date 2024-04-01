@@ -96,13 +96,13 @@
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](https://thesource.metro.net/2022/06/02/metro-breaks-ground-on-new-rail-bridge-in-santa-fe-springs-to-enhance-safety-and-improve-traffic-flow/)
 #### January
 - [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
-#### April
-- [LAX People Mover and Connector Station](https://ktla.com/news/local-news/lax-people-mover-likely-delayed-to-next-year-bond-agency-says)
 #### Spring
 - [Simi Valley Double Track](https://metrolinktrains.com/about/agency/score/simi-valley-project/)
 #### Summer
 - [Centinela Grade Separation](https://www.metro.net/projects/centinela/)
 - [El Monte Siding Extension](https://metrolinktrains.com/el-monte-siding)
+#### Late
+- [LAX People Mover and Connector Station](https://www.latimes.com/california/story/2024-03-29/lax-people-mover-likely-delayed-until-2025)
 
 ### 2026
 - [LA to Las Vegas High Speed Rail](https://www.fox5vegas.com/news/nevada-california-high-speed-rail-could-break-ground-early-2023-report-says/article_86c99808-7d99-11ec-805f-d769b5f0cf43.html)
