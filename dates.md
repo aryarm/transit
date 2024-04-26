@@ -63,6 +63,8 @@
 - [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=53)
 - [Howard Bikeway Final Design](https://d3n9y02raazwpg.cloudfront.net/sandag/e363329a-53c4-4d34-ba5b-fa83e5fb26fb-3a383fb0-7365-4b67-b96e-089bf81cce16-1695331525.pdf#page=43)
 - [Eastside Access Improvements Project](https://www.metro.net/projects/eastside-access-improvements-1st-central-station/)
+#### Winter/Spring
+- [Draft LA County Rail Integration Study](https://www.metro.net/projects/los-angeles-county-rail-network-integration-study/#documents)
 #### April
 - [Del Mar Bluffs VI Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 #### Q2
