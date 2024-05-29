@@ -5,7 +5,6 @@
 - [Brighton to Roxford Double Track - Segment 1](https://www.metro.net/projects/brighton-to-roxford-double-track-regional-rail)
 - [LA Metro Link US NEPA Draft EIS](https://hsr.ca.gov/wp-content/uploads/2021/04/brdmtg_042221_Item3_NEPA_Update.pdf#page=4)
 - [Serra Siding Extension Project Draft EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
-- [Batiquitos Lagoon Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)
 - [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
 - [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Burbank Junction Speed Improvements](https://metrolinktrains.com/about/agency/score/burbank-project)
@@ -125,6 +124,8 @@
 - [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Spring
 - [D (Purple) Line Extension Phase 3](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=7)
+#### August
+- [Batiquitos Lagoon Double Track](https://catc.ca.gov/-/media/ctc-media/documents/programs/senate-bill-1/sandag-baseline-agreement-build-north-coast-corridor-ncc-batiquitos.pdf#page=20)
 
 ### 2028
 - [Dodger Stadium Gondola](https://californianewstimes.com/preferred-route-chosen-for-dodger-stadium-to-union-station-gondola-project-press-telegram/349979/)
