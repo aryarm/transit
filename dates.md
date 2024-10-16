@@ -7,10 +7,11 @@
 - [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
 - [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
 - [Burbank Junction Speed Improvements](https://metrolinktrains.com/about/agency/score/burbank-project)
+- [Bridge 257.2 Replacement Final EIR](https://sandiego.apwa.org/wp-content/uploads/sites/50/2024/05/2024.05.02LOSSANCorridorUpdateAPWA.pdf#page=16)
+- [Rose Canyon Bridge Replacements Final EIS](https://sandiego.apwa.org/wp-content/uploads/sites/50/2024/05/2024.05.02LOSSANCorridorUpdateAPWA.pdf#page=6)
 
 ### 2022
 #### March
-- [Rose Canyon Bridge Replacements Final EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 - [Orange Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
 #### Spring
 - [Vermont Transit Corridor South Bay Extension Feasibility Study](https://www.metro.net/projects/vermont-transit-corridor-south-bay-extension-feasibility-study/)
@@ -19,13 +20,8 @@
 - [Georgia-Meade Bikeway](https://www.sandag.org/uploads/meetingid/meetingid_5672_28753.pdf#page=104)
 #### June
 - [San Onofre Bridge Replacements Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
-#### Summer
-- [West Santa Ana Branch Final EIR](https://media.metro.net/2021/WSAB-English-Fact-Sheet.pdf)
 #### Summer/Fall
 - [Riverside-Downtown Station Improvements Final EIR](https://www.rctc.org/projects/riverside-dt-station-improvements#accordion_899309486)
-#### November
-- [LA to Las Vegas HSR - Final EIR](https://www.fox5vegas.com/news/nevada-california-high-speed-rail-could-break-ground-early-2023-report-says/article_86c99808-7d99-11ec-805f-d769b5f0cf43.html)
-- [Bridge 257.2 Replacement Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_6009_31620.pdf#page=48)
 
 ### 2023
 - [Howard Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/howardbikeway-schedule.aspx)
@@ -59,16 +55,8 @@
 - [CAHSR LA to Anaheim ROD](https://hsr.ca.gov/wp-content/uploads/2022/05/2022-Business-Plan-FINAL-A11Y.pdf#page=53)
 - [Howard Bikeway Final Design](https://d3n9y02raazwpg.cloudfront.net/sandag/e363329a-53c4-4d34-ba5b-fa83e5fb26fb-3a383fb0-7365-4b67-b96e-089bf81cce16-1695331525.pdf#page=43)
 - [Eastside Access Improvements Project](https://www.metro.net/projects/eastside-access-improvements-1st-central-station/)
-#### June
-- [CAHSR Palmdale to Burbank ROD](https://www.latimes.com/california/story/2024-05-24/final-environmental-review-of-high-speed-rails-burbank-palmdale-portion-released)
 #### Winter/Spring
 - [Draft LA County Rail Integration Study](https://www.metro.net/projects/los-angeles-county-rail-network-integration-study/#documents)
-#### April
-- [Del Mar Bluffs VI Draft EIR](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
-#### Q2
-- [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
-#### June
-- [Division 20 Portal Widening and Turnback Facility](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=9)
 #### Spring
 - [Marengo Siding Extension](https://metrolinktrains.com/marengo-siding)
 - [Rancho Cucamonga Siding Extension](https://metrolinktrains.com/rancho-cucamonga-siding)
@@ -94,6 +82,7 @@
 - [San Dieguito Double Track Phase 1](https://www.delmar.ca.us/AgendaCenter/ViewFile/Agenda/_09202021-2827#page=13)
 - [Gold Line/I-210 Safety Enhancement I](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](https://thesource.metro.net/2022/06/02/metro-breaks-ground-on-new-rail-bridge-in-santa-fe-springs-to-enhance-safety-and-improve-traffic-flow/)
+- [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
 #### January
 - [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 #### Spring
@@ -101,14 +90,15 @@
 #### Summer
 - [Centinela Grade Separation](https://www.metro.net/projects/centinela/)
 - [El Monte Siding Extension](https://metrolinktrains.com/el-monte-siding)
-#### Late
-- [LAX People Mover and Connector Station](https://www.latimes.com/california/story/2024-03-29/lax-people-mover-likely-delayed-until-2025)
 
 ### 2026
 - [LA to Las Vegas High Speed Rail](https://www.fox5vegas.com/news/nevada-california-high-speed-rail-could-break-ground-early-2023-report-says/article_86c99808-7d99-11ec-805f-d769b5f0cf43.html)
+#### January
+- [LAX People Mover and Connector Station](https://la.urbanize.city/post/lax-people-mover-now-set-open-january-2026)
 #### May
 - [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 - [D (Purple) Line Extension Phase 2](https://twitter.com/numble/status/1651251055186051072?t=NQESOXKIx4jbeGRIBXtalw&s=09)
+- [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/#status)
 #### December
 - [G (Orange) Line BRT Improvements](https://metro.legistar.com/View.ashx?M=F&ID=9894796&GUID=C3BFDAB6-E181-4149-B64A-64E69042A4A9#page=10)
 
