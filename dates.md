@@ -62,8 +62,6 @@
 - [Rancho Cucamonga Siding Extension](https://metrolinktrains.com/rancho-cucamonga-siding)
 - [Moreno Valley/March Field Station Improvements](https://www.rctc.org/wp-content/uploads/2022/06/MV_March-Field-Fact-Sheet-June-2022_Final.pdf)
 - [Pershing Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/PershingBikeway_schedule.aspx)
-#### Summer
-- [North Hollywood to Pasadena BRT](http://libraryarchives.metro.net/DB_Attachments/2019-0148_Attachment_E_Alternatives_Analysis_Executive_Summary.pdf#page=24)
 #### Fall
 - [Pomona to Fontana BRT](https://www.sgvtribune.com/2021/04/05/87-million-federal-grant-okd-for-san-bernardino-county-busway-project)
 - [D (Purple) Line Extension Phase 1](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=5)
@@ -110,6 +108,7 @@
 - [Doran Street Grade Separation](https://www.masstransitmag.com/rail/infrastructure/press-release/53074989/los-angeles-county-metropolitan-transportation-authority-metro-la-metro-receives-383-million-in-funding-for-doran-street-grade-separation-project)
 - [San Onofre to Pulgas Double Track - Phase 2](https://d3n9y02raazwpg.cloudfront.net/sandag/e363329a-53c4-4d34-ba5b-fa83e5fb26fb-3a383fb0-7365-4b67-b96e-089bf81cce16-1695331525.pdf#page=47)
 #### Early
+- [North Hollywood to Pasadena BRT](https://x.com/numble/status/1869280509152657541?t=c6EHf09pYhk8YOfY9UWocA&s=19)
 - [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Spring
 - [D (Purple) Line Extension Phase 3](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=7)
