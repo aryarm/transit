@@ -125,8 +125,6 @@
 - [Link US - Phase A](https://www.metro.net/projects/link-us/)
 - [Gold Line/I-210 Safety Enhancement II](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
 - [LA River Bike Path](https://uc0b381a98b20fba0e447c96e8c4.previews.dropboxusercontent.com/p/orig/ABYuUVIYdjY5MJ9DAW9QOpTo1GxLxMo2YFV3ovk0fRnZC37vmmwRr6T3KI5eiRwEOZPzFH48UuQRpQ9WZf2N90i1RJvjb0tvzlzXhFGOcoCx3iP9V16HG6anooogox3XXfed8UmJnXTJ9y_XfyDSsQrP0crzoYPm7WcJ_s0Og5aMvVo78Dfp4I4_4alyF7VQEWMFhDvHxKcspV2YuOmC4TSeYN8ffUE6ph7dQ0WhfUNcl0QOmuo9vnqTpfxrRPVJefPFGl--1APWA-5fUJL6VtdGuSybEYiP-UxDXnsLBEUqbxKKlKiVdgbi1s0NZIFIIBAcGMs03msfxqwnKtIBM15WLyyntvprsF8bK7HMPTFcAB2Wx8OVfZdmYCslllgMWwyTirU01B6dcacIpbd53t_USVZil3Vvsxs4PY2V29Pucv5d8Y5yjGprZsQDs4aNbWc/p.pdf#page=12)
-#### Q2
-- [Inglewood Transit Connector](https://envisioninglewood.org/transportation-solutions/itcproject/)
 
 ### 2030
 - [Balboa Double Track Extension](https://www.metro.net/projects/avl)
