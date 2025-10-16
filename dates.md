@@ -64,7 +64,6 @@
 - [Pershing Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/PershingBikeway_schedule.aspx)
 #### Fall
 - [Pomona to Fontana BRT](https://www.sgvtribune.com/2021/04/05/87-million-federal-grant-okd-for-san-bernardino-county-busway-project)
-- [D (Purple) Line Extension Phase 1](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=5)
 
 ### 2025
 - [North Oceanside Double Track](https://www.sandag.org/uploads/meetingid/meetingid_5038_25307.pdf#page=91)?
@@ -80,7 +79,6 @@
 - [San Dieguito Double Track Phase 1](https://www.delmar.ca.us/AgendaCenter/ViewFile/Agenda/_09202021-2827#page=13)
 - [Gold Line/I-210 Safety Enhancement I](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
 - [Rosecrans Avenue/Marquardt Avenue Grade Separation Project](https://thesource.metro.net/2022/06/02/metro-breaks-ground-on-new-rail-bridge-in-santa-fe-springs-to-enhance-safety-and-improve-traffic-flow/)
-- [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
 #### January
 - [San Diego Central Mobility Hub Draft EIS](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=78)
 #### Spring
@@ -94,11 +92,13 @@
 #### January
 - [LAX People Mover and Connector Station](https://la.urbanize.city/post/lax-people-mover-now-set-open-january-2026)
 #### March
-- [D Line Extension 1](https://la.streetsblog.org/2025/10/15/metro-to-open-d-line-subway-extension-by-march-2026)
+- [D (Purple) Line Extension Phase 1](https://la.streetsblog.org/2025/10/15/metro-to-open-d-line-subway-extension-by-march-2026)
 #### May
 - [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
 - [D (Purple) Line Extension Phase 2](https://twitter.com/numble/status/1651251055186051072?t=NQESOXKIx4jbeGRIBXtalw&s=09)
 - [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/#status)
+#### Spring
+- [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
 #### December
 - [G (Orange) Line BRT Improvements](https://metro.legistar.com/View.ashx?M=F&ID=9894796&GUID=C3BFDAB6-E181-4149-B64A-64E69042A4A9#page=10)
 
