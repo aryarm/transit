@@ -114,10 +114,9 @@
 - [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Spring
 - [D (Purple) Line Extension Phase 3](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=7)
-#### August
-- [Batiquitos Lagoon Double Track](https://catc.ca.gov/-/media/ctc-media/documents/programs/senate-bill-1/sandag-baseline-agreement-build-north-coast-corridor-ncc-batiquitos.pdf#page=20)
 
 ### 2028
+- [Batiquitos Lagoon Double Track](https://www.constructionequipmentguide.com/sandag-builds-new-rail-bridge-in-san-diego-county/69474)
 - [Dodger Stadium Gondola](https://californianewstimes.com/preferred-route-chosen-for-dodger-stadium-to-union-station-gondola-project-press-telegram/349979/)
 - [Foothill L (Gold) Line Extension Phase 2B to Montclair](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 - [A (Blue) Line Signal and Washington/Flower Junction Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
