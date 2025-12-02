@@ -89,8 +89,6 @@
 
 ### 2026
 - [LA to Las Vegas High Speed Rail](https://www.fox5vegas.com/news/nevada-california-high-speed-rail-could-break-ground-early-2023-report-says/article_86c99808-7d99-11ec-805f-d769b5f0cf43.html)
-#### January
-- [LAX People Mover and Connector Station](https://la.urbanize.city/post/lax-people-mover-now-set-open-january-2026)
 #### March
 - [D (Purple) Line Extension Phase 1](https://la.streetsblog.org/2025/10/15/metro-to-open-d-line-subway-extension-by-march-2026)
 #### May
@@ -99,6 +97,8 @@
 - [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/#status)
 #### Spring
 - [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
+#### June
+- [LAX People Mover and Connector Station](https://laist.com/brief/transportation/lax-people-mover-delay)
 #### December
 - [G (Orange) Line BRT Improvements](https://metro.legistar.com/View.ashx?M=F&ID=9894796&GUID=C3BFDAB6-E181-4149-B64A-64E69042A4A9#page=10)
 
