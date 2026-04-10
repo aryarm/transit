@@ -89,11 +89,9 @@
 
 ### 2026
 - [LA to Las Vegas High Speed Rail](https://www.fox5vegas.com/news/nevada-california-high-speed-rail-could-break-ground-early-2023-report-says/article_86c99808-7d99-11ec-805f-d769b5f0cf43.html)
-#### March
-- [D (Purple) Line Extension Phase 1](https://la.streetsblog.org/2025/10/15/metro-to-open-d-line-subway-extension-by-march-2026)
 #### May
+- [D (Purple) Line Extension Phase 1](https://secretlosangeles.com/d-line-extension-phase-1-stations/)
 - [Inland Rail Trail - Phases 2 & 3](https://www.sandag.org/uploads/meetingid/meetingid_5691_29703.pdf#page=45)
-- [D (Purple) Line Extension Phase 2](https://twitter.com/numble/status/1651251055186051072?t=NQESOXKIx4jbeGRIBXtalw&s=09)
 - [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/#status)
 #### Spring
 - [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
@@ -113,7 +111,9 @@
 - [North Hollywood to Pasadena BRT](https://x.com/numble/status/1869280509152657541?t=c6EHf09pYhk8YOfY9UWocA&s=19)
 - [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 #### Spring
-- [D (Purple) Line Extension Phase 3](http://metro.legistar1.com/metro/attachments/c7720e3f-508d-4b5e-85e5-9b5bcb9b262d.pdf#page=7)
+- [D (Purple) Line Extension Phase 2](https://secretlosangeles.com/d-line-extension-phase-1-stations)
+#### Fall
+- [D (Purple) Line Extension Phase 3](https://secretlosangeles.com/d-line-extension-phase-1-stations)
 
 ### 2028
 - [Batiquitos Lagoon Double Track](https://www.constructionequipmentguide.com/sandag-builds-new-rail-bridge-in-san-diego-county/69474)
