@@ -6,13 +6,9 @@
 - [Serra Siding Extension Project Draft EIR](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 - [Robinson Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/robinsonbikeway_schedule.aspx)
 - [LA River Bike Path Final EIR](http://media.metro.net/projects_studies/lariverpath/report-lariverpath-2019-09.pdf#page=275)
-- [Burbank Junction Speed Improvements](https://metrolinktrains.com/about/agency/score/burbank-project)
-- [Bridge 257.2 Replacement Final EIR](https://sandiego.apwa.org/wp-content/uploads/sites/50/2024/05/2024.05.02LOSSANCorridorUpdateAPWA.pdf#page=16)
-- [Rose Canyon Bridge Replacements Final EIS](https://sandiego.apwa.org/wp-content/uploads/sites/50/2024/05/2024.05.02LOSSANCorridorUpdateAPWA.pdf#page=6)
+- [Orange Bikeway](https://pub-sandag.escribemeetings.com/FileStream.ashx?DocumentId=12945#page=47)
 
 ### 2022
-#### March
-- [Orange Bikeway Final EIR](https://www.sandag.org/uploads/meetingid/meetingid_5684_31303.pdf#page=77)
 #### Spring
 - [Vermont Transit Corridor South Bay Extension Feasibility Study](https://www.metro.net/projects/vermont-transit-corridor-south-bay-extension-feasibility-study/)
 - [LA Metro's Traffic Reduction Study](https://thesource.metro.net/2021/06/24/with-congestion-increasing-heres-an-update-on-metros-traffic-reduction-study/)
@@ -30,8 +26,6 @@
 - [CAHSR LA to Anaheim Draft EIS](https://hsr.ca.gov/high-speed-rail-in-california/project-sections/los-angeles-to-anaheim/)
 #### April
 - [Reseda Boulevard Complete Streets](https://la.streetsblog.org/2020/10/01/reseda-boulevard-is-getting-a-three-mile-safety-upgrade/)
-#### Spring
-- [LA River Bike Path Draft EIR](https://www.metro.net/projects/lariverpath/)
 #### June
 - [Lonehill Avenue to White Avenue Double-Track](https://www.metro.net/projects/lonehill-to-white-double-track/)
 #### October
@@ -110,6 +104,7 @@
 #### Early
 - [North Hollywood to Pasadena BRT](https://x.com/numble/status/1869280509152657541?t=c6EHf09pYhk8YOfY9UWocA&s=19)
 - [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
+- [Downtown COASTER Platform](https://gonctd.com/downtownplatform)
 #### Spring
 - [D (Purple) Line Extension Phase 2](https://secretlosangeles.com/d-line-extension-phase-1-stations)
 #### Fall
@@ -125,7 +120,8 @@
 - [CAHSR Bakersfield to Merced](https://www.fresnobee.com/news/local/high-speed-rail/article240234126.html)
 - [Link US - Phase A](https://www.metro.net/projects/link-us/)
 - [Gold Line/I-210 Safety Enhancement II](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
-- [LA River Bike Path](https://uc0b381a98b20fba0e447c96e8c4.previews.dropboxusercontent.com/p/orig/ABYuUVIYdjY5MJ9DAW9QOpTo1GxLxMo2YFV3ovk0fRnZC37vmmwRr6T3KI5eiRwEOZPzFH48UuQRpQ9WZf2N90i1RJvjb0tvzlzXhFGOcoCx3iP9V16HG6anooogox3XXfed8UmJnXTJ9y_XfyDSsQrP0crzoYPm7WcJ_s0Og5aMvVo78Dfp4I4_4alyF7VQEWMFhDvHxKcspV2YuOmC4TSeYN8ffUE6ph7dQ0WhfUNcl0QOmuo9vnqTpfxrRPVJefPFGl--1APWA-5fUJL6VtdGuSybEYiP-UxDXnsLBEUqbxKKlKiVdgbi1s0NZIFIIBAcGMs03msfxqwnKtIBM15WLyyntvprsF8bK7HMPTFcAB2Wx8OVfZdmYCslllgMWwyTirU01B6dcacIpbd53t_USVZil3Vvsxs4PY2V29Pucv5d8Y5yjGprZsQDs4aNbWc/p.pdf#page=12)
+#### July
+- [Rose Canyon Bridge Replacements Draft EIS](https://pub-sandag.escribemeetings.com/FileStream.ashx?DocumentId=12945#page=48)
 
 ### 2030
 - [Balboa Double Track Extension](https://www.metro.net/projects/avl)
@@ -136,6 +132,7 @@
 - [Sorrento to Miramar Phase 2?](https://www.keepsandiegomoving.com/Lossan-Group/lossan-sorrento-miramar-schedule.aspx)
 
 ### 2031
+- [LA River Bike Path](https://www.metro.net/projects/lariverpath)
 #### Jan
 - [I-5/SR 56 Bike Extension](https://www.sandag.org/uploads/projectid/projectid_604_28513.pdf#page=64)
 #### Late
