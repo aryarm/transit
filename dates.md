@@ -40,7 +40,6 @@
 
 ### 2027
 - [G (Orange) Line BRT Improvements](https://www.metro.net/projects/orangeline)
-- [C (Green) Line LRT Extension to Torrance](http://media.metro.net/projects_studies/resources/images/att_a_28x28_list.pdf)
 - [East San Fernando Valley Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Carlsbad Village Double Track](http://www.ci.encinitas.ca.us/Portals/0/City%20Documents/Documents/Development%20Services/Planning/Advanced%20Planning/CMLS/LOSSAN%20SD%20CBVDT%20Trench%20Feasibility%20Study.pdf#%5B%7B%22num%22%3A138%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C699%2C0%5D)
@@ -50,7 +49,6 @@
 - [Del Mar Bluffs V](https://pub-sandag.escribemeetings.com/FileStream.ashx?DocumentId=12945#page=48)
 - [Eastern Hillcrest Bikeway](https://pub-sandag.escribemeetings.com/FileStream.ashx?DocumentId=12945#page=47)
 #### Early
-- [North Hollywood to Pasadena BRT](https://x.com/numble/status/1869280509152657541?t=c6EHf09pYhk8YOfY9UWocA&s=19)
 - [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 - [Downtown COASTER Platform](https://gonctd.com/downtownplatform)
 - [West Valley Connector BRT](https://www.reddit.com/r/LAMetro/comments/1sqd58j/west_valley_connectorsbx_purple_line_april_2026)
@@ -66,14 +64,11 @@
 - [University Bikeway](https://pub-sandag.escribemeetings.com/FileStream.ashx?DocumentId=12945#page=48)
 #### Fall
 - [D (Purple) Line Extension Phase 3](https://secretlosangeles.com/d-line-extension-phase-1-stations)
+- [North Hollywood to Pasadena BRT](https://youtu.be/3oT_rfZidgw?si=KSluNW7dxEsJTOjA&t=740)
 
 ### 2028
 - [Dodger Stadium Gondola](https://californianewstimes.com/preferred-route-chosen-for-dodger-stadium-to-union-station-gondola-project-press-telegram/349979/)
-- [Foothill L (Gold) Line Extension Phase 2B to Montclair](https://la.curbed.com/2019/8/9/20799124/gold-line-foothill-extension-pomona-funding)
 - [A (Blue) Line Signal and Washington/Flower Junction Improvements](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- [Vermont Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
-- [Sepulveda Pass Phase 1 (San Fernando Valley to Westwood)](https://la.curbed.com/2018/6/12/17455886/sepulveda-pass-metro-transit-monorail-subway)
-- [CAHSR Bakersfield to Merced](https://www.fresnobee.com/news/local/high-speed-rail/article240234126.html)
 - [Link US - Phase A](https://www.metro.net/projects/link-us/)
 - [Gold Line/I-210 Safety Enhancement II](https://metro.legistar.com/View.ashx?M=F&ID=9805232&GUID=C1B232CE-616A-445F-B6DF-FCFBD5DDA242#page=14)
 - [San Dieguito to Sorrento Valley Double Track](https://pub-sandag.escribemeetings.com/FileStream.ashx?DocumentId=12945#page=45)
@@ -83,6 +78,7 @@
 - [Chatsworth Station Improvements Phase 1B](https://metrolinktrains.com/chatsworth-project)
 - [Simi Valley Double Track](https://metrolinktrains.com/about/agency/score/simi-valley-project)
 - [El Monte Siding Extension](https://metrolinktrains.com/el-monte-siding)
+- [Vermont BRT Line](https://youtu.be/3oT_rfZidgw?si=KSluNW7dxEsJTOjA&t=748)
 #### July
 - [Rose Canyon Bridge Replacements Draft EIS](https://pub-sandag.escribemeetings.com/FileStream.ashx?DocumentId=12945#page=48)
 #### Winter
@@ -102,21 +98,27 @@
 
 ### 2031
 - [LA River Bike Path](https://www.metro.net/projects/lariverpath)
+- [Foothill L (Gold) Line Extension Phase 2B to Claremont](https://youtu.be/3oT_rfZidgw?si=OAghUKL6aC92qxfz&t=1613)
 #### Jan
 - [I-5/SR 56 Bike Extension](https://www.sandag.org/uploads/projectid/projectid_604_28513.pdf#page=64)
-#### Late
-- [CAHSR Silicon Valley to Central Valley Line (San Francisco and Merced to Bakersfield)](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=142)
 
-### 2033
-- [West Santa Ana Branch - Phase I](https://thesource.metro.net/2022/01/28/metro-board-approves-route-for-initial-segment-for-west-santa-ana-branch-project-and-union-station-as-northern-terminus/)
-#### Late
-- [CAHSR Phase 1 (San Francisco and Merced to Anaheim)](https://www.hsr.ca.gov/docs/about/business_plans/2020_Business_Plan.pdf#page=142)
+#### 2032
+- [CAHSR Central Valley Segment (Bakersfield to Merced)](https://www.fresnobee.com/news/local/high-speed-rail/article311748729.html)
 
 ### 2034
 - [Del Mar Tunnel](https://www.enr.com/articles/57396-officials-detail-conceptual-plans-for-up-to-4b-southern-california-rail-tunnel)
 
 ### 2035
-- [L (Gold) Line Eastside Extension to Whittier]()
+- [Eastside Transit Corridor Phase 2](https://www.metro.net/projects/eastside_phase2)
+- [Southeast Gateway Line](https://www.metro.net/projects/southeastgateway)
+- [Sepulveda Transit Corridor Phase 1](San Fernando Valley to Westwood)](https://en.wikipedia.org/wiki/Sepulveda_Transit_Corridor)
+
+### 2036
+#### Late
+- [K (Green) Line Extension to Torrance](https://www.metro.net/projects/green-line-extension)
+
+### 2038
+- [CAHSR SF to LA (Gilroy to Palmdale)](https://www.fresnobee.com/news/local/high-speed-rail/article311748729.html)
 
 ### 2040
 - [CA High Speed Rail to San Diego and Los Angeles](http://www.dot.ca.gov/californiarail/)
