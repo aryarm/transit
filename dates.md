@@ -111,7 +111,7 @@
 ### 2035
 - [Eastside Transit Corridor Phase 2](https://www.metro.net/projects/eastside_phase2)
 - [Southeast Gateway Line](https://www.metro.net/projects/southeastgateway)
-- [Sepulveda Transit Corridor Phase 1](San Fernando Valley to Westwood)](https://en.wikipedia.org/wiki/Sepulveda_Transit_Corridor)
+- [Sepulveda Transit Corridor Phase 1 (San Fernando Valley to Westwood)](https://en.wikipedia.org/wiki/Sepulveda_Transit_Corridor)
 
 ### 2036
 #### Late
