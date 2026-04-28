@@ -137,4 +137,4 @@
 - [Vermont BRT to Rail Conversion](https://la.curbed.com/2018/5/7/17317100/los-angeles-subway-vermont-rail)
 
 ### 2067
-- [High Desert Corridor (connect Palmdale to Victorville via Freeway + HSR)](https://thesource.metro.net/2016/04/15/potential-ballot-measure-what-you-need-to-know-about-the-high-desert-corridor-2/)
+- [High Desert Corridor (connect Palmdale to Victorville via Freeway + HSR)](https://highdesertcorridor.org)
