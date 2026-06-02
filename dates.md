@@ -22,17 +22,10 @@
 ### 2026
 - [North San Fernando Valley BRT](https://www.metro.net/projects/north-sfv-brt)
 - [Division 20 Portal Widening and Turnback Facility](https://www.metro.net/projects/division-20/#status)
-#### April
-- [Bayshore Bikeway - Barrio Logan Segment](https://www.keepsandiegomoving.com/RegionalBikeProjects/Bayshore_Bikeway_schedule.aspx)
-- [Border to Bayshore Bikeway](https://www.keepsandiegomoving.com/RegionalBikeProjects/border_to_bayshore_schedule.aspx)
-#### May 8
-- [D (Purple) Line Extension Phase 1](https://secretlosangeles.com/d-line-extension-phase-1-stations/)
-#### Spring
-- [OC Streetcar](https://octa.net/Projects-and-Programs/All-Projects/Rail-Projects/OC-Streetcar/Construction/)
-#### June
-- [LAX People Mover and Connector Station](https://laist.com/brief/transportation/lax-people-mover-delay)
 #### July
 - [Inland Rail Trail - Phase 3](https://pub-sandag.escribemeetings.com/FileStream.ashx?DocumentId=12945#page=45)
+#### September
+- [LAX People Mover and Connector Station](https://www.reddit.com/r/LAMetro/comments/1tgwxuo/when_is_the_earliest_possible_time_the_lax)
 #### Winter
 - [CAHSR LA to Anaheim ROD](https://meethsrsocal.org/la-a-overview)
 #### December
@@ -52,6 +45,8 @@
 - [Serra Siding Extension Project](http://www.octa.net/pdf/DanaPoint_072021_CityCouncilMeetingPresentation.pdf#page=5)
 - [Downtown COASTER Platform](https://gonctd.com/downtownplatform)
 - [West Valley Connector BRT](https://www.reddit.com/r/LAMetro/comments/1sqd58j/west_valley_connectorsbx_purple_line_april_2026)
+#### March
+- [OC Streetcar](https://www.reddit.com/r/LAMetro/comments/1t3kmgq/oc_streetcar_apparently_delayed_from_august_2026)
 #### Spring
 - [Rancho Cucamonga Siding Extension](https://metrolinktrains.com/rancho-cucamonga-siding)
 - [D (Purple) Line Extension Phase 2](https://secretlosangeles.com/d-line-extension-phase-1-stations)
