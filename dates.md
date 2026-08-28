@@ -33,7 +33,6 @@
 
 ### 2027
 - [G (Orange) Line BRT Improvements](https://www.metro.net/projects/orangeline)
-- [East San Fernando Valley Transit Corridor](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [South Bay Light Rail Extension](https://thesource.metro.net/2018/01/25/agenda-and-preview-of-metro-boards-january-meeting/)
 - [Carlsbad Village Double Track](http://www.ci.encinitas.ca.us/Portals/0/City%20Documents/Documents/Development%20Services/Planning/Advanced%20Planning/CMLS/LOSSAN%20SD%20CBVDT%20Trench%20Feasibility%20Study.pdf#%5B%7B%22num%22%3A138%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C699%2C0%5D)
 - [Doran Street Grade Separation](https://www.masstransitmag.com/rail/infrastructure/press-release/53074989/los-angeles-county-metropolitan-transportation-authority-metro-la-metro-receives-383-million-in-funding-for-doran-street-grade-separation-project)
@@ -96,6 +95,8 @@
 - [Foothill L (Gold) Line Extension Phase 2B to Claremont](https://youtu.be/3oT_rfZidgw?si=OAghUKL6aC92qxfz&t=1613)
 #### Jan
 - [I-5/SR 56 Bike Extension](https://www.sandag.org/uploads/projectid/projectid_604_28513.pdf#page=64)
+#### December
+- [East San Fernando Valley Light Rail](https://acppubs.com/CBE/article/FD32C0E4-skanska-joint-venture-awarded-2-43b-contract-for-east-san-fernando-valley-light-rail-transit-project)
 
 #### 2032
 - [CAHSR Central Valley Segment (Bakersfield to Merced)](https://www.fresnobee.com/news/local/high-speed-rail/article311748729.html)
